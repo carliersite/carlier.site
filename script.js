@@ -9,43 +9,43 @@
 const translations = {
     en: {
         nav: {
-            about: 'About',
-            skills: 'Skills',
+            about: 'Background',
+            skills: 'Technologies',
             projects: 'Projects',
             productApps: 'Product Apps',
-            cta: "Let's Talk"
+            cta: "Technical Capabilities"
         },
         hero: {
-            title1: 'Concept, Build, Launch, Scale & Ops',
+            title1: 'Product Engineer & Software Developer',
             title2: '',
-            subtitle1: 'Building ',
-            highlight1: 'Mobile Apps',
-            subtitle2: ', ',
-            highlight2: 'SaaS',
-            subtitle3: ', ',
-            highlight3: ' AI Systems and Infrastructure',
-            subtitle4: ',that scale.',
-            subtitle5: 'to "Building Apps, SaaS, AI Systems and Infrastructure that scale',
-            recentReleases: 'Recent Releases',
-            cta: 'Get in Touch'
+            subtitle1: 'Specializing in Mobile, Web, AI, and Infrastructure Engineering',
+            highlight1: '',
+            subtitle2: '',
+            highlight2: '',
+            subtitle3: '',
+            highlight3: '',
+            subtitle4: '',
+            subtitle5: '',
+            recentReleases: 'Production Systems',
+            cta: 'Technical Capabilities'
         },
         about: {
-            tag: 'About Me',
-            title: 'Building products that matter',
-            text1: "I'm a founder and Software Engineer passionate about creating impactful products. With expertise spanning from mobile development, SaaS, AI Systems & Systems Architecture, I help startups and businesses bring their visions to life.",
-            text2: "Whether it's a native mobile app, an AI system, a cross-platform solution, or a scalable SaaS platform, I approach every project with a focus on user experience, performance, and business goals.",
-            value1: { title: 'Execution', desc: 'Rapid prototyping and iterative development to get your product to market quickly.' },
-            value2: { title: 'End-to-End', desc: 'From design to deployment, I handle every aspect of product development.' },
-            value3: { title: 'Quality', desc: 'Clean code, thoughtful UX, and scalable architecture in every project.' }
+            tag: 'Background',
+            title: 'Technical Expertise',
+            text1: "Software Engineer with expertise in Mobile, Web, AI Systems, and Infrastructure Engineering.",
+            text2: "Delivering production-ready solutions across multiple platforms and technologies.",
+            value1: { title: 'Engineering', desc: 'Production-grade implementations with scalability in mind' },
+            value2: { title: 'Full-Stack', desc: 'Complete solutions from frontend to infrastructure' },
+            value3: { title: 'Performance', desc: 'Optimized systems for reliability and efficiency' }
         },
         skills: {
-            tag: 'Expertise',
-            title: 'Technologies I work with',
-            mobile: 'Mobile Development',
+            tag: 'Technologies',
+            title: 'Technical Stack',
+            mobile: 'Mobile',
             web: 'Web & SaaS',
-            business: 'Business Software Solutions',
+            business: 'Business Software',
             design: 'Design & Product',
-            ai: 'AI Systems',
+            ai: 'AI & Systems',
             infra: 'Infrastructure'
         },
         projects: {
