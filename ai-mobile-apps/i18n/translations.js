@@ -6,7 +6,7 @@ const translations = {
       "about": "About",
       "skills": "Skills",
       "aiApps": "AI mobile apps",
-      "contact": "Contact Me"
+      "contact": "Contact Us"
     },
     "hero": {
       "eyebrow": "Mobile Apps",
@@ -53,7 +53,7 @@ const translations = {
     "storeBtn": "Get on Google Play",
     "cta": {
       "title": "Technical Consultation",
-      "subtitle": "I develop AI-native mobile applications from specification to App Store and Google Play deployment.",
+      "subtitle": "We develop AI-native mobile applications from specification to App Store and Google Play deployment.",
       "primary": "Get in Touch",
       "secondary": "Back to Home"
     },
@@ -83,7 +83,7 @@ const translations = {
       "about": "À propos",
       "skills": "Compétences",
       "aiApps": "Apps IA",
-      "contact": "Contactez-moi"
+      "contact": "Contactez-nous"
     },
     "hero": {
       "eyebrow": "Applications Mobiles",
@@ -130,8 +130,8 @@ const translations = {
     "storeBtn": "Obtenir sur Google Play",
     "cta": {
       "title": "Vous avez une idée d'application ?",
-      "subtitle": "Je construis des applications mobiles natives IA du concept à l'App Store et Google Play. Transformons votre vision en un produit que les gens adorent.",
-      "primary": "Contactez-moi",
+      "subtitle": "Nous concevons des applications mobiles natives IA du concept à l'App Store et Google Play. Transformons votre vision en un produit que les gens adorent.",
+      "primary": "Contactez-nous",
       "secondary": "Retour à l'accueil"
     },
     "footer": {
@@ -314,7 +314,7 @@ const translations = {
       "about": "Chi sono",
       "skills": "Competenze",
       "aiApps": "App IA",
-      "contact": "Contattami"
+      "contact": "Contattaci"
     },
     "hero": {
       "eyebrow": "App Mobili",
@@ -361,7 +361,7 @@ const translations = {
     "storeBtn": "Ottieni su Google Play",
     "cta": {
       "title": "Hai un'idea per un'app?",
-      "subtitle": "Costruisco app mobili native IA dal concetto all'App Store e Google Play. Trasformiamo la tua visione in un prodotto che la gente ama.",
+      "subtitle": "Costruiamo app mobili native IA dal concetto all'App Store e Google Play. Trasformiamo la tua visione in un prodotto che la gente ama.",
       "primary": "Mettiti in contatto",
       "secondary": "Torna alla Home"
     },
@@ -545,7 +545,7 @@ const translations = {
       "about": "关于",
       "skills": "技能",
       "aiApps": "AI应用",
-      "contact": "联系我"
+      "contact": "联系我们"
     },
     "hero": {
       "eyebrow": "移动应用",
@@ -593,7 +593,7 @@ const translations = {
     "cta": {
       "title": "有应用想法吗？",
       "subtitle": "我从概念到App Store和Google Play构建AI原生移动应用。让我们将您的愿景变成用户喜爱的产品。",
-      "primary": "联系我",
+      "primary": "联系我们",
       "secondary": "返回首页"
     },
     "footer": {
@@ -622,7 +622,7 @@ const translations = {
       "about": "關於",
       "skills": "技能",
       "aiApps": "AI應用",
-      "contact": "聯繫我"
+      "contact": "聯繫我們"
     },
     "hero": {
       "eyebrow": "行動應用",
@@ -670,7 +670,7 @@ const translations = {
     "cta": {
       "title": "有應用程式想法嗎？",
       "subtitle": "我從概念到App Store和Google Play構建AI原生行動應用。讓我們將您的願景變成用戶喜愛的產品。",
-      "primary": "聯繫我",
+      "primary": "聯繫我們",
       "secondary": "返回首頁"
     },
     "footer": {

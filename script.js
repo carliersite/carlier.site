@@ -16,9 +16,9 @@ const translations = {
             cta: "Technical Capabilities"
         },
         hero: {
-            title1: 'Product Engineer & Software Developer',
+            title1: 'Software Engineering & Product Development',
             title2: '',
-            subtitle1: 'Specializing in Mobile, Web, AI, and Infrastructure Engineering',
+            subtitle1: 'Mobile, Web, AI, Cybersecurity, and Infrastructure Engineering',
             highlight1: '',
             subtitle2: '',
             highlight2: '',
@@ -32,7 +32,7 @@ const translations = {
         about: {
             tag: 'Background',
             title: 'Technical Expertise',
-            text1: "Software Engineer with expertise in Mobile, Web, AI Systems, and Infrastructure Engineering.",
+            text1: "Software engineering expertise across Mobile, Web, AI Systems, Cybersecurity, and Infrastructure Engineering.",
             text2: "Delivering production-ready solutions across multiple platforms and technologies.",
             value1: { title: 'Engineering', desc: 'Production-grade implementations with scalability in mind' },
             value2: { title: 'Full-Stack', desc: 'Complete solutions from frontend to infrastructure' },
@@ -77,7 +77,7 @@ const translations = {
         contact: {
             tag: 'Get In Touch',
             title: "Technical Consultation",
-            text: "Available for engineering projects and technical consulting. Contact me to discuss requirements and solutions."
+            text: "Available for engineering projects and technical consulting. Contact us to discuss requirements and solutions."
         },
         footer: {
             tagline: 'Engineering scalable technical solutions.',
@@ -123,12 +123,12 @@ const translations = {
             cta: 'Зв\'язатися'
         },
         about: {
-            tag: 'Про мене',
-            title: 'Створюю продукти, які мають значення',
-            text1: "Я засновник і Software Engineer, який захоплюється створенням впливових продуктів. Маючи досвід від мобільної розробки, SaaS, ШІ систем до архітектури систем, я допомагаю стартапам і бізнесам втілювати їхні бачення.",
-            text2: "Будь то нативний мобільний додаток, ШІ система, кросплатформне рішення або масштабована SaaS платформа, я підходжу до кожного проєкту з фокусом на користувацький досвід, продуктивність та бізнес-цілі.",
+            tag: 'Про компанію',
+            title: 'Створюємо продукти, які мають значення',
+            text1: "Маємо досвід у мобільній розробці, SaaS, ШІ системах та архітектурі систем. Допомагаємо стартапам і бізнесам втілювати їхні бачення в робочі продукти.",
+            text2: "Будь то нативний мобільний додаток, ШІ система, кросплатформне рішення або масштабована SaaS платформа, ми підходимо до кожного проєкту з фокусом на користувацький досвід, продуктивність та бізнес-цілі.",
             value1: { title: 'Виконання', desc: 'Швидке прототипування та ітеративна розробка для швидкого виведення вашого продукту на ринок.' },
-            value2: { title: 'Від і до', desc: 'Від дизайну до розгортання, я керую кожним аспектом розробки продукту.' },
+            value2: { title: 'Від і до', desc: 'Від дизайну до розгортання, ми керуємо кожним аспектом розробки продукту.' },
             value3: { title: 'Якість', desc: 'Чистий код, продуманий UX і масштабована архітектура в кожному проєкті.' }
         },
         skills: {
@@ -302,29 +302,29 @@ const translations = {
             skills: 'Competências',
             projects: 'Projetos',
             productApps: 'Apps de Produto',
-            cta: 'Fale Comigo'
+            cta: 'Fale Connosco'
         },
         hero: {
             title1: 'Conceito, Construir, Lançar, Escalar & Operações',
             title2: '',
-            subtitle1: 'A construir ',
+            subtitle1: 'Construímos ',
             highlight1: 'Apps Móveis',
             subtitle2: ', ',
             highlight2: 'SaaS',
             subtitle3: ', ',
             highlight3: ' Sistemas de IA e Infraestrutura',
             subtitle4: ',que escalam.',
-            subtitle5: 'A construir Apps Móveis, SaaS, Sistemas de IA e Infraestrutura que escalam',
+            subtitle5: 'Construímos Apps Móveis, SaaS, Sistemas de IA e Infraestrutura que escalam',
             recentReleases: 'Lançamentos recentes',
-            cta: 'Contacte-me'
+            cta: 'Fale Connosco'
         },
         about: {
-            tag: 'Sobre Mim',
-            title: 'A construir produtos que importam',
-            text1: 'Sou fundador e Engenheiro de Software apaixonado por criar produtos impactantes. Com conhecimento especializado que abrange desenvolvimento móvel, SaaS, Sistemas de IA e Arquitetura de Sistemas, ajudo startups e empresas a realizarem as suas visões.',
-            text2: 'Seja uma aplicação móvel nativa, um sistema de IA, uma solução multiplataforma ou uma plataforma SaaS escalável, abordo cada projeto com foco na experiência do utilizador, no desempenho e nos objetivos de negócio.',
+            tag: 'Sobre',
+            title: 'Construímos produtos que importam',
+            text1: 'Com experiência em desenvolvimento móvel, SaaS, sistemas de IA e arquitetura de sistemas, ajudamos startups e empresas a transformar as suas ideias em produtos robustos e escaláveis.',
+            text2: 'Seja uma aplicação móvel nativa, um sistema de IA, uma solução multiplataforma ou uma plataforma SaaS escalável, abordamos cada projeto com foco na experiência do utilizador, no desempenho e nos objetivos de negócio.',
             value1: { title: 'Execução', desc: 'Criação rápida de protótipos e desenvolvimento iterativo para levar o seu produto ao mercado rapidamente.' },
-            value2: { title: 'De Ponta a Ponta', desc: 'Do design ao deployment, trato de cada aspeto do desenvolvimento de produtos.' },
+            value2: { title: 'De Ponta a Ponta', desc: 'Do design ao deployment, tratamos de cada aspeto do desenvolvimento de produtos.' },
             value3: { title: 'Qualidade', desc: 'Código limpo, UX bem pensada e arquitetura escalável em cada projeto.' }
         },
         skills: {
@@ -368,9 +368,9 @@ const translations = {
             }
         },
         contact: {
-            tag: 'Contacte-me',
+            tag: 'Contacte-nos',
             title: 'Consultoria Técnica',
-            text: 'Disponível para projetos de engenharia e consultoria técnica. Entre em contato para discutir requisitos e soluções.'
+            text: 'Disponível para projetos de engenharia e consultoria técnica. Contacte-nos para discutir requisitos e soluções.'
         },
         footer: {
             tagline: 'Engenharia de soluções técnicas escaláveis.',
@@ -417,12 +417,12 @@ const translations = {
             cta: 'Ponte en Contacto'
         },
         about: {
-            tag: 'Sobre Mí',
-            title: 'Construyendo productos que importan',
-            text1: 'Soy fundador e Ingeniero de Software apasionado por crear productos impactantes. Con experiencia que abarca desde desarrollo móvil, SaaS, Sistemas de IA y Arquitectura de Sistemas, ayudo a startups y empresas a hacer realidad sus visiones.',
-            text2: 'Ya sea una aplicación móvil nativa, un sistema de IA, una solución multiplataforma o una plataforma SaaS escalable, abordo cada proyecto con enfoque en la experiencia del usuario, rendimiento y objetivos de negocio.',
+            tag: 'Sobre nosotros',
+            title: 'Construimos productos que importan',
+            text1: 'Con experiencia en desarrollo móvil, SaaS, sistemas de IA y arquitectura de sistemas, ayudamos a startups y empresas a convertir sus ideas en productos sólidos y escalables.',
+            text2: 'Ya sea una aplicación móvil nativa, un sistema de IA, una solución multiplataforma o una plataforma SaaS escalable, abordamos cada proyecto con enfoque en la experiencia del usuario, rendimiento y objetivos de negocio.',
             value1: { title: 'Ejecución', desc: 'Prototipado rápido y desarrollo iterativo para llevar tu producto al mercado rápidamente.' },
-            value2: { title: 'De Principio a Fin', desc: 'Del diseño al deployment, manejo cada aspecto del desarrollo de productos.' },
+            value2: { title: 'De Principio a Fin', desc: 'Del diseño al deployment, gestionamos cada aspecto del desarrollo de productos.' },
             value3: { title: 'Calidad', desc: 'Código limpio, UX bien pensada y arquitectura escalable en cada proyecto.' }
         },
         skills: {
@@ -468,7 +468,7 @@ const translations = {
         contact: {
             tag: 'Ponte en Contacto',
             title: 'Consultoría Técnica',
-            text: 'Disponible para proyectos de ingeniería y consultoría técnica. Contáctame para discutir requisitos y soluciones.'
+            text: 'Disponible para proyectos de ingeniería y consultoría técnica. Contáctanos para discutir requisitos y soluciones.'
         },
         footer: {
             tagline: 'Ingeniería de soluciones técnicas escalables.',
@@ -515,12 +515,12 @@ const translations = {
             cta: 'Prenez Contact'
         },
         about: {
-            tag: 'À Propos de Moi',
-            title: 'Construire des produits qui comptent',
-            text1: 'Je suis fondateur et Ingénieur logiciel passionné par la création de produits impactants. Avec une expertise couvrant le développement mobile, le SaaS, les Systèmes d\'IA et l\'Architecture Système, j\'aide les startups et les entreprises à réaliser leurs visions.',
-            text2: 'Qu\'il s\'agisse d\'une application mobile native, d\'un système d\'IA, d\'une solution multiplateforme ou d\'une plateforme SaaS scalable, j\'aborde chaque projet avec un focus sur l\'expérience utilisateur, la performance et les objectifs business.',
+            tag: 'À Propos',
+            title: 'Nous construisons des produits qui comptent',
+            text1: 'Avec une expertise couvrant le développement mobile, le SaaS, les systèmes d\'IA et l\'architecture système, nous aidons les startups et les entreprises à transformer leurs idées en produits solides et évolutifs.',
+            text2: 'Qu\'il s\'agisse d\'une application mobile native, d\'un système d\'IA, d\'une solution multiplateforme ou d\'une plateforme SaaS scalable, nous abordons chaque projet avec un focus sur l\'expérience utilisateur, la performance et les objectifs business.',
             value1: { title: 'Exécution', desc: 'Prototypage rapide et développement itératif pour mettre votre produit sur le marché rapidement.' },
-            value2: { title: 'De A à Z', desc: 'Du design au déploiement, je gère chaque aspect du développement produit.' },
+            value2: { title: 'De A à Z', desc: 'Du design au déploiement, nous gérons chaque aspect du développement produit.' },
             value3: { title: 'Qualité', desc: 'Code propre, UX réfléchie et architecture scalable dans chaque projet.' }
         },
         skills: {
@@ -566,7 +566,7 @@ const translations = {
         contact: {
             tag: 'Prenez Contact',
             title: 'Consultation Technique',
-            text: 'Disponible pour des projets d\'ingénierie et de consultation technique. Contactez-moi pour discuter des exigences et des solutions.'
+            text: 'Disponible pour des projets d\'ingénierie et de consultation technique. Contactez-nous pour discuter des exigences et des solutions.'
         },
         footer: {
             tagline: 'Conception de solutions techniques évolutives.',
@@ -596,7 +596,7 @@ const translations = {
             skills: '技能',
             projects: '專案',
             productApps: '產品應用',
-            cta: '聯繫我'
+        cta: '聯繫我們'
         },
         hero: {
             title1: '概念、構建、啟動、擴展 & 運營',
@@ -610,20 +610,20 @@ const translations = {
             subtitle4: '，實現規模化。',
             subtitle5: '構建移動應用、SaaS、AI 系統和基礎設施，實現規模化',
             recentReleases: '最新發布',
-            cta: '聯繫我'
+        cta: '聯繫我們'
         },
         about: {
-            tag: '關於我',
+            tag: '關於我們',
             title: '構建有價值的產品',
-            text1: '我是一名創辦人兼軟體工程師，熱衷於創造有影響力的產品。憑藉從移動開發、SaaS、AI 系統到系統架構的專業知識，我幫助初創企業和公司實現他們的願景。',
-            text2: '無論是原生移動應用、AI 系統、跨平台解決方案還是可擴展的 SaaS 平台，我以用戶體驗、性能和業務目標為重點來處理每個項目。',
+            text1: '憑藉移動開發、SaaS、AI 系統與系統架構的專業知識，我們協助初創企業與公司將想法轉化為穩健且可擴展的產品。',
+            text2: '無論是原生移動應用、AI 系統、跨平台解決方案還是可擴展的 SaaS 平台，我們都以用戶體驗、性能和業務目標為重點來處理每個項目。',
             value1: { title: '執行', desc: '快速原型設計和迭代開發，讓您的產品快速進入市場。' },
-            value2: { title: '端到端', desc: '從設計到部署，我處理產品開發的各個方面。' },
+            value2: { title: '端到端', desc: '從設計到部署，我們處理產品開發的各個方面。' },
             value3: { title: '品質', desc: '每個項目都注重清晰的代碼、周到的 UX 和可擴展的架構。' }
         },
         skills: {
             tag: '專業領域',
-            title: '我使用的技術',
+        title: '我們使用的技術',
             mobile: '移動開發',
             web: '網頁與 SaaS',
             business: '企業軟件解決方案',
@@ -662,9 +662,9 @@ const translations = {
             }
         },
         contact: {
-            tag: '聯繫我',
+            tag: '聯繫我們',
             title: '技術諮詢',
-            text: '可提供工程專案與技術諮詢服務。請聯繫我討論需求和解決方案。'
+            text: '可提供工程專案與技術諮詢服務。請聯繫我們討論需求和解決方案。'
         },
         footer: {
             tagline: '工程可擴展技術解決方案。',
@@ -694,7 +694,7 @@ const translations = {
             skills: '技能',
             projects: '项目',
             productApps: '产品应用',
-            cta: '联系我'
+            cta: '联系我们'
         },
         hero: {
             title1: '概念、构建、启动、扩展 & 运营',
@@ -708,20 +708,20 @@ const translations = {
             subtitle4: '，实现规模化。',
             subtitle5: '构建移动应用、SaaS、AI 系统和基础设施，实现规模化',
             recentReleases: '最新发布',
-            cta: '联系我'
+            cta: '联系我们'
         },
         about: {
-            tag: '关于我',
+            tag: '关于我们',
             title: '构建有价值的产品',
-            text1: '我是一名创始人兼软件工程师，热衷于创造有影响力的产品。凭借从移动开发、SaaS、AI 系统到系统架构的专业知识，我帮助初创企业和公司实现他们的愿景。',
-            text2: '无论是原生移动应用、AI 系统、跨平台解决方案还是可扩展的 SaaS 平台，我以用户体验、性能 and 业务目标为重点来处理每个项目。',
+            text1: '凭借移动开发、SaaS、AI 系统与系统架构的专业知识，我们协助初创企业和公司将想法转化为稳健且可扩展的产品。',
+            text2: '无论是原生移动应用、AI 系统、跨平台解决方案还是可扩展的 SaaS 平台，我们都以用户体验、性能和业务目标为重点来处理每个项目。',
             value1: { title: '执行', desc: '快速原型设计和迭代开发，让您的产品快速进入市场。' },
-            value2: { title: '端到端', desc: '从设计到部署，我处理产品开发的各个方面。' },
+            value2: { title: '端到端', desc: '从设计到部署，我们处理产品开发的各个方面。' },
             value3: { title: '品质', desc: '每个项目都注重清晰的代码、周到的 UX 和可扩展的架构。' }
         },
         skills: {
             tag: '专业领域',
-            title: '我使用的技术',
+            title: '我们使用的技术',
             mobile: '移动开发',
             web: '网页与 SaaS',
             business: '企业软件解决方案',
@@ -760,9 +760,9 @@ const translations = {
             }
         },
         contact: {
-            tag: '联系我',
+            tag: '联系我们',
             title: '技术咨询',
-            text: '可提供工程项目与技术咨询服务。请联系我讨论需求和解决方案。'
+            text: '可提供工程项目与技术咨询服务。请联系我们讨论需求和解决方案。'
         },
         footer: {
             tagline: '工程可扩展技术解决方案。',
@@ -808,12 +808,12 @@ const translations = {
             cta: 'संपर्क करें'
         },
         about: {
-            tag: 'मेरे बारे में',
-            title: 'मायने रखने वाले उत्पाद बना रहे हैं',
-            text1: 'मैं एक संस्थापक और सॉफ्टवेयर इंजीनियर हूं जो प्रभावशाली उत्पाद बनाने का शौकीन है। मोबाइल डेवलपमेंट, SaaS, AI सिस्टम और सिस्टम आर्किटेक्चर में विशेषज्ञता के साथ, मैं स्टार्टअप्स और व्यवसायों को अपनी दृष्टि को जीवंत करने में मदद करता हूं।',
-            text2: 'चाहे वह एक नेटिव मोबाइल ऐप हो, AI सिस्टम, क्रॉस-प्लेटफॉर्म समाधान, या स्केलेबल SaaS प्लेटफॉर्म, मैं हर प्रोजेक्ट को यूजर एक्सपीरियंस, परफॉर्मेंस और बिजनेस गोल्स पर फोकस के साथ अप्रोच करता हूं।',
+            tag: 'हमारे बारे में',
+            title: 'मामूली नहीं, असरदार उत्पाद बनाते हैं',
+            text1: 'मोबाइल डेवलपमेंट, SaaS, AI सिस्टम और सिस्टम आर्किटेक्चर में विशेषज्ञता के साथ, हम स्टार्टअप्स और व्यवसायों को मजबूत, स्केलेबल उत्पादों में बदलने में मदद करते हैं।',
+            text2: 'चाहे वह एक नेटिव मोबाइल ऐप हो, AI सिस्टम, क्रॉस-प्लेटफॉर्म समाधान, या स्केलेबल SaaS प्लेटफॉर्म, हम हर प्रोजेक्ट को यूजर एक्सपीरियंस, परफॉर्मेंस और बिजनेस गोल्स पर फोकस के साथ अप्रोच करते हैं।',
             value1: { title: 'एक्जीक्यूशन', desc: 'रैपिड प्रोटोटाइपिंग और इटरेटिव डेवलपमेंट ताकि आपका उत्पाद जल्दी बाजार में आ सके।' },
-            value2: { title: 'एंड-टू-एंड', desc: 'डिजाइन से डिप्लॉयमेंट तक, मैं प्रोडक्ट डेवलपमेंट के हर पहलू को संभालता हूं।' },
+            value2: { title: 'एंड-टू-एंड', desc: 'डिजाइन से डिप्लॉयमेंट तक, हम प्रोडक्ट डेवलपमेंट के हर पहलू को संभालते हैं।' },
             value3: { title: 'क्वालिटी', desc: 'हर प्रोजेक्ट में क्लीन कोड, सोची-समझी UX और स्केलेबल आर्किटेक्चर।' }
         },
         skills: {
@@ -859,7 +859,7 @@ const translations = {
         contact: {
             tag: 'संपर्क करें',
             title: 'तकनीकी परामर्श',
-            text: 'इंजीनियरिंग परियोजनाओं और तकनीकी सलाहकार सेवा के लिए उपलब्ध हूँ। आवश्यकताओं और समाधानों पर चर्चा करने के लिए मुझसे संपर्क करें।'
+            text: 'इंजीनियरिंग परियोजनाओं और तकनीकी सलाहकार सेवा के लिए उपलब्ध हैं। आवश्यकताओं और समाधानों पर चर्चा करने के लिए हमसे संपर्क करें।'
         },
         footer: {
             tagline: 'स्केलेबल तकनीकी समाधान इंजीनियरिंग।',
@@ -906,9 +906,9 @@ const translations = {
             cta: 'お問い合わせ'
         },
         about: {
-            tag: '私について',
+            tag: '私たちについて',
             title: '意義のある製品を構築する',
-            text1: '私は影響力のある製品を作ることに情熱を持つ創業者兼ソフトウェアエンジニアです。モバイル開発、SaaS、AIシステム、システムアーキテクチャにわたる専門知識を持ち、スタートアップや企業がビジョンを実現するのをお手伝いします。',
+            text1: 'モバイル開発、SaaS、AIシステム、システムアーキテクチャにわたる専門知識を持ち、スタートアップや企業がビジョンを現実の製品へと変えるお手伝いをしています。',
             text2: 'ネイティブモバイルアプリ、AIシステム、クロスプラットフォームソリューション、スケーラブルなSaaSプラットフォームのいずれであれ、ユーザー体験、パフォーマンス、ビジネス目標に焦点を当てて各プロジェクトに取り組みます。',
             value1: { title: '実行', desc: '迅速なプロトタイピングと反復的な開発により、製品を迅速に市場に投入します。' },
             value2: { title: 'エンドツーエンド', desc: 'デザインからデプロイメントまで、製品開発のあらゆる側面を担当します。' },
@@ -987,7 +987,7 @@ const translations = {
             skills: 'المهارات',
             projects: 'المشاريع',
             productApps: 'تطبيقات المنتجات',
-            cta: 'تواصل معي'
+            cta: 'تواصل معنا'
         },
         hero: {
             title1: 'مفهوم، بناء، إطلاق، توسيع & عمليات',
@@ -1001,20 +1001,20 @@ const translations = {
             subtitle4: '،القابلة للتوسع.',
             subtitle5: 'نبني تطبيقات الجوال وSaaS وأنظمة الذكاء الاصطناعي والبنية التحتية القابلة للتوسع',
             recentReleases: 'الإصدارات الأخيرة',
-            cta: 'تواصل معي'
+            cta: 'تواصل معنا'
         },
         about: {
-            tag: 'عني',
+            tag: 'عنا',
             title: 'نبني منتجات ذات أهمية',
-            text1: 'أنا مؤسس ومهندس برمجيات شغوف بإنشاء منتجات مؤثرة. بفضل خبرة تمتد من تطوير الجوال وSaaS وأنظمة الذكاء الاصطناعي وهندسة الأنظمة، أساعد الشركات الناشئة والشركات على تحقيق رؤاهم.',
-            text2: 'سواء كان تطبيق جوال أصلي، أو نظام ذكاء اصطناعي، أو حل متعدد المنصات، أو منصة SaaS قابلة للتوسع، أتعامل مع كل مشروع مع التركيز على تجربة المستخدم والأداء وأهداف العمل.',
+            text1: 'بفضل خبرة تمتد من تطوير الجوال وSaaS وأنظمة الذكاء الاصطناعي وهندسة الأنظمة، نساعد الشركات الناشئة والشركات على تحويل أفكارها إلى منتجات قوية وقابلة للتطوير.',
+            text2: 'سواء كان تطبيق جوال أصلي، أو نظام ذكاء اصطناعي، أو حل متعدد المنصات، أو منصة SaaS قابلة للتوسع، نتعامل مع كل مشروع مع التركيز على تجربة المستخدم والأداء وأهداف العمل.',
             value1: { title: 'تنفيذ', desc: 'النمذجة السريعة والتطوير التكراري لإدخال منتجك إلى السوق بسرعة.' },
-            value2: { title: 'من الألف إلى الياء', desc: 'من التصميم إلى النشر، أتعامل مع كل جانب من جوانب تطوير المنتج.' },
+            value2: { title: 'من الألف إلى الياء', desc: 'من التصميم إلى النشر، نتعامل مع كل جانب من جوانب تطوير المنتج.' },
             value3: { title: 'الجودة', desc: 'كود نظيف وتجربة مستخدم مدروسة وهندسة قابلة للتوسع في كل مشروع.' }
         },
         skills: {
             tag: 'الخبرة',
-            title: 'التقنيات التي أعمل بها',
+            title: 'التقنيات التي نعمل بها',
             mobile: 'تطوير الجوال',
             web: 'Web وSaaS',
             business: 'حلول برامج الأعمال',
@@ -1053,9 +1053,9 @@ const translations = {
             }
         },
         contact: {
-            tag: 'تواصل معي',
+            tag: 'تواصل معنا',
             title: 'الاستشارة التقنية',
-            text: 'متاح للمشاريع الهندسية والاستشارات التقنية. تواصل معي لمناقشة المتطلبات والحلول.'
+            text: 'متاح للمشاريع الهندسية والاستشارات التقنية. تواصل معنا لمناقشة المتطلبات والحلول.'
         },
         footer: {
             tagline: 'هندسة حلول تقنية قابلة للتطوير.',
@@ -1102,17 +1102,17 @@ const translations = {
             cta: 'Kontaktieren'
         },
         about: {
-            tag: 'Über mich',
-            title: 'Produkte bauen, die zählen',
-            text1: 'Ich bin ein Gründer und Software-Ingenieur, der leidenschaftlich daran ist, wirkungsvolle Produkte zu schaffen. Mit Expertise in mobiler Entwicklung, SaaS, KI-Systemen und Systemarchitektur helfe ich Startups und Unternehmen, ihre Visionen zu verwirklichen.',
-            text2: 'Ob native Mobile-App, KI-System, plattformübergreifende Lösung oder skalierbare SaaS-Plattform – ich gehe jedes Projekt mit Fokus auf Benutzererfahrung, Leistung und Geschäftsziele an.',
+            tag: 'Über uns',
+            title: 'Wir bauen Produkte, die zählen',
+            text1: 'Mit Expertise in mobiler Entwicklung, SaaS, KI-Systemen und Systemarchitektur unterstützen wir Startups und Unternehmen dabei, ihre Ideen in robuste, skalierbare Produkte zu verwandeln.',
+            text2: 'Ob native Mobile-App, KI-System, plattformübergreifende Lösung oder skalierbare SaaS-Plattform – wir gehen jedes Projekt mit Fokus auf Benutzererfahrung, Leistung und Geschäftsziele an.',
             value1: { title: 'Umsetzung', desc: 'Schnelles Prototyping und iterative Entwicklung, um Ihr Produkt schnell auf den Markt zu bringen.' },
-            value2: { title: 'End-to-End', desc: 'Vom Design bis zur Deployment kümmere ich mich um jeden Aspekt der Produktentwicklung.' },
+            value2: { title: 'End-to-End', desc: 'Vom Design bis zur Deployment kümmern wir uns um jeden Aspekt der Produktentwicklung.' },
             value3: { title: 'Qualität', desc: 'Sauberer Code, durchdachtes UX und skalierbare Architektur in jedem Projekt.' }
         },
         skills: {
             tag: 'Expertise',
-            title: 'Technologien, mit denen ich arbeite',
+            title: 'Technologien, mit denen wir arbeiten',
             mobile: 'Mobile Entwicklung',
             web: 'Web & SaaS',
             business: 'Business-Software-Lösungen',
@@ -1153,7 +1153,7 @@ const translations = {
         contact: {
             tag: 'Kontaktieren',
             title: 'Technische Beratung',
-            text: 'Verfügbar für Ingenieursprojekte und technische Beratung. Kontaktieren Sie mich, um Anforderungen und Lösungen zu besprechen.'
+            text: 'Verfügbar für Ingenieursprojekte und technische Beratung. Kontaktieren Sie uns, um Anforderungen und Lösungen zu besprechen.'
         },
         footer: {
             tagline: 'Skalierbare technische Lösungen entwickeln.',
@@ -1188,29 +1188,29 @@ const translations = {
         hero: {
             title1: 'Concetto, Costruzione, Lancio, Scala & Operazioni',
             title2: '',
-            subtitle1: 'Costruisco ',
+            subtitle1: 'Costruiamo ',
             highlight1: 'App Mobile',
             subtitle2: ', ',
             highlight2: 'SaaS',
             subtitle3: ', ',
             highlight3: ' Sistemi IA e Infrastruttura',
             subtitle4: ',che scalano.',
-            subtitle5: 'Costruisco App Mobile, SaaS, Sistemi IA e Infrastruttura che scalano',
+            subtitle5: 'Costruiamo App Mobile, SaaS, Sistemi IA e Infrastruttura che scalano',
             recentReleases: 'Ultime uscite',
-            cta: 'Contattami'
+            cta: 'Contattaci'
         },
         about: {
-            tag: 'Chi sono',
-            title: 'Costruire prodotti che contano',
-            text1: 'Sono un fondatore e Ingegnere del Software appassionato di creare prodotti impattanti. Con competenze che spaziano dallo sviluppo mobile, SaaS, Sistemi IA e Architettura dei Sistemi, aiuto startup e aziende a realizzare le loro visioni.',
-            text2: 'Che si tratti di un\'app mobile nativa, un sistema IA, una soluzione multipiattaforma o una piattaforma SaaS scalabile, affronto ogni progetto con focus sull\'esperienza utente, performance e obiettivi di business.',
+            tag: 'Chi siamo',
+            title: 'Costruiamo prodotti che contano',
+            text1: 'Con competenze che spaziano dallo sviluppo mobile, SaaS, sistemi IA e architettura dei sistemi, aiutiamo startup e aziende a trasformare le loro idee in prodotti robusti e scalabili.',
+            text2: 'Che si tratti di un\'app mobile nativa, un sistema IA, una soluzione multipiattaforma o una piattaforma SaaS scalabile, affrontiamo ogni progetto con focus sull\'esperienza utente, performance e obiettivi di business.',
             value1: { title: 'Esecuzione', desc: 'Prototipazione rapida e sviluppo iterativo per portare il tuo prodotto sul mercato velocemente.' },
-            value2: { title: 'End-to-End', desc: 'Dal design al deployment, gestisco ogni aspetto dello sviluppo del prodotto.' },
+            value2: { title: 'End-to-End', desc: 'Dal design al deployment, gestiamo ogni aspetto dello sviluppo del prodotto.' },
             value3: { title: 'Qualità', desc: 'Codice pulito, UX ben pensata e architettura scalabile in ogni progetto.' }
         },
         skills: {
             tag: 'Competenze',
-            title: 'Tecnologie con cui lavoro',
+            title: 'Tecnologie con cui lavoriamo',
             mobile: 'Sviluppo Mobile',
             web: 'Web & SaaS',
             business: 'Soluzioni Software Aziendali',
@@ -1249,9 +1249,9 @@ const translations = {
             }
         },
         contact: {
-            tag: 'Contattami',
+            tag: 'Contattaci',
             title: 'Consulenza Tecnica',
-            text: 'Disponibile per progetti di ingegneria e consulenza tecnica. Contattami per discutere di requisiti e soluzioni.'
+            text: 'Disponibile per progetti di ingegneria e consulenza tecnica. Contattaci per discutere di requisiti e soluzioni.'
         },
         footer: {
             tagline: 'Ingegneria di soluzioni tecniche scalabili.',
@@ -1299,8 +1299,8 @@ const translations = {
         },
         about: {
             tag: '소개',
-            title: '중요한 제품 구축',
-            text1: '저는 영향력 있는 제품을 만드는 데 열정적인 창업자이자 소프트웨어 엔지니어입니다. 모바일 개발, SaaS, AI 시스템 및 시스템 아키텍처에 대한 전문 지식을 통해 스타트업과 기업이 비전을 실현하도록 돕습니다.',
+            title: '중요한 제품을 구축합니다',
+            text1: '모바일 개발, SaaS, AI 시스템, 시스템 아키텍처에 대한 전문 지식으로 스타트업과 기업이 아이디어를 견고하고 확장 가능한 제품으로 바꿀 수 있도록 지원합니다.',
             text2: '네이티브 모바일 앱, AI 시스템, 크로스 플랫폼 솔루션 또는 확장 가능한 SaaS 플랫폼이든, 사용자 경험, 성능 및 비즈니스 목표에 중점을 두고 모든 프로젝트를 접근합니다.',
             value1: { title: '실행', desc: '제품을 빠르게 시장에 출시하기 위한 빠른 프로토타이핑 및 반복적 개발.' },
             value2: { title: '종단 간', desc: '디자인에서 배포까지 제품 개발의 모든 측면을 처리합니다.' },
@@ -1308,7 +1308,7 @@ const translations = {
         },
         skills: {
             tag: '전문성',
-            title: '작업하는 기술',
+            title: '우리가 사용하는 기술',
             mobile: '모바일 개발',
             web: '웹 및 SaaS',
             business: '비즈니스 소프트웨어 솔루션',
@@ -1349,7 +1349,7 @@ const translations = {
         contact: {
             tag: '연락하기',
             title: '기술 상담',
-            text: '엔지니어링 프로젝트 및 기술 컨설팅을 제공합니다. 요구 사항과 솔루션에 대해 논의하기 위해 연락주세요.'
+            text: '엔지니어링 프로젝트 및 기술 컨설팅을 제공합니다. 요구 사항과 솔루션에 대해 논의하기 위해 문의해 주세요.'
         },
         footer: {
             tagline: '확장 가능한 기술 솔루션 엔지니어링.',
@@ -1375,7 +1375,7 @@ const translations = {
     },
     ru: {
         nav: {
-            about: 'О себе',
+            about: 'О нас',
             skills: 'Навыки',
             projects: 'Проекты',
             productApps: 'Продуктовые приложения',
@@ -1384,28 +1384,28 @@ const translations = {
         hero: {
             title1: 'Концепция, Сборка, Запуск, Масштабирование & Эксплуатация',
             title2: '',
-            subtitle1: 'Создаю ',
+            subtitle1: 'Создаём ',
             highlight1: 'мобильные приложения',
             subtitle2: ', ',
             highlight2: 'SaaS',
             subtitle3: ', ',
             highlight3: ' системы ИИ и инфраструктура',
             subtitle4: ',которые масштабируются.',
-            subtitle5: 'Создаю мобильные приложения, SaaS, системы ИИ и инфраструктура, которые масштабируются',
+            subtitle5: 'Создаём мобильные приложения, SaaS, системы ИИ и инфраструктура, которые масштабируются',
             cta: 'Связаться'
         },
         about: {
-            tag: 'О себе',
-            title: 'Создаю продукты, которые имеют значение',
-            text1: 'Я основатель и инженер-программист, увлеченный созданием влиятельных продуктов. С экспертизой в мобильной разработке, SaaS, системах ИИ и системной архитектуре я помогаю стартапам и компаниям реализовать их видения.',
-            text2: 'Будь то нативное мобильное приложение, система ИИ, кроссплатформенное решение или масштабируемая SaaS-платформа, я подхожу к каждому проекту с фокусом на пользовательский опыт, производительность и бизнес-цели.',
+            tag: 'О нас',
+            title: 'Создаём продукты, которые имеют значение',
+            text1: 'С экспертизой в мобильной разработке, SaaS, системах ИИ и системной архитектуре мы помогаем стартапам и компаниям превращать идеи в надёжные и масштабируемые продукты.',
+            text2: 'Будь то нативное мобильное приложение, система ИИ, кроссплатформенное решение или масштабируемая SaaS-платформа, мы подходим к каждому проекту с фокусом на пользовательский опыт, производительность и бизнес-цели.',
             value1: { title: 'Исполнение', desc: 'Быстрое прототипирование и итеративная разработка для быстрого вывода вашего продукта на рынок.' },
-            value2: { title: 'От начала до конца', desc: 'От дизайна до деплоя я управляю каждым аспектом разработки продукта.' },
+            value2: { title: 'От начала до конца', desc: 'От дизайна до деплоя мы управляем каждым аспектом разработки продукта.' },
             value3: { title: 'Качество', desc: 'Чистый код, продуманный UX и масштабируемая архитектура в каждом проекте.' }
         },
         skills: {
             tag: 'Экспертиза',
-            title: 'Технологии, с которыми я работаю',
+            title: 'Технологии, с которыми мы работаем',
             mobile: 'Мобильная разработка',
             web: 'Веб и SaaS',
             business: 'Корпоративные программные решения',
@@ -1446,12 +1446,12 @@ const translations = {
         contact: {
             tag: 'Связаться',
             title: 'Техническая консультация',
-            text: 'Доступен для инженерных проектов и технических консультаций. Свяжитесь со мной, чтобы обсудить требования и решения.'
+            text: 'Доступен для инженерных проектов и технических консультаций. Свяжитесь с нами, чтобы обсудить требования и решения.'
         },
         footer: {
             tagline: 'Разработка масштабируемых технических решений.',
             home: 'Главная',
-            about: 'О себе',
+            about: 'О нас',
             skills: 'Навыки',
             projects: 'Проекты',
             contact: 'Контакт',
@@ -1543,7 +1543,7 @@ const translations = {
             }
         },
         contact: {
-            tag: 'Napisz do mnie',
+            tag: 'Napisz do nas',
             title: 'Konsultacje techniczne',
             text: 'Dostępny do projektów inżynierskich i konsultacji technicznych. Skontaktuj się ze mną, aby omówić wymagania i rozwiązania.'
         },
