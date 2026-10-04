@@ -6,53 +6,53 @@ const translations = {
       "download": "Download"
     },
     "hero": {
-      "eyebrow": "Live AI Thai Teacher & Translator",
-      "title": "Learn to speak and practice and translate Thai in real time with voice and vision.",
-      "copy": "AI Agent Khru helps you speak naturally, get instant corrections and translate words, phrases, and conversations with confidence through guided conversations.",
-      "cta": "Get the app",
-      "explore": "Explore features"
+      "eyebrow": "Thai Language Learning",
+      "title": "AI Thai Language Tutor",
+      "copy": "Thai language learning with AI-powered voice tutoring, real-time corrections, and translation support.",
+      "cta": "Download App",
+      "explore": "Technical Features"
     },
     "preview": {
       "tag": "App preview",
       "title": "Practice through a focused live session interface."
     },
     "features": {
-      "title": "Why learners choose AI Agent Khru",
+      "title": "Technical Features",
       "voice": {
-        "title": "Natural voice chat",
-        "desc": "Talk as you normally would and receive immediate spoken responses."
+        "title": "Voice Conversation",
+        "desc": "Real-time spoken dialogue practice with immediate AI responses."
       },
       "vision": {
-        "title": "Vision-guided practice",
-        "desc": "Use your camera to practice vocabulary and describe real objects."
+        "title": "Camera Vocabulary",
+        "desc": "Camera-based vocabulary practice for real-world objects."
       },
       "corrections": {
-        "title": "Structured corrections & translation",
-        "desc": "Get gentle fixes for pronunciation, grammar, and word choice plus instant translation support."
+        "title": "Corrections & Translation",
+        "desc": "Pronunciation, grammar, and vocabulary corrections with translation support."
       }
     },
     "how": {
-      "title": "How it works",
+      "title": "How It Works",
       "step1": {
         "num": "01",
-        "title": "Start a live session",
-        "desc": "Open the app, tap once, and begin speaking Thai instantly."
+        "title": "Start Session",
+        "desc": "Open the app and begin Thai practice."
       },
       "step2": {
         "num": "02",
-        "title": "Practice with context",
-        "desc": "Switch cameras to describe what you see and translate everyday scenes and train practical fluency."
+        "title": "Contextual Practice",
+        "desc": "Use cameras to describe objects and practice vocabulary."
       },
       "step3": {
         "num": "03",
-        "title": "Review and improve",
-        "desc": "Revisit logs, corrections, and speaking tips after each session."
+        "title": "Review Progress",
+        "desc": "Access session logs and corrections for improvement."
       }
     },
     "footer": {
-      "eyebrow": "Live Thai practice & translation",
-      "title": "Speak naturally or translate with an AI Thai coach.",
-      "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
+      "eyebrow": "Thai Language Learning",
+      "title": "AI Thai Language Tutor",
+      "copy": "Voice conversation practice, camera-based vocabulary learning, and structured corrections with translation support.",
       "cta": "Download on Google Play",
       "linksLabel": "More Apps:",
       "links": {
@@ -63,11 +63,11 @@ const translations = {
       "home": "Home",
     },
     "session": {
-      "chip": "GEMINI LIVE ACTIVE",
-      "title": "Session: Daily Thai",
-      "voice": "Real-time voice conversation",
-      "camera": "Camera context for object learning",
-      "recap": "End-of-session recap and notes and instant translation for phrases and daily dialogue."
+      "chip": "AI Session",
+      "title": "Thai Learning",
+      "voice": "Voice conversation practice",
+      "camera": "Camera-based vocabulary learning",
+      "recap": "Session recaps and instant translation support."
     }
   },
   "fr": {

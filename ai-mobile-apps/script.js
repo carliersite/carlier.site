@@ -6,25 +6,22 @@
 const translations = {
     en: {
         skipToMain: 'Skip to main content',
-        nav: { home: 'Home', about: 'About', skills: 'Skills', aiApps: 'AI Apps', cta: "Let's Talk" },
+        nav: { home: 'Home', about: 'About', skills: 'Skills', aiApps: 'Mobile Apps', cta: "Technical Capabilities" },
         hero: {
-            eyebrow: 'Mobile Apps',
-            title: 'AI\u2011Powered Mobile Experiences',
-            subtitle: 'A growing suite of intelligent apps built with Flutter \u2014 from language tutors to smart scanners, each powered by cutting\u2011edge AI.',
-            stat1Label: 'Apps Live',
-            stat2Label: 'Languages',
-            stat3Label: 'AI\u2011Native'
+            eyebrow: 'Technical Solutions',
+            title: 'Mobile Applications',
+            subtitle: 'Mobile applications for language learning and identification.'
         },
         grid: {
-            tag: 'All Apps',
-            title: 'Browse the Collection'
+            tag: 'Applications',
+            title: 'Available Applications'
         },
         apps: {
             getOnPlay: 'Get on Google Play',
             tagMobile: 'Mobile App',
             tagAiTutor: 'AI Tutor',
             tagAiScanner: 'AI Scanner',
-            tagFeatured: 'Featured',
+            tagFeatured: 'Latest',
             lousi: {
                 title: 'AI Agent Lousi',
                 tag: 'Cantonese',
@@ -51,13 +48,13 @@ const translations = {
             }
         },
         cta: {
-            title: 'Have an app idea?',
-            text: 'I build AI-native mobile apps from concept to the App Store & Google Play. Let\'s turn your vision into a product people love.',
+            title: 'Technical Consultation',
+            text: 'I develop AI-native mobile applications from specification to App Store and Google Play deployment.',
             btnPrimary: 'Get in Touch',
             btnSecondary: 'Back to Home'
         },
         footer: {
-            tagline: 'Building products that make a difference.',
+            tagline: 'Engineering scalable technical solutions.',
             home: 'Home', about: 'About', skills: 'Skills', aiApps: 'AI Apps', contact: 'Contact',
             chinese: 'Learn Chinese', cantonese: 'Learn Cantonese', coin: 'Coin Identifier',
             copyright: '\u00a9 2026 Carlier. All rights reserved.',
@@ -69,14 +66,13 @@ const translations = {
         nav: { home: 'Accueil', about: '\u00c0 Propos', skills: 'Comp\u00e9tences', aiApps: 'Apps IA', cta: 'Discutons' },
         hero: {
             eyebrow: 'Apps Mobiles',
-            title: 'Exp\u00e9riences Mobiles Propuls\u00e9es par l\u2019IA',
-            subtitle: 'Une suite grandissante d\u2019apps intelligentes con\u00e7ues avec Flutter \u2014 tuteurs en langues, scanners intelligents et plus encore.',
-            stat1Label: 'Apps en ligne', stat2Label: 'Langues', stat3Label: '100\u00a0% IA'
+            title: 'Applications Mobiles',
+            subtitle: 'Mobile applications for language learning and identification.'
         },
         grid: { tag: 'Toutes les Apps', title: 'Parcourir la Collection' },
         apps: {
             getOnPlay: 'Obtenir sur Google Play',
-            tagMobile: 'App Mobile', tagAiTutor: 'Tuteur IA', tagAiScanner: 'Scanner IA', tagFeatured: 'En vedette',
+            tagMobile: 'App Mobile', tagAiTutor: 'Tuteur IA', tagAiScanner: 'Scanner IA', tagFeatured: 'Dernier',
             vchytel: { title: 'AI Agent Vchytel', tag: 'Ukrainien', desc: 'Apprenez l\u2019ukrainien, pratiquez de vraies conversations et traduisez en temps r\u00e9el avec un tuteur IA ukrainien en direct. Chat vocal, contexte cam\u00e9ra et traduction instantan\u00e9e.', chip1: 'Chat Vocal', chip2: 'Contexte Cam\u00e9ra', chip3: 'Traduction', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: 'Cantonais', desc: 'Apprenez le cantonais, pratiquez de vraies conversations et traduisez en temps r\u00e9el avec un tuteur IA cantonais en direct. Chat vocal et contexte cam\u00e9ra.', chip1: 'Chat Vocal', chip2: 'Contexte Cam\u00e9ra', chip3: 'Cantonais', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: 'Mandarin', desc: 'Apprenez le mandarin, pratiquez de vraies conversations et traduisez en temps r\u00e9el avec un tuteur IA mandarin en direct. Chat vocal et contexte cam\u00e9ra.', chip1: 'Chat Vocal', chip2: 'Contexte Cam\u00e9ra', chip3: 'Mandarin', chip4: 'Flutter' },
@@ -89,10 +85,10 @@ const translations = {
     de: {
         skipToMain: 'Zum Hauptinhalt springen',
         nav: { home: 'Startseite', about: '\u00dcber', skills: 'F\u00e4higkeiten', aiApps: 'KI Apps', cta: 'Lass uns sprechen' },
-        hero: { eyebrow: 'Mobile Apps', title: 'KI-gest\u00fctzte Mobile Erlebnisse', subtitle: 'Eine wachsende Suite intelligenter Flutter-Apps \u2014 Sprach-Tutoren, Coin-Scanner und mehr.', stat1Label: 'Apps Live', stat2Label: 'Sprachen', stat3Label: '100\u00a0% KI' },
+        hero: { eyebrow: 'Mobile Apps', title: 'Mobile Anwendungen', subtitle: 'Mobile applications for language learning and identification.' },
         grid: { tag: 'Alle Apps', title: 'Die Kollektion entdecken' },
         apps: {
-            getOnPlay: 'Bei Google Play herunterladen', tagMobile: 'Mobile App', tagAiTutor: 'KI-Tutor', tagAiScanner: 'KI-Scanner', tagFeatured: 'Empfohlen',
+            getOnPlay: 'Bei Google Play herunterladen', tagMobile: 'Mobile App', tagAiTutor: 'KI-Tutor', tagAiScanner: 'KI-Scanner', tagFeatured: 'Neueste',
             vchytel: { title: 'AI Agent Vchytel', tag: 'Ukrainisch', desc: 'Lernen Sie Ukrainisch, \u00fcben Sie echte Gespr\u00e4che und \u00fcbersetzen Sie in Echtzeit mit einem live KI-Lehrer. Sprachchat, kamerabasierter Kontext und Sofort\u00fcbersetzung.', chip1: 'Sprachchat', chip2: 'Kamerakont.', chip3: '\u00dcbersetzung', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: 'Kantonesisch', desc: 'Lernen Sie Kantonesisch mit einem live KI-Lehrer. Sprachchat und kamerabasierter Kontext inklusive.', chip1: 'Sprachchat', chip2: 'Kamerakont.', chip3: 'Kantonesisch', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: 'Mandarin', desc: 'Lernen Sie Mandarin mit einem live KI-Lehrer. Sprachchat und kamerabasierter Kontext inklusive.', chip1: 'Sprachchat', chip2: 'Kamerakont.', chip3: 'Mandarin', chip4: 'Flutter' },
@@ -105,10 +101,10 @@ const translations = {
     es: {
         skipToMain: 'Saltar al contenido principal',
         nav: { home: 'Inicio', about: 'Sobre', skills: 'Habilidades', aiApps: 'Apps IA', cta: 'Hablemos' },
-        hero: { eyebrow: 'Apps M\u00f3viles', title: 'Experiencias M\u00f3viles con IA', subtitle: 'Una suite creciente de apps inteligentes en Flutter \u2014 tutores de idiomas, esc\u00e1neres de monedas y m\u00e1s.', stat1Label: 'Apps en vivo', stat2Label: 'Idiomas', stat3Label: '100\u00a0% IA' },
+        hero: { eyebrow: 'Apps M\u00f3viles', title: 'Aplicaciones M\u00f3viles', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: 'Todas las Apps', title: 'Explorar la Colecci\u00f3n' },
         apps: {
-            getOnPlay: 'Obtener en Google Play', tagMobile: 'App M\u00f3vil', tagAiTutor: 'Tutor IA', tagAiScanner: 'Esc\u00e1ner IA', tagFeatured: 'Destacada',
+            getOnPlay: 'Obtener en Google Play', tagMobile: 'App M\u00f3vil', tagAiTutor: 'Tutor IA', tagAiScanner: 'Esc\u00e1ner IA', tagFeatured: '\u00daltima',
             vchytel: { title: 'AI Agent Vchytel', tag: 'Ucraniano', desc: 'Aprende ucraniano, practica conversaciones reales y traduce en tiempo real con un tutor IA ucraniano en vivo. Chat de voz, contexto de c\u00e1mara y traducci\u00f3n instant\u00e1nea.', chip1: 'Chat de voz', chip2: 'Contexto c\u00e1m.', chip3: 'Traducci\u00f3n', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: 'Canton\u00e9s', desc: 'Aprende canton\u00e9s con un tutor IA en vivo. Chat de voz y contexto de c\u00e1mara incluidos.', chip1: 'Chat de voz', chip2: 'Contexto c\u00e1m.', chip3: 'Canton\u00e9s', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: 'Mandarin', desc: 'Aprende mandarin con un tutor IA en vivo. Chat de voz y contexto de c\u00e1mara incluidos.', chip1: 'Chat de voz', chip2: 'Contexto c\u00e1m.', chip3: 'Mandarin', chip4: 'Flutter' },
@@ -121,10 +117,10 @@ const translations = {
     pt: {
         skipToMain: 'Saltar para o conte\u00fado principal',
         nav: { home: 'In\u00edcio', about: 'Sobre', skills: 'Compet\u00eancias', aiApps: 'Apps IA', cta: 'Fale Comigo' },
-        hero: { eyebrow: 'Apps M\u00f3veis', title: 'Experi\u00eancias M\u00f3veis com IA', subtitle: 'Uma suite crescente de apps inteligentes em Flutter \u2014 tutores de idiomas, scanners de moedas e mais.', stat1Label: 'Apps a correr', stat2Label: 'Idiomas', stat3Label: '100\u00a0% IA' },
+        hero: { eyebrow: 'Apps M\u00f3veis', title: 'Aplicativos M\u00f3veis', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: 'Todas as Apps', title: 'Explorar a Cole\u00e7\u00e3o' },
         apps: {
-            getOnPlay: 'Obter no Google Play', tagMobile: 'App M\u00f3vel', tagAiTutor: 'Tutor IA', tagAiScanner: 'Scanner IA', tagFeatured: 'Destaque',
+            getOnPlay: 'Obter no Google Play', tagMobile: 'App M\u00f3vel', tagAiTutor: 'Tutor IA', tagAiScanner: 'Scanner IA', tagFeatured: '\u00daltimo',
             vchytel: { title: 'AI Agent Vchytel', tag: 'Ucraniano', desc: 'Aprenda ucraniano, pratique conversas reais e traduza em tempo real com um tutor IA ucraniano. Chat de voz, contexto de c\u00e2mara e tradu\u00e7\u00e3o instant\u00e2nea.', chip1: 'Chat de voz', chip2: 'Contexto c\u00e2m.', chip3: 'Tradu\u00e7\u00e3o', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: 'Cantons', desc: 'Aprenda cantons com um tutor IA. Chat de voz e contexto de c\u00e2mara inclu\u00eddos.', chip1: 'Chat de voz', chip2: 'Contexto c\u00e2m.', chip3: 'Cantons', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: 'Mandarim', desc: 'Aprenda mandarim com um tutor IA. Chat de voz e contexto de c\u00e2mara inclu\u00eddos.', chip1: 'Chat de voz', chip2: 'Contexto c\u00e2m.', chip3: 'Mandarim', chip4: 'Flutter' },
@@ -137,10 +133,10 @@ const translations = {
     it: {
         skipToMain: 'Vai al contenuto principale',
         nav: { home: 'Home', about: 'Chi sono', skills: 'Competenze', aiApps: 'App IA', cta: 'Parliamone' },
-        hero: { eyebrow: 'App Mobile', title: 'Esperienze Mobile con l\u2019IA', subtitle: 'Una suite crescente di app intelligenti in Flutter \u2014 tutor linguistici, scanner di monete e altro.', stat1Label: 'App Live', stat2Label: 'Lingue', stat3Label: '100\u00a0% IA' },
+        hero: { eyebrow: 'App Mobile', title: 'Applicazioni Mobili', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: 'Tutte le App', title: 'Sfoglia la Collezione' },
         apps: {
-            getOnPlay: 'Scarica su Google Play', tagMobile: 'App Mobile', tagAiTutor: 'Tutor IA', tagAiScanner: 'Scanner IA', tagFeatured: 'In evidenza',
+            getOnPlay: 'Scarica su Google Play', tagMobile: 'App Mobile', tagAiTutor: 'Tutor IA', tagAiScanner: 'Scanner IA', tagFeatured: 'Ultimo',
             vchytel: { title: 'AI Agent Vchytel', tag: 'Ucraino', desc: 'Impara l\u2019ucraino, pratica conversazioni reali e traduci in tempo reale con un tutor IA ucraino in diretta. Chat vocale, contesto fotocamera e traduzione istantanea.', chip1: 'Chat Vocale', chip2: 'Contesto Cam.', chip3: 'Traduzione', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: 'Cantonese', desc: 'Impara il cantonese con un tutor IA in diretta. Chat vocale e contesto fotocamera inclusi.', chip1: 'Chat Vocale', chip2: 'Contesto Cam.', chip3: 'Cantonese', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: 'Mandarino', desc: 'Impara il mandarino con un tutor IA in diretta. Chat vocale e contesto fotocamera inclusi.', chip1: 'Chat Vocale', chip2: 'Contesto Cam.', chip3: 'Mandarino', chip4: 'Flutter' },
@@ -153,10 +149,10 @@ const translations = {
     uk: {
         skipToMain: '\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u0434\u043e \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u0433\u043e \u0432\u043c\u0456\u0441\u0442\u0443',
         nav: { home: '\u0413\u043e\u043b\u043e\u0432\u043d\u0430', about: '\u041f\u0440\u043e \u043c\u0435\u043d\u0435', skills: '\u041d\u0430\u0432\u0438\u0447\u043a\u0438', aiApps: '\u0428\u0406 \u0414\u043e\u0434\u0430\u0442\u043a\u0438', cta: '\u0417\u0432\u2019\u044f\u0437\u0430\u0442\u0438\u0441\u044f' },
-        hero: { eyebrow: '\u041c\u043e\u0431\u0456\u043b\u044c\u043d\u0456 \u0414\u043e\u0434\u0430\u0442\u043a\u0438', title: '\u041c\u043e\u0431\u0456\u043b\u044c\u043d\u0456 \u0414\u043e\u0434\u0430\u0442\u043a\u0438 \u043d\u0430 \u041e\u0441\u043d\u043e\u0432\u0456 \u0428\u0406', subtitle: '\u041a\u043e\u043b\u0435\u043a\u0446\u0456\u044f \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0438\u0445 \u0434\u043e\u0434\u0430\u0442\u043a\u0456\u0432 \u043d\u0430 Flutter \u2014 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u0438, \u0441\u043a\u0430\u043d\u0435\u0440\u0438 \u0442\u0430 \u0456\u043d\u0448\u0435.', stat1Label: '\u0414\u043e\u0434\u0430\u0442\u043a\u0456\u0432', stat2Label: '\u041c\u043e\u0432', stat3Label: '100\u00a0% \u0428\u0406' },
+        hero: { eyebrow: '\u041c\u043e\u0431\u0456\u043b\u044c\u043d\u0456 \u0414\u043e\u0434\u0430\u0442\u043a\u0438', title: '\u041c\u043e\u0431\u0456\u043b\u044c\u043d\u0456 \u0414\u043e\u0434\u0430\u0442\u043a\u0438 \u043d\u0430 \u041e\u0441\u043d\u043e\u0432\u0456 \u0428\u0406', subtitle: '\u041a\u043e\u043b\u0435\u043a\u0446\u0456\u044f \u0456\u043d\u0442\u0435\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u0438\u0445 \u0434\u043e\u0434\u0430\u0442\u043a\u0456\u0432 \u043d\u0430 Flutter \u2014 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u0438, \u0441\u043a\u0430\u043d\u0435\u0440\u0438 \u0442\u0430 \u0456\u043d\u0448\u0435.',
         grid: { tag: '\u0423\u0441\u0456 \u0414\u043e\u0434\u0430\u0442\u043a\u0438', title: '\u041f\u0435\u0440\u0435\u0433\u043b\u044f\u043d\u0443\u0442\u0438 \u041a\u043e\u043b\u0435\u043a\u0446\u0456\u044e' },
         apps: {
-            getOnPlay: '\u041e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0432 Google Play', tagMobile: '\u041c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a', tagAiTutor: '\u0428\u0406 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440', tagAiScanner: '\u0428\u0406 \u0441\u043a\u0430\u043d\u0435\u0440', tagFeatured: '\u041e\u0441\u043e\u0431\u043b\u0438\u0432\u0438\u0439',
+            getOnPlay: '\u041e\u0442\u0440\u0438\u043c\u0430\u0442\u0438 \u0432 Google Play', tagMobile: '\u041c\u043e\u0431\u0456\u043b\u044c\u043d\u0438\u0439 \u0434\u043e\u0434\u0430\u0442\u043e\u043a', tagAiTutor: '\u0428\u0406 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440', tagAiScanner: '\u0428\u0406 \u0441\u043a\u0430\u043d\u0435\u0440', tagFeatured: '\u041f\u043e\u0441\u043b\u0435\u0434\u043d\u044f\u044f',
             vchytel: { title: 'AI Agent Vchytel', tag: '\u0423\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0430', desc: '\u0412\u0447\u0456\u0442\u044c \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u0443, \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u0439\u0442\u0435 \u0440\u0435\u0430\u043b\u044c\u043d\u0456 \u0440\u043e\u0437\u043c\u043e\u0432\u0438 \u0442\u0430 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434\u0430\u0439\u0442\u0435 \u0432 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u043c\u0443 \u0447\u0430\u0441\u0456 \u0437 \u0436\u0438\u0432\u0438\u043c \u0428\u0406-\u0432\u0447\u0438\u0442\u0435\u043b\u0435\u043c. \u0413\u043e\u043b\u043e\u0441\u043e\u0432\u0438\u0439 \u0447\u0430\u0442, \u043a\u043e\u043d\u0442\u0435\u043a\u0441\u0442 \u043a\u0430\u043c\u0435\u0440\u0438 \u0442\u0430 \u043c\u0438\u0442\u0442\u0454\u0432\u0438\u0439 \u043f\u0435\u0440\u0435\u043a\u043b\u0430\u0434.', chip1: '\u0413\u043e\u043b\u043e\u0441. \u0447\u0430\u0442', chip2: '\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442', chip3: '\u041f\u0435\u0440\u0435\u043a\u043b\u0430\u0434', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: '\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0430', desc: '\u0412\u0447\u0456\u0442\u044c \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0443 \u0437 \u0436\u0438\u0432\u0438\u043c \u0428\u0406-\u0432\u0447\u0438\u0442\u0435\u043b\u0435\u043c.', chip1: '\u0413\u043e\u043b\u043e\u0441. \u0447\u0430\u0442', chip2: '\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442', chip3: '\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u044c\u043a\u0430', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: '\u041c\u0430\u043d\u0434\u0430\u0440\u0438\u043d', desc: '\u0412\u0447\u0456\u0442\u044c \u043c\u0430\u043d\u0434\u0430\u0440\u0438\u043d \u0437 \u0436\u0438\u0432\u0438\u043c \u0428\u0406-\u0432\u0447\u0438\u0442\u0435\u043b\u0435\u043c.', chip1: '\u0413\u043e\u043b\u043e\u0441. \u0447\u0430\u0442', chip2: '\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442', chip3: '\u041c\u0430\u043d\u0434\u0430\u0440\u0438\u043d', chip4: 'Flutter' },
@@ -169,10 +165,10 @@ const translations = {
     ru: {
         skipToMain: '\u041f\u0435\u0440\u0435\u0439\u0442\u0438 \u043a \u043e\u0441\u043d\u043e\u0432\u043d\u043e\u043c\u0443 \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u043c\u0443',
         nav: { home: '\u0413\u043b\u0430\u0432\u043d\u0430\u044f', about: '\u041e \u0441\u0435\u0431\u0435', skills: '\u041d\u0430\u0432\u044b\u043a\u0438', aiApps: '\u0418\u0418 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f', cta: '\u0414\u0430\u0432\u0430\u0439\u0442\u0435 \u043f\u043e\u0433\u043e\u0432\u043e\u0440\u0438\u043c' },
-        hero: { eyebrow: '\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f', title: '\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043d\u0430 \u041e\u0441\u043d\u043e\u0432\u0435 \u0418\u0418', subtitle: '\u041d\u0430\u0431\u043e\u0440 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 Flutter-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u2014 \u044f\u0437\u044b\u043a\u043e\u0432\u044b\u0435 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u044b, \u0441\u043a\u0430\u043d\u0435\u0440\u044b \u043c\u043e\u043d\u0435\u0442 \u0438 \u0434\u0440\u0443\u0433\u043e\u0435.', stat1Label: '\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439', stat2Label: '\u042f\u0437\u044b\u043a\u043e\u0432', stat3Label: '100\u00a0% \u0418\u0418' },
+        hero: { eyebrow: '\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f', title: '\u041c\u043e\u0431\u0438\u043b\u044c\u043d\u044b\u0435 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u043d\u0430 \u041e\u0441\u043d\u043e\u0432\u0435 \u0418\u0418', subtitle: '\u041d\u0430\u0431\u043e\u0440 \u0438\u043d\u0442\u0435\u043b\u043b\u0435\u043a\u0442\u0443\u0430\u043b\u044c\u043d\u044b\u0445 Flutter-\u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0439 \u2014 \u044f\u0437\u044b\u043a\u043e\u0432\u044b\u0435 \u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440\u044b, \u0441\u043a\u0430\u043d\u0435\u0440\u044b \u043c\u043e\u043d\u0435\u0442 \u0438 \u0434\u0440\u0443\u0433\u043e\u0435.',
         grid: { tag: '\u0412\u0441\u0435 \u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f', title: '\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u041a\u043e\u043b\u043b\u0435\u043a\u0446\u0438\u044e' },
         apps: {
-            getOnPlay: '\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0432 Google Play', tagMobile: '\u041c\u043e\u0431. \u043f\u0440\u0438\u043b.', tagAiTutor: '\u0418\u0418-\u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440', tagAiScanner: '\u0418\u0418-\u0441\u043a\u0430\u043d\u0435\u0440', tagFeatured: '\u041e\u0441\u043e\u0431\u043e\u0435',
+            getOnPlay: '\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0432 Google Play', tagMobile: '\u041c\u043e\u0431. \u043f\u0440\u0438\u043b.', tagAiTutor: '\u0418\u0418-\u0440\u0435\u043f\u0435\u0442\u0438\u0442\u043e\u0440', tagAiScanner: '\u0418\u0418-\u0441\u043a\u0430\u043d\u0435\u0440', tagFeatured: '\u041d\u043e\u0432\u0438\u043d\u043a\u0430',
             vchytel: { title: 'AI Agent Vchytel', tag: '\u0423\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439', desc: '\u0423\u0447\u0438\u0442\u0435 \u0443\u043a\u0440\u0430\u0438\u043d\u0441\u043a\u0438\u0439, \u043f\u0440\u0430\u043a\u0442\u0438\u043a\u0443\u0439\u0442\u0435 \u0440\u0435\u0430\u043b\u044c\u043d\u044b\u0435 \u0440\u0430\u0437\u0433\u043e\u0432\u043e\u0440\u044b \u0438 \u043f\u0435\u0440\u0435\u0432\u043e\u0434\u0438\u0442\u0435 \u0432 \u0440\u0435\u0430\u043b\u044c\u043d\u043e\u043c \u0432\u0440\u0435\u043c\u0435\u043d\u0438 \u0441 \u0436\u0438\u0432\u044b\u043c \u0418\u0418-\u0443\u0447\u0438\u0442\u0435\u043b\u0435\u043c.', chip1: '\u0413\u043e\u043b\u043e\u0441. \u0447\u0430\u0442', chip2: '\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442', chip3: '\u041f\u0435\u0440\u0435\u0432\u043e\u0434', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: '\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439', desc: '\u0423\u0447\u0438\u0442\u0435 \u043a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439 \u0441 \u0436\u0438\u0432\u044b\u043c \u0418\u0418-\u0443\u0447\u0438\u0442\u0435\u043b\u0435\u043c.', chip1: '\u0413\u043e\u043b\u043e\u0441. \u0447\u0430\u0442', chip2: '\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442', chip3: '\u041a\u0430\u043d\u0442\u043e\u043d\u0441\u043a\u0438\u0439', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: '\u041c\u0430\u043d\u0434\u0430\u0440\u0438\u043d', desc: '\u0423\u0447\u0438\u0442\u0435 \u043c\u0430\u043d\u0434\u0430\u0440\u0438\u043d \u0441 \u0436\u0438\u0432\u044b\u043c \u0418\u0418-\u0443\u0447\u0438\u0442\u0435\u043b\u0435\u043c.', chip1: '\u0413\u043e\u043b\u043e\u0441. \u0447\u0430\u0442', chip2: '\u041a\u043e\u043d\u0442\u0435\u043a\u0441\u0442', chip3: '\u041c\u0430\u043d\u0434\u0430\u0440\u0438\u043d', chip4: 'Flutter' },
@@ -185,7 +181,7 @@ const translations = {
     th: {
         skipToMain: '\u0e02\u0e49\u0e32\u0e21\u0e44\u0e1b\u0e22\u0e31\u0e07\u0e40\u0e19\u0e37\u0e49\u0e2d\u0e2b\u0e32\u0e2b\u0e25\u0e31\u0e01',
         nav: { home: '\u0e2b\u0e19\u0e49\u0e32\u0e41\u0e23\u0e01', about: '\u0e40\u0e01\u0e35\u0e48\u0e22\u0e27\u0e01\u0e31\u0e1a', skills: '\u0e17\u0e31\u0e01\u0e29\u0e30', aiApps: '\u0e41\u0e2d\u0e1b AI', cta: '\u0e15\u0e34\u0e14\u0e15\u0e48\u0e2d\u0e40\u0e23\u0e32' },
-        hero: { eyebrow: '\u0e41\u0e2d\u0e1b\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d', title: '\u0e1b\u0e23\u0e30\u0e2a\u0e1a\u0e01\u0e32\u0e23\u0e13\u0e4c\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d\u0e14\u0e49\u0e27\u0e22 AI', subtitle: '\u0e41\u0e2d\u0e1b Flutter \u0e2d\u0e31\u0e08\u0e09\u0e23\u0e34\u0e22\u0e30 \u2014 \u0e15\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c\u0e40\u0e23\u0e35\u0e22\u0e19\u0e20\u0e32\u0e29\u0e32 \u0e2a\u0e41\u0e01\u0e19\u0e40\u0e2b\u0e23\u0e35\u0e22\u0e0d \u0e41\u0e25\u0e30\u0e2d\u0e37\u0e48\u0e19\u0e46', stat1Label: '\u0e41\u0e2d\u0e1b\u0e17\u0e35\u0e48\u0e43\u0e0a\u0e49\u0e07\u0e32\u0e19', stat2Label: '\u0e20\u0e32\u0e29\u0e32', stat3Label: '100\u00a0% AI' },
+        hero: { eyebrow: '\u0e41\u0e2d\u0e1b\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d', title: '\u0e41\u0e2d\u0e1b\u0e23\u0e37\u0e2d\u0e16\u0e37\u0e2d\u0e14\u0e49\u0e27\u0e22', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: '\u0e41\u0e2d\u0e1b\u0e17\u0e31\u0e49\u0e07\u0e2b\u0e21\u0e14', title: '\u0e40\u0e23\u0e35\u0e22\u0e01\u0e14\u0e39\u0e04\u0e2d\u0e25\u0e40\u0e25\u0e01\u0e0a\u0e31\u0e19' },
         apps: {
             getOnPlay: '\u0e14\u0e32\u0e27\u0e19\u0e4c\u0e42\u0e2b\u0e25\u0e14 Google Play', tagMobile: '\u0e41\u0e2d\u0e1b\u0e21\u0e37\u0e2d\u0e16\u0e37\u0e2d', tagAiTutor: 'AI \u0e15\u0e34\u0e27\u0e40\u0e15\u0e2d\u0e23\u0e4c', tagAiScanner: 'AI \u0e2a\u0e41\u0e01\u0e19\u0e40\u0e19\u0e2d\u0e23\u0e4c', tagFeatured: '\u0e40\u0e14\u0e48\u0e19',
@@ -201,10 +197,10 @@ const translations = {
     'zh-TW': {
         skipToMain: '\u8df3\u81f3\u4e3b\u8981\u5167\u5bb9',
         nav: { home: '\u9996\u9801', about: '\u95dc\u65bc', skills: '\u6280\u80fd', aiApps: 'AI \u61c9\u7528', cta: '\u806f\u7e6b\u6211' },
-        hero: { eyebrow: '\u884c\u52d5\u61c9\u7528', title: 'AI \u9a45\u52d5\u7684\u884c\u52d5\u9ad4\u9a57', subtitle: '\u4e00\u5c55\u6301\u7e8c\u6210\u9577\u7684 Flutter \u667a\u80fd\u61c9\u7528\u5957\u4ef6\u2014\u8a9e\u8a00\u5bb6\u6559\u3001\u786c\u5e63\u6383\u63cf\u5668\u7b49\u3002', stat1Label: '\u61c9\u7528\u4e0a\u7dda', stat2Label: '\u8a9e\u8a00', stat3Label: '100\u00a0% AI' },
+        hero: { eyebrow: '\u884c\u52d5\u61c9\u7528', title: '\u884c\u52d5\u61c9\u7528', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: '\u6240\u6709\u61c9\u7528', title: '\u700f\u89bd\u5168\u90e8\u61c9\u7528' },
         apps: {
-            getOnPlay: '\u5728 Google Play \u4e0b\u8f09', tagMobile: '\u884c\u52d5\u61c9\u7528', tagAiTutor: 'AI \u5c0e\u5e2b', tagAiScanner: 'AI \u6383\u63cf\u5668', tagFeatured: '\u7cbe\u9078',
+            getOnPlay: '\u5728 Google Play \u4e0b\u8f09', tagMobile: '\u884c\u52d5\u61c9\u7528', tagAiTutor: 'AI \u5c0e\u5e2b', tagAiScanner: 'AI \u6383\u63cf\u5668', tagFeatured: '\u6700\u65b0',
             vchytel: { title: 'AI Agent Vchytel', tag: '\u70cf\u514b\u862d\u8a9e', desc: '\u5b78\u7fd2\u70cf\u514b\u862d\u8a9e\uff0c\u7df4\u7fd2\u771f\u5be6\u5c0d\u8a71\uff0c\u4e26\u8207\u5373\u6642 AI \u70cf\u514b\u862d\u8a9e\u8001\u5e2b\u9032\u884c\u5373\u6642\u7ffb\u8b6f\u3002\u8a9e\u97f3\u8064\u5929\u3001\u76f8\u6a5f\u4e0a\u4e0b\u6587\u53ca\u5373\u6642\u7ffb\u8b6f\u652f\u6301\u3002', chip1: '\u8a9e\u97f3\u804a\u5929', chip2: '\u76f8\u6a5f\u4e0a\u4e0b\u6587', chip3: '\u5373\u6642\u7ffb\u8b6f', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: '\u7cb5\u8a9e', desc: '\u5b78\u7fd2\u7cb5\u8a9e\uff0c\u8207 AI \u7cb5\u8a9e\u8001\u5e2b\u5373\u6642\u5c0d\u8a71\u3002', chip1: '\u8a9e\u97f3\u804a\u5929', chip2: '\u76f8\u6a5f\u4e0a\u4e0b\u6587', chip3: '\u7cb5\u8a9e', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: '\u666e\u901a\u8a71', desc: '\u5b78\u7fd2\u666e\u901a\u8a71\uff0c\u8207 AI \u666e\u901a\u8a71\u8001\u5e2b\u5373\u6642\u5c0d\u8a71\u3002', chip1: '\u8a9e\u97f3\u804a\u5929', chip2: '\u76f8\u6a5f\u4e0a\u4e0b\u6587', chip3: '\u666e\u901a\u8a71', chip4: 'Flutter' },
@@ -217,10 +213,10 @@ const translations = {
     'zh-CN': {
         skipToMain: '\u8df3\u81f3\u4e3b\u8981\u5185\u5bb9',
         nav: { home: '\u9996\u9875', about: '\u5173\u4e8e', skills: '\u6280\u80fd', aiApps: 'AI \u5e94\u7528', cta: '\u8054\u7cfb\u6211' },
-        hero: { eyebrow: '\u79fb\u52a8\u5e94\u7528', title: 'AI \u9a71\u52a8\u7684\u79fb\u52a8\u4f53\u9a8c', subtitle: '\u4e00\u7cfb\u5217\u6301\u7eed\u6210\u957f\u7684 Flutter \u667a\u80fd\u5e94\u7528\u2014\u8bed\u8a00\u6559\u5e08\u3001\u786c\u5e01\u626b\u63cf\u5668\u7b49\u3002', stat1Label: '\u5e94\u7528\u4e0a\u7ebf', stat2Label: '\u8bed\u8a00', stat3Label: '100\u00a0% AI' },
+        hero: { eyebrow: '\u79fb\u52a8\u5e94\u7528', title: '\u79fb\u52a8\u5e94\u7528', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: '\u6240\u6709\u5e94\u7528', title: '\u6d4f\u89c8\u5168\u90e8\u5e94\u7528' },
         apps: {
-            getOnPlay: '\u5728 Google Play \u4e0b\u8f7d', tagMobile: '\u79fb\u52a8\u5e94\u7528', tagAiTutor: 'AI \u5bfc\u5e08', tagAiScanner: 'AI \u626b\u63cf\u5668', tagFeatured: '\u7cbe\u9009',
+            getOnPlay: '\u5728 Google Play \u4e0b\u8f7d', tagMobile: '\u79fb\u52a8\u5e94\u7528', tagAiTutor: 'AI \u5bfc\u5e08', tagAiScanner: 'AI \u626b\u63cf\u5668', tagFeatured: '\u6700\u65b0',
             vchytel: { title: 'AI Agent Vchytel', tag: '\u4e4c\u514b\u5170\u8bed', desc: '\u5b66\u4e4c\u514b\u5170\u8bed\uff0c\u7ec3\u4e60\u771f\u5b9e\u5bf9\u8bdd\uff0c\u5e76\u4e0e\u5b9e\u65f6 AI \u4e4c\u514b\u5170\u8bed\u8001\u5e08\u5373\u65f6\u7ffb\u8bd1\u3002\u8bed\u97f3\u804a\u5929\u3001\u76f8\u673a\u4e0a\u4e0b\u6587\u548c\u5373\u65f6\u7ffb\u8bd1\u652f\u6301\u3002', chip1: '\u8bed\u97f3\u804a\u5929', chip2: '\u76f8\u673a\u4e0a\u4e0b\u6587', chip3: '\u5373\u65f6\u7ffb\u8bd1', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: '\u7ca4\u8bed', desc: '\u5b66\u4e60\u7ca4\u8bed\uff0c\u4e0e AI \u7ca4\u8bed\u8001\u5e2b\u5373\u65f6\u5bf9\u8bdd\u3002', chip1: '\u8bed\u97f3\u804a\u5929', chip2: '\u76f8\u673a\u4e0a\u4e0b\u6587', chip3: '\u7ca4\u8bed', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: '\u666e\u901a\u8bdd', desc: '\u5b66\u4e60\u666e\u901a\u8bdd\uff0c\u4e0e AI \u666e\u901a\u8bdd\u8001\u5e2b\u5373\u65f6\u5bf9\u8bdd\u3002', chip1: '\u8bed\u97f3\u804a\u5929', chip2: '\u76f8\u673a\u4e0a\u4e0b\u6587', chip3: '\u666e\u901a\u8bdd', chip4: 'Flutter' },
@@ -233,10 +229,10 @@ const translations = {
     hi: {
         skipToMain: '\u092e\u0941\u0916\u094d\u092f \u0938\u093e\u092e\u0917\u094d\u0930\u0940 \u092a\u0930 \u091c\u093e\u090f\u0902',
         nav: { home: '\u0939\u094b\u092e', about: '\u092a\u0930\u093f\u091a\u092f', skills: '\u0915\u094c\u0936\u0932', aiApps: 'AI \u090f\u092a\u094d\u0938', cta: '\u0938\u0902\u092a\u0930\u094d\u0915 \u0915\u0930\u0947\u0902' },
-        hero: { eyebrow: '\u092e\u094b\u092c\u093e\u0907\u0932 \u090f\u092a\u094d\u0938', title: 'AI-\u0938\u0902\u091a\u093e\u0932\u093f\u0924 \u092e\u094b\u092c\u093e\u0907\u0932 \u0905\u0928\u0941\u092d\u0935', subtitle: 'Flutter \u092a\u0930 \u092c\u0928\u0947 \u0938\u094d\u092e\u093e\u0930\u094d\u091f \u090f\u092a\u094d\u0938 \u0915\u093e \u092c\u0922\u093c\u0924\u093e \u0938\u0902\u0917\u094d\u0930\u0939 \u2014 \u092d\u093e\u0937\u093e \u0936\u093f\u0915\u094d\u0937\u0915, \u0938\u093f\u0915\u094d\u0915\u093e \u0938\u094d\u0915\u0948\u0928\u0930 \u0914\u0930 \u0905\u0927\u093f\u0915\u0964', stat1Label: '\u090f\u092a\u094d\u0938 \u0932\u093e\u0907\u0935', stat2Label: '\u092d\u093e\u0937\u093e\u090f\u0902', stat3Label: '100\u00a0% AI' },
+        hero: { eyebrow: '\u092e\u094b\u092c\u093e\u0907\u0932 \u090f\u092a\u094d\u0938', title: '\u092e\u094b\u092c\u093e\u0907\u0932 \u090f\u092a\u094d\u0938', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: '\u0938\u092d\u0940 \u090f\u092a\u094d\u0938', title: '\u0938\u0902\u0917\u094d\u0930\u0939 \u0926\u0947\u0916\u0947\u0902' },
         apps: {
-            getOnPlay: 'Google Play \u092a\u0930 \u092a\u093e\u090f\u0902', tagMobile: '\u092e\u094b\u092c\u093e\u0907\u0932 \u090f\u092a', tagAiTutor: 'AI \u091f\u094d\u092f\u0942\u091f\u0930', tagAiScanner: 'AI \u0938\u094d\u0915\u0948\u0928\u0930', tagFeatured: '\u0935\u093f\u0936\u0947\u0937',
+            getOnPlay: 'Google Play \u092a\u0930 \u092a\u093e\u090f\u0902', tagMobile: '\u092e\u094b\u092c\u093e\u0907\u0932 \u090f\u092a', tagAiTutor: 'AI \u091f\u094d\u092f\u0942\u091f\u0930', tagAiScanner: 'AI \u0938\u094d\u0915\u0948\u0928\u0930', tagFeatured: '\u0928\u092f\u093e',
             vchytel: { title: 'AI Agent Vchytel', tag: '\u092f\u0942\u0915\u094d\u0930\u0947\u0928\u0940', desc: '\u092f\u0942\u0915\u094d\u0930\u0947\u0928\u0940 \u0938\u0940\u0916\u0947\u0902, \u0935\u093e\u0938\u094d\u0924\u0935\u093f\u0915 \u092c\u093e\u0924\u091a\u0940\u0924 \u0915\u0930\u0947\u0902 \u0914\u0930 AI \u0936\u093f\u0915\u094d\u0937\u0915 \u0915\u0947 \u0938\u093e\u0925 \u0930\u093f\u092f\u0932-\u091f\u093e\u0907\u092e \u092e\u0947\u0902 \u0905\u0928\u0941\u0935\u093e\u0926 \u0915\u0930\u0947\u0902\u0964', chip1: '\u0935\u0949\u092f\u0938 \u091a\u0948\u091f', chip2: '\u0915\u0948\u092e\u0930\u093e', chip3: '\u0905\u0928\u0941\u0935\u093e\u0926', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: '\u0915\u0948\u0928\u094d\u091f\u094b\u0928\u0940\u091c\u093c', desc: '\u0915\u0948\u0928\u094d\u091f\u094b\u0928\u0940\u091c\u093c AI \u0936\u093f\u0915\u094d\u0937\u0915 \u0938\u0947 \u0938\u0940\u0916\u0947\u0902\u0964', chip1: '\u0935\u0949\u092f\u0938 \u091a\u0948\u091f', chip2: '\u0915\u0948\u092e\u0930\u093e', chip3: '\u0915\u0948\u0928\u094d\u091f\u094b\u0928\u0940\u091c\u093c', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: '\u092e\u0902\u0926\u093e\u0930\u093f\u0928', desc: '\u092e\u0902\u0926\u093e\u0930\u093f\u0928 AI \u0936\u093f\u0915\u094d\u0937\u0915 \u0938\u0947 \u0938\u0940\u0916\u0947\u0902\u0964', chip1: '\u0935\u0949\u092f\u0938 \u091a\u0948\u091f', chip2: '\u0915\u0948\u092e\u0930\u093e', chip3: '\u092e\u0902\u0926\u093e\u0930\u093f\u0928', chip4: 'Flutter' },
@@ -249,10 +245,10 @@ const translations = {
     ja: {
         skipToMain: '\u30e1\u30a4\u30f3\u30b3\u30f3\u30c6\u30f3\u30c4\u306b\u30b9\u30ad\u30c3\u30d7',
         nav: { home: '\u30db\u30fc\u30e0', about: '\u6982\u8981', skills: '\u30b9\u30ad\u30eb', aiApps: 'AI \u30a2\u30d7\u30ea', cta: '\u304a\u554f\u3044\u5408\u308f\u305b' },
-        hero: { eyebrow: '\u30e2\u30d0\u30a4\u30eb\u30a2\u30d7\u30ea', title: 'AI\u30a6\u30fc\u30d7\u30ed\u30e2\u30d0\u30a4\u30eb\u4f53\u9a13', subtitle: 'Flutter\u3067\u4f5c\u3089\u308c\u305f\u30a4\u30f3\u30c6\u30ea\u30b8\u30a7\u30f3\u30c8\u306a\u30a2\u30d7\u30ea\u306e\u30b9\u30a4\u30fc\u30c8\u2014\u8a00\u8a9e\u30c1\u30e5\u30fc\u30bf\u30fc\u3001\u30b3\u30a4\u30f3\u30b9\u30ad\u30e3\u30ca\u30fc\u306a\u3069\u3002', stat1Label: '\u30a2\u30d7\u30ea\u516c\u958b\u4e2d', stat2Label: '\u8a00\u8a9e', stat3Label: '100\u00a0% AI' },
+        hero: { eyebrow: '\u30e2\u30d0\u30a4\u30eb\u30a2\u30d7\u30ea', title: '\u30e2\u30d0\u30a4\u30eb\u30a2\u30d7\u30ea', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: '\u5168\u30a2\u30d7\u30ea', title: '\u30b3\u30ec\u30af\u30b7\u30e7\u30f3\u3092\u898b\u308b' },
         apps: {
-            getOnPlay: 'Google Play\u3067\u5165\u624b', tagMobile: '\u30e2\u30d0\u30a4\u30eb\u30a2\u30d7\u30ea', tagAiTutor: 'AI\u30c1\u30e5\u30fc\u30bf\u30fc', tagAiScanner: 'AI\u30b9\u30ad\u30e3\u30ca\u30fc', tagFeatured: '\u6ce8\u76ee',
+            getOnPlay: 'Google Play\u3067\u5165\u624b', tagMobile: '\u30e2\u30d0\u30a4\u30eb\u30a2\u30d7\u30ea', tagAiTutor: 'AI\u30c1\u30e5\u30fc\u30bf\u30fc', tagAiScanner: 'AI\u30b9\u30ad\u30e3\u30ca\u30fc', tagFeatured: '\u6700\u65b0',
             vchytel: { title: 'AI Agent Vchytel', tag: '\u30a6\u30af\u30e9\u30a4\u30ca\u8a9e', desc: '\u30a6\u30af\u30e9\u30a4\u30ca\u8a9e\u3092\u5b66\u3073\u3001\u30ea\u30a2\u30eb\u306a\u4f1a\u8a71\u3092\u7df4\u7fd2\u3057\u3001AI\u6559\u5e2b\u3068\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u306b\u7ffb\u8a33\u3057\u307e\u3057\u3087\u3046\u3002', chip1: '\u97f3\u58f0\u30c1\u30e3\u30c3\u30c8', chip2: '\u30ab\u30e1\u30e9', chip3: '\u7ffb\u8a33', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: '\u5e83\u6771\u8a9e', desc: '\u5e83\u6771\u8a9e\u3092AI\u6559\u5e2b\u3068\u5b66\u3073\u307e\u3057\u3087\u3046\u3002', chip1: '\u97f3\u58f0\u30c1\u30e3\u30c3\u30c8', chip2: '\u30ab\u30e1\u30e9', chip3: '\u5e83\u6771\u8a9e', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: '\u5317\u4eac\u8a9e', desc: '\u5317\u4eac\u8a9e\u3092AI\u6559\u5e2b\u3068\u5b66\u3073\u307e\u3057\u3087\u3046\u3002', chip1: '\u97f3\u58f0\u30c1\u30e3\u30c3\u30c8', chip2: '\u30ab\u30e1\u30e9', chip3: '\u5317\u4eac\u8a9e', chip4: 'Flutter' },
@@ -265,10 +261,10 @@ const translations = {
     ko: {
         skipToMain: '\uc8fc\uc694 \ucf58\ud150\uce20\ub85c \uac74\ub108\ub6f0\uae30',
         nav: { home: '\ud648', about: '\uc18c\uac1c', skills: '\uae30\uc220', aiApps: 'AI \uc571', cta: '\uc5f0\ub77d\ud558\uae30' },
-        hero: { eyebrow: '\ubaa8\ubc14\uc77c \uc571', title: 'AI \uc9c0\uc6d0 \ubaa8\ubc14\uc77c \uacbd\ud5d8', subtitle: 'Flutter\ub85c \ub9cc\ub4e4\uc5b4\uc9c4 \uc9c0\ub2a5\ud615 \uc571 \ucf2c\ub809\uc158 \u2014 \uc5b8\uc5b4 \uad50\uc0ac, \ucf54\uc778 \uc2a4\uce90\ub108 \ub4f1.', stat1Label: '\uc571 \ub77c\uc774\ube0c', stat2Label: '\uc5b8\uc5b4', stat3Label: '100\u00a0% AI' },
+        hero: { eyebrow: '\ubaa8\ubc14\uc77c \uc571', title: '\ubaa8\ubc14\uc77c \uc571', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: '\ubaa8\ub4e0 \uc571', title: '\ucf2c\ub809\uc158 \uac80\uc0c9' },
         apps: {
-            getOnPlay: 'Google Play\uc5d0\uc11c \ub2e4\uc6b4\ub85c\ub4dc', tagMobile: '\ubaa8\ubc14\uc77c \uc571', tagAiTutor: 'AI \ud29c\ud130', tagAiScanner: 'AI \uc2a4\uce90\ub108', tagFeatured: '\uc8fc\ubaa9',
+            getOnPlay: 'Google Play\uc5d0\uc11c \ub2e4\uc6b4\ub85c\ub4dc', tagMobile: '\ubaa8\ubc14\uc77c \uc571', tagAiTutor: 'AI \ud29c\ud130', tagAiScanner: 'AI \uc2a4\uce90\ub108', tagFeatured: '\ucd08\uc2dc',
             vchytel: { title: 'AI Agent Vchytel', tag: '\uc6b0\ud06c\ub77c\uc774\ub098\uc5b4', desc: '\uc6b0\ud06c\ub77c\uc774\ub098\uc5b4\ub97c \ubc30\uc6b0\uace0 AI \uc120\uc0dd\ub2d8\uacfc \uc2e4\uc2dc\uac04 \ub300\ud654\ub97c \uc5f0\uc2b5\ud558\uc138\uc694.', chip1: '\uc74c\uc131 \ucc44\ud305', chip2: '\uce74\uba54\ub77c', chip3: '\ubc88\uc5ed', chip4: 'Flutter' },
             lousi: { title: 'AI Agent Lousi', tag: '\uad11\ub3d9\uc5b4', desc: 'AI \uc120\uc0dd\ub2d8\uacfc \uad11\ub3d9\uc5b4\ub97c \ubc30\uc6b0\uc138\uc694.', chip1: '\uc74c\uc131 \ucc44\ud305', chip2: '\uce74\uba54\ub77c', chip3: '\uad11\ub3d9\uc5b4', chip4: 'Flutter' },
             laoshi: { title: 'AI Agent Laoshi', tag: '\ub9cc\ub2e4\ub9b0\uc5b4', desc: 'AI \uc120\uc0dd\ub2d8\uacfc \ub9cc\ub2e4\ub9b0\uc5b4\ub97c \ubc30\uc6b0\uc138\uc694.', chip1: '\uc74c\uc131 \ucc44\ud305', chip2: '\uce74\uba54\ub77c', chip3: '\ub9cc\ub2e4\ub9b0\uc5b4', chip4: 'Flutter' },
@@ -281,7 +277,7 @@ const translations = {
     ar: {
         skipToMain: '\u0627\u0646\u062a\u0642\u0644 \u0625\u0644\u0649 \u0627\u0644\u0645\u062d\u062a\u0648\u0649 \u0627\u0644\u0631\u0626\u064a\u0633\u064a',
         nav: { home: '\u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629', about: '\u062d\u0648\u0644', skills: '\u0627\u0644\u0645\u0647\u0627\u0631\u0627\u062a', aiApps: '\u062a\u0637\u0628\u064a\u0642\u0627\u062a AI', cta: '\u062a\u0648\u0627\u0635\u0644 \u0645\u0639\u064a' },
-        hero: { eyebrow: '\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u062c\u0648\u0627\u0644', title: '\u062a\u062c\u0627\u0631\u0628 \u062c\u0648\u0627\u0644 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a', subtitle: '\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062a\u0646\u0627\u0645\u064a\u0629 \u0645\u0646 \u062a\u0637\u0628\u064a\u0642\u0627\u062a Flutter \u0627\u0644\u0630\u0643\u064a\u0629 \u2014 \u0645\u062f\u0631\u0633\u0648\u0646 \u0644\u063a\u0648\u064a\u0648\u0646 \u0648\u0645\u0627\u0633\u062d\u0648 \u0639\u0645\u0644\u0627\u062a.', stat1Label: '\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u062d\u064a\u0629', stat2Label: '\u0644\u063a\u0627\u062a', stat3Label: '100\u00a0% \u0630\u0643\u0627\u0621' },
+        hero: { eyebrow: '\u062a\u0637\u0628\u064a\u0642\u0627\u062a \u0627\u0644\u062c\u0648\u0627\u0644', title: '\u062a\u062c\u0627\u0631\u0628 \u062c\u0648\u0627\u0644 \u0645\u062f\u0639\u0648\u0645\u0629 \u0628\u0627\u0644\u0630\u0643\u0627\u0621 \u0627\u0644\u0627\u0635\u0637\u0646\u0627\u0639\u064a', subtitle: '\u0645\u062c\u0645\u0648\u0639\u0629 \u0645\u062a\u0646\u0627\u0645\u064a\u0629 \u0645\u0646 \u062a\u0637\u0628\u064a\u0642\u0627\u062a Flutter \u0627\u0644\u0630\u0643\u064a\u0629 \u2014 \u0645\u062f\u0631\u0633\u0648\u0646 \u0644\u063a\u0648\u064a\u0648\u0646 \u0648\u0645\u0627\u0633\u062d\u0648 \u0639\u0645\u0644\u0627\u062a.',
         grid: { tag: '\u062c\u0645\u064a\u0639 \u0627\u0644\u062a\u0637\u0628\u064a\u0642\u0627\u062a', title: '\u0627\u0633\u062a\u0639\u0631\u0636 \u0627\u0644\u0645\u062c\u0645\u0648\u0639\u0629' },
         apps: {
             getOnPlay: '\u0627\u062d\u0635\u0644 \u0639\u0644\u0649 Google Play', tagMobile: '\u062a\u0637\u0628\u064a\u0642 \u062c\u0648\u0627\u0644', tagAiTutor: '\u0645\u062f\u0631\u0633 AI', tagAiScanner: '\u0645\u0627\u0633\u062d AI', tagFeatured: '\u0645\u0645\u064a\u0632',
@@ -297,7 +293,7 @@ const translations = {
     pl: {
         skipToMain: 'Przejd\u017a do tre\u015bci g\u0142\u00f3wnej',
         nav: { home: 'Strona g\u0142\u00f3wna', about: 'O mnie', skills: 'Umiej\u0119tno\u015bci', aiApps: 'Aplikacje AI', cta: 'Porozmawiajmy' },
-        hero: { eyebrow: 'Aplikacje Mobilne', title: 'Mobilne Do\u015bwiadczenia z AI', subtitle: 'Rosn\u0105ca kolekcja inteligentnych aplikacji Flutter \u2014 tutorzy j\u0119zykowi, skanery monet i wi\u0119cej.', stat1Label: 'Aplikacji', stat2Label: 'J\u0119zyk\u00f3w', stat3Label: '100\u00a0% AI' },
+        hero: { eyebrow: 'Aplikacje Mobilne', title: 'Aplikacje Mobilne', subtitle: 'Mobile applications for language learning and identification.',
         grid: { tag: 'Wszystkie Aplikacje', title: 'Przegl\u0105daj Kolekcj\u0119' },
         apps: {
             getOnPlay: 'Pobierz na Google Play', tagMobile: 'Aplikacja mobilna', tagAiTutor: 'Tutor AI', tagAiScanner: 'Skaner AI', tagFeatured: 'Wyr\u00f3\u017cniona',
@@ -326,7 +322,7 @@ const rtlLangs = new Set(['ar']);
 // localStorage helpers
 // ========================================
 function getStoredLanguage() {
-    // Honour ?lang= query param first, then localStorage, then default 'en'
+    // Honour ?lang= query param first, then localStorage, then default 'en',
     const params = new URLSearchParams(location.search);
     const qLang = params.get('lang');
     if (qLang && translations[qLang]) return qLang;
@@ -371,10 +367,6 @@ function applyTranslations(lang) {
     setText('[data-i18n="hero.eyebrow"]',  t.hero.eyebrow);
     setText('[data-i18n="hero.title"]',    t.hero.title);
     setText('[data-i18n="hero.subtitle"]', t.hero.subtitle);
-    setText('[data-i18n="hero.stat1Label"]', t.hero.stat1Label);
-    setText('[data-i18n="hero.stat2Label"]', t.hero.stat2Label);
-    setText('[data-i18n="hero.stat3Label"]', t.hero.stat3Label);
-
     // Grid header
     setText('[data-i18n="grid.tag"]',   t.grid.tag);
     setText('[data-i18n="grid.title"]', t.grid.title);
@@ -505,31 +497,6 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }, { threshold: 0.12 });
     revealEls.forEach(el => io.observe(el));
-
-    // Counter animation for hero stats
-    document.querySelectorAll('.stat-number').forEach(el => {
-        const observer = new IntersectionObserver(entries => {
-            entries.forEach(entry => {
-                if (!entry.isIntersecting) return;
-                const text = el.textContent;
-                const num  = parseInt(text.replace(/\D/g, ''));
-                const sfx  = text.replace(/[0-9]/g, '');
-                if (isNaN(num)) return;
-                const start = performance.now();
-                const dur   = 1800;
-                function step(now) {
-                    const p = Math.min((now - start) / dur, 1);
-                    const ease = 1 - Math.pow(1 - p, 4);
-                    el.textContent = Math.floor(ease * num) + sfx;
-                    if (p < 1) requestAnimationFrame(step);
-                    else el.textContent = text;
-                }
-                requestAnimationFrame(step);
-                observer.unobserve(el);
-            });
-        }, { threshold: 0.6 });
-        observer.observe(el);
-    });
 
     // Reduced motion
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {

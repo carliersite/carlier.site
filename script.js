@@ -10,7 +10,7 @@ const translations = {
     en: {
         nav: {
             about: 'Background',
-            skills: 'Technologies',
+            skills: 'Technical Stack',
             projects: 'Projects',
             productApps: 'Product Apps',
             cta: "Technical Capabilities"
@@ -26,7 +26,7 @@ const translations = {
             highlight3: '',
             subtitle4: '',
             subtitle5: '',
-            recentReleases: 'Production Systems',
+            recentReleases: 'Production Solutions',
             cta: 'Technical Capabilities'
         },
         about: {
@@ -39,7 +39,7 @@ const translations = {
             value3: { title: 'Performance', desc: 'Optimized systems for reliability and efficiency' }
         },
         skills: {
-            tag: 'Technologies',
+            tag: 'Technical Stack',
             title: 'Technical Stack',
             mobile: 'Mobile',
             web: 'Web & SaaS',
@@ -80,10 +80,10 @@ const translations = {
             text: "Available for engineering projects and technical consulting. Contact me to discuss requirements and solutions."
         },
         footer: {
-            tagline: 'Building products that make a difference.',
+            tagline: 'Engineering scalable technical solutions.',
             home: 'Home',
             about: 'About',
-            skills: 'Skills',
+            skills: 'Technical Stack',
             projects: 'Projects',
             contact: 'Contact',
             productApps: 'Product Apps',
@@ -177,7 +177,7 @@ const translations = {
             text: "Доступний для інженерних проєктів та технічних консультацій. Зв'яжіться зі мною, щоб обговорити вимоги та рішення."
         },
         footer: {
-            tagline: 'Створюю продукти, які змінюють світ.',
+            tagline: 'Розробка масштабованих технічних рішень.',
             home: 'Головна',
             about: 'Про мене',
             skills: 'Навички',
@@ -275,7 +275,7 @@ const translations = {
             text: "พร้อมรับโครงการวิศวกรรมและงานให้คำปรึกษาทางเทคนิค ติดต่อฉันเพื่อพูดคุยเกี่ยวกับข้อกำหนดและแนวทางแก้ไข"
         },
         footer: {
-            tagline: 'สร้างผลิตภัณฑ์ที่สร้างความแตกต่าง.',
+            tagline: 'ออกแบบโซลูชันทางเทคนิคที่ขยายได้.',
             home: 'หน้าแรก',
             about: 'เกี่ยวกับ',
             skills: 'ทักษะ',
@@ -373,7 +373,7 @@ const translations = {
             text: 'Disponível para projetos de engenharia e consultoria técnica. Entre em contato para discutir requisitos e soluções.'
         },
         footer: {
-            tagline: 'A construir produtos que fazem a diferença.',
+            tagline: 'Engenharia de soluções técnicas escaláveis.',
             home: 'Início',
             about: 'Sobre',
             skills: 'Competências',
@@ -471,7 +471,7 @@ const translations = {
             text: 'Disponible para proyectos de ingeniería y consultoría técnica. Contáctame para discutir requisitos y soluciones.'
         },
         footer: {
-            tagline: 'Construyendo productos que marcan la diferencia.',
+            tagline: 'Ingeniería de soluciones técnicas escalables.',
             home: 'Inicio',
             about: 'Sobre',
             skills: 'Habilidades',
@@ -525,7 +525,7 @@ const translations = {
         },
         skills: {
             tag: 'Expertise',
-            title: 'Technologies avec lesquelles je travaille',
+            title: 'Technical Stack Used',
             mobile: 'Développement Mobile',
             web: 'Web & SaaS',
             business: 'Solutions logicielles d\'entreprise',
@@ -569,7 +569,7 @@ const translations = {
             text: 'Disponible pour des projets d\'ingénierie et de consultation technique. Contactez-moi pour discuter des exigences et des solutions.'
         },
         footer: {
-            tagline: 'Construire des Apps Mobiles, des solutions SaaS et des Systèmes IA qui passent à l\'échelle.',
+            tagline: 'Conception de solutions techniques évolutives.',
             home: 'Accueil',
             about: 'À Propos',
             skills: 'Compétences',
@@ -667,7 +667,7 @@ const translations = {
             text: '可提供工程專案與技術諮詢服務。請聯繫我討論需求和解決方案。'
         },
         footer: {
-            tagline: '構建改變世界的產品。',
+            tagline: '工程可擴展技術解決方案。',
             home: '首頁',
             about: '關於',
             skills: '技能',
@@ -765,7 +765,7 @@ const translations = {
             text: '可提供工程项目与技术咨询服务。请联系我讨论需求和解决方案。'
         },
         footer: {
-            tagline: '构建改变世界的产品。',
+            tagline: '工程可扩展技术解决方案。',
             home: '首页',
             about: '关于',
             skills: '技能',
@@ -862,7 +862,7 @@ const translations = {
             text: 'इंजीनियरिंग परियोजनाओं और तकनीकी सलाहकार सेवा के लिए उपलब्ध हूँ। आवश्यकताओं और समाधानों पर चर्चा करने के लिए मुझसे संपर्क करें।'
         },
         footer: {
-            tagline: 'अंतर लाने वाले उत्पाद बना रहे हैं।',
+            tagline: 'स्केलेबल तकनीकी समाधान इंजीनियरिंग।',
             home: 'होम',
             about: 'परिचय',
             skills: 'कौशल',
@@ -960,7 +960,7 @@ const translations = {
             text: 'エンジニアリングプロジェクトや技術コンサルティングを承っています。要件とソリューションについてご相談ください。'
         },
         footer: {
-            tagline: '変化をもたらす製品を構築しています。',
+            tagline: 'スケーラブルな技術ソリューションをエンジニアリング。',
             home: 'ホーム',
             about: '概要',
             skills: 'スキル',
@@ -1058,7 +1058,7 @@ const translations = {
             text: 'متاح للمشاريع الهندسية والاستشارات التقنية. تواصل معي لمناقشة المتطلبات والحلول.'
         },
         footer: {
-            tagline: 'نبني منتجات تحدث فرقاً.',
+            tagline: 'هندسة حلول تقنية قابلة للتطوير.',
             home: 'الرئيسية',
             about: 'حول',
             skills: 'المهارات',
@@ -1156,7 +1156,7 @@ const translations = {
             text: 'Verfügbar für Ingenieursprojekte und technische Beratung. Kontaktieren Sie mich, um Anforderungen und Lösungen zu besprechen.'
         },
         footer: {
-            tagline: 'Produkte bauen, die einen Unterschied machen.',
+            tagline: 'Skalierbare technische Lösungen entwickeln.',
             home: 'Startseite',
             about: 'Über',
             skills: 'Fähigkeiten',
@@ -1254,7 +1254,7 @@ const translations = {
             text: 'Disponibile per progetti di ingegneria e consulenza tecnica. Contattami per discutere di requisiti e soluzioni.'
         },
         footer: {
-            tagline: 'Costruire prodotti che fanno la differenza.',
+            tagline: 'Ingegneria di soluzioni tecniche scalabili.',
             home: 'Home',
             about: 'Chi sono',
             skills: 'Competenze',
@@ -1352,7 +1352,7 @@ const translations = {
             text: '엔지니어링 프로젝트 및 기술 컨설팅을 제공합니다. 요구 사항과 솔루션에 대해 논의하기 위해 연락주세요.'
         },
         footer: {
-            tagline: '차이를 만드는 제품을 구축합니다.',
+            tagline: '확장 가능한 기술 솔루션 엔지니어링.',
             home: '홈',
             about: '소개',
             skills: '기술',
@@ -1449,7 +1449,7 @@ const translations = {
             text: 'Доступен для инженерных проектов и технических консультаций. Свяжитесь со мной, чтобы обсудить требования и решения.'
         },
         footer: {
-            tagline: 'Создаю продукты, которые меняют мир.',
+            tagline: 'Разработка масштабируемых технических решений.',
             home: 'Главная',
             about: 'О себе',
             skills: 'Навыки',
@@ -1548,7 +1548,7 @@ const translations = {
             text: 'Dostępny do projektów inżynierskich i konsultacji technicznych. Skontaktuj się ze mną, aby omówić wymagania i rozwiązania.'
         },
         footer: {
-            tagline: 'Tworzymy produkty, które robią różnicę.',
+            tagline: 'Inżynieria skalowalnych rozwiązań technicznych.',
             home: 'Strona główna',
             about: 'O mnie',
             skills: 'Umiejętności',
@@ -1678,6 +1678,9 @@ function initLanguageSwitcher() {
         e.stopPropagation();
         langSwitcher.classList.toggle('active');
     });
+
+    // Prevent clicks inside the switcher from closing it via the document listener
+    langSwitcher.addEventListener('click', (e) => e.stopPropagation());
 
     // Close dropdown when clicking outside
     document.addEventListener('click', () => {

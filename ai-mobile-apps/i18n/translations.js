@@ -6,17 +6,12 @@ const translations = {
       "about": "About",
       "skills": "Skills",
       "aiApps": "AI mobile apps",
-      "contact": "Let's Talk"
+      "contact": "Contact Me"
     },
     "hero": {
       "eyebrow": "Mobile Apps",
-      "title": "AI-Powered Mobile Experiences",
-      "subtitle": "A growing suite of intelligent apps built with Flutter from language tutors to smart scanners, each powered by cutting-edge AI.",
-      "stats": {
-        "appsLive": "Apps Live",
-        "languages": "Languages",
-        "aiNative": "AI-Native"
-      }
+      "title": "Mobile Applications",
+      "subtitle": "Mobile applications for language learning and identification."
     },
     "appsSection": {
       "tag": "All Apps",
@@ -27,7 +22,7 @@ const translations = {
         "mobileApp": "Mobile App",
         "aiTutor": "AI Tutor",
         "aiScanner": "AI Scanner",
-        "featured": "Featured",
+        "featured": "Latest",
         "cantonese": "Cantonese",
         "mandarin": "Mandarin",
         "thai": "Thai"
@@ -57,13 +52,13 @@ const translations = {
     },
     "storeBtn": "Get on Google Play",
     "cta": {
-      "title": "Have an app idea?",
-      "subtitle": "I build AI-native mobile apps from concept to the App Store & Google Play. Let's turn your vision into a product people love.",
+      "title": "Technical Consultation",
+      "subtitle": "I develop AI-native mobile applications from specification to App Store and Google Play deployment.",
       "primary": "Get in Touch",
       "secondary": "Back to Home"
     },
     "footer": {
-      "tagline": "Building products that make a difference.",
+      "tagline": "Engineering scalable technical solutions.",
       "home": "Home",
       "about": "About",
       "skills": "Skills",
@@ -92,13 +87,8 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Applications Mobiles",
-      "title": "Expériences Mobiles Alimentées par l'IA",
+      "title": "Applications Mobiles",
       "subtitle": "Une suite croissante d'applications intelligentes construites avec Flutter, des tuteurs linguistiques aux scanners intelligents, chacune alimentée par l'IA de pointe.",
-      "stats": {
-        "appsLive": "Apps en ligne",
-        "languages": "Langues",
-        "aiNative": "100% IA"
-      }
     },
     "appsSection": {
       "tag": "Toutes les Apps",
@@ -174,13 +164,8 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Mobile Apps",
-      "title": "KI-gestützte Mobile Erlebnisse",
+      "title": "Mobile Anwendungen",
       "subtitle": "Eine wachsende Suite intelligenter Apps, die mit Flutter gebaut sind - von Sprachlehrern bis zu intelligenten Scannern, jede mit modernster KI.",
-      "stats": {
-        "appsLive": "Apps Live",
-        "languages": "Sprachen",
-        "aiNative": "KI-Nativ"
-      }
     },
     "appsSection": {
       "tag": "Alle Apps",
@@ -256,13 +241,8 @@ const translations = {
     },
     "hero": {
       "eyebrow": "Aplicaciones Móviles",
-      "title": "Experiencias Móviles con IA",
+      "title": "Aplicaciones Móviles",
       "subtitle": "Una creciente suite de aplicaciones inteligentes construidas con Flutter, desde tutores de idiomas hasta escáneres inteligentes, cada una impulsada por IA de vanguardia.",
-      "stats": {
-        "appsLive": "Apps Activas",
-        "languages": "Idiomas",
-        "aiNative": "100% IA"
-      }
     },
     "appsSection": {
       "tag": "Todas las Apps",
@@ -338,13 +318,8 @@ const translations = {
     },
     "hero": {
       "eyebrow": "App Mobili",
-      "title": "Esperienze Mobili con IA",
+      "title": "Applicazioni Mobili",
       "subtitle": "Una suite in crescita di applicazioni intelligenti costruite con Flutter, da tutor linguistici a scanner intelligenti, ognuna alimentata da IA all'avanguardia.",
-      "stats": {
-        "appsLive": "App Attive",
-        "languages": "Lingue",
-        "aiNative": "100% IA"
-      }
     },
     "appsSection": {
       "tag": "Tutte le App",
@@ -422,11 +397,6 @@ const translations = {
       "eyebrow": "Aplicativos Móveis",
       "title": "Experiências Móveis com IA",
       "subtitle": "Uma suite crescente de aplicativos inteligentes construídos com Flutter, desde tutores de idiomas até scanners inteligentes, cada um alimentado por IA de ponta.",
-      "stats": {
-        "appsLive": "Apps Ativos",
-        "languages": "Idiomas",
-        "aiNative": "100% IA"
-      }
     },
     "appsSection": {
       "tag": "Todos os Apps",
@@ -502,13 +472,8 @@ const translations = {
     },
     "hero": {
       "eyebrow": "モバイルアプリ",
-      "title": "AI駆動のモバイル体験",
+      "title": "モバイルアプリ",
       "subtitle": "Flutterで構築された知的アプリの成長するスイート - 言語チューターからスマートスキャナーまで、最先端のAIで動作します。",
-      "stats": {
-        "appsLive": "アプリ稼働中",
-        "languages": "言語",
-        "aiNative": "AIネイティブ"
-      }
     },
     "appsSection": {
       "tag": "すべてのアプリ",
@@ -584,13 +549,8 @@ const translations = {
     },
     "hero": {
       "eyebrow": "移动应用",
-      "title": "AI驱动的移动体验",
+      "title": "移动应用",
       "subtitle": "一个不断增长的智能应用套件，使用Flutter构建 - 从语言导师到智能扫描仪，每个都由尖端AI驱动。",
-      "stats": {
-        "appsLive": "应用上线",
-        "languages": "语言",
-        "aiNative": "AI原生"
-      }
     },
     "appsSection": {
       "tag": "所有应用",
@@ -668,11 +628,6 @@ const translations = {
       "eyebrow": "行動應用",
       "title": "AI驅動的行動體驗",
       "subtitle": "一個不斷成長的智能應用套件，使用Flutter構建 - 從語言導師到智能掃描儀，每個都由尖端AI驅動。",
-      "stats": {
-        "appsLive": "應用上線",
-        "languages": "語言",
-        "aiNative": "AI原生"
-      }
     },
     "appsSection": {
       "tag": "所有應用",

@@ -6,53 +6,53 @@ const translations = {
       "download": "Download"
     },
     "hero": {
-      "eyebrow": "Live AI Mandarin Teacher & Translator",
-      "title": "Learn to speak and practice and translate Chinese Mandarin in real time with voice and vision.",
-      "copy": "AI Agent Laoshi helps you speak naturally, get instant corrections and translate words, phrases, and conversations with confidence through guided conversations.",
-      "cta": "Get the app",
-      "explore": "Explore features"
+      "eyebrow": "Mandarin Language Learning",
+      "title": "AI Mandarin Language Tutor",
+      "copy": "Mandarin language learning with AI-powered voice tutoring, real-time corrections, and translation support.",
+      "cta": "Download App",
+      "explore": "Technical Features"
     },
     "preview": {
       "tag": "App preview",
       "title": "Practice through a focused live session interface."
     },
     "features": {
-      "title": "Why learners choose AI Agent Laoshi",
+      "title": "Technical Features",
       "voice": {
-        "title": "Natural voice chat",
-        "desc": "Talk as you normally would and receive immediate spoken responses."
+        "title": "Voice Conversation",
+        "desc": "Real-time spoken dialogue practice with immediate AI responses."
       },
       "vision": {
-        "title": "Vision-guided practice",
-        "desc": "Use your camera to practice vocabulary and describe real objects."
+        "title": "Camera Vocabulary",
+        "desc": "Camera-based vocabulary practice for real-world objects."
       },
       "corrections": {
-        "title": "Structured corrections & translation",
-        "desc": "Get gentle fixes for pronunciation, grammar, and word choice plus instant translation support."
+        "title": "Corrections & Translation",
+        "desc": "Pronunciation, grammar, and vocabulary corrections with translation support."
       }
     },
     "how": {
-      "title": "How it works",
+      "title": "How It Works",
       "step1": {
         "num": "01",
-        "title": "Start a live session",
-        "desc": "Open the app, tap once, and begin speaking Mandarin instantly."
+        "title": "Start Session",
+        "desc": "Open the app and begin Mandarin practice."
       },
       "step2": {
         "num": "02",
-        "title": "Practice with context",
-        "desc": "Switch cameras to describe what you see and translate everyday scenes and train practical fluency."
+        "title": "Contextual Practice",
+        "desc": "Use cameras to describe objects and practice vocabulary."
       },
       "step3": {
         "num": "03",
-        "title": "Review and improve",
-        "desc": "Revisit logs, corrections, and speaking tips after each session."
+        "title": "Review Progress",
+        "desc": "Access session logs and corrections for improvement."
       }
     },
 "footer": {
-       "eyebrow": "Live Mandarin practice & translation",
-       "title": "Speak naturally or translate with an AI Mandarin coach.",
-       "copy": "Practice voice conversations, camera-based vocabulary, and structured corrections and instant translation from your phone.",
+       "eyebrow": "Mandarin Language Learning",
+       "title": "AI Mandarin Language Tutor",
+       "copy": "Voice conversation practice, camera-based vocabulary learning, and structured corrections with translation support.",
        "cta": "Download on Google Play",
        "linksLabel": "More Apps:",
        "links": {
@@ -63,11 +63,11 @@ const translations = {
        "home": "Home",
      },
     "session": {
-      "chip": "GEMINI LIVE ACTIVE",
-      "title": "Session: Daily Mandarin",
-      "voice": "Real-time voice conversation",
-      "camera": "Camera context for object learning",
-      "recap": "End-of-session recap and notes and instant translation for phrases and daily dialogue."
+      "chip": "AI Session",
+      "title": "Mandarin Learning",
+      "voice": "Voice conversation practice",
+      "camera": "Camera-based vocabulary learning",
+      "recap": "Session recaps and instant translation support."
     }
   },
   "fr": {
@@ -77,11 +77,11 @@ const translations = {
       "download": "Téléchargement"
     },
     "hero": {
-      "eyebrow": "Professeur IA Mandarin en Direct",
-      "title": "Apprenez à parler, pratiquer et traduire le mandarin en temps réel avec la voix et la vision.",
-      "copy": "AI Agent Laoshi vous aide à parler naturellement, obtenir des corrections instantanées et à gagner confiance grâce à des conversations guidées.",
-      "cta": "Obtenir l'application",
-      "explore": "Explorer les fonctionnalités"
+      "eyebrow": "Apprentissage du Mandarin",
+      "title": "Tuteur de Mandarin IA",
+      "copy": "Apprentissage du mandarin avec tuteur vocal IA, corrections en temps réel et support de traduction.",
+      "cta": "Télécharger l'application",
+      "explore": "Fonctionnalités techniques"
     },
     "preview": {
       "tag": "Aperçu de l'application",
