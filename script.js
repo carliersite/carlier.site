@@ -76,8 +76,8 @@ const translations = {
         },
         contact: {
             tag: 'Get In Touch',
-            title: "Let's build something amazing together",
-            text: "Have a project in mind? Looking for a technical partner? I'd love to hear about it. Let's discuss how we can bring your vision to life."
+            title: "Technical Consultation",
+            text: "Available for engineering projects and technical consulting. Contact me to discuss requirements and solutions."
         },
         footer: {
             tagline: 'Building products that make a difference.',
@@ -173,8 +173,8 @@ const translations = {
         },
         contact: {
             tag: 'Зв\'язатися',
-            title: "Давайте створимо щось дивовижне разом",
-            text: "Є ідея проєкту? Шукаєте технічного партнера? Я б із задоволенням почув про це. Давайте обговоримо, як ми можемо втілити ваше бачення."
+            title: "Технічна консультація",
+            text: "Доступний для інженерних проєктів та технічних консультацій. Зв'яжіться зі мною, щоб обговорити вимоги та рішення."
         },
         footer: {
             tagline: 'Створюю продукти, які змінюють світ.',
@@ -271,8 +271,8 @@ const translations = {
         },
         contact: {
             tag: 'ติดต่อเรา',
-            title: "มาร่วมสร้างสิ่งที่น่าทึ่งด้วยกันเถอะ",
-            text: "มีไอเดียโปรเจกต์? กำลังมองหาพาร์ทเนอร์ทางเทคนิค? ฉันอยากฟังความคิดของคุณ มาคุยกันว่าเราจะทำให้วิสัยทัศน์ของคุณเป็นจริงได้อย่างไร."
+            title: "การปรึกษาด้านเทคนิค",
+            text: "พร้อมรับโครงการวิศวกรรมและงานให้คำปรึกษาทางเทคนิค ติดต่อฉันเพื่อพูดคุยเกี่ยวกับข้อกำหนดและแนวทางแก้ไข"
         },
         footer: {
             tagline: 'สร้างผลิตภัณฑ์ที่สร้างความแตกต่าง.',
@@ -369,8 +369,8 @@ const translations = {
         },
         contact: {
             tag: 'Contacte-me',
-            title: 'Vamos construir algo incrível juntos',
-            text: 'Tem um projeto em mente? À procura de um parceiro técnico? Gostaria muito de ouvir falar sobre isso. Vamos discutir como podemos concretizar a sua visão.'
+            title: 'Consultoria Técnica',
+            text: 'Disponível para projetos de engenharia e consultoria técnica. Entre em contato para discutir requisitos e soluções.'
         },
         footer: {
             tagline: 'A construir produtos que fazem a diferença.',
@@ -467,8 +467,8 @@ const translations = {
         },
         contact: {
             tag: 'Ponte en Contacto',
-            title: 'Construyamos algo increíble juntos',
-            text: '¿Tienes un proyecto en mente? ¿Buscas un socio técnico? Me encantaría saber de ello. Discutamos cómo podemos hacer realidad tu visión.'
+            title: 'Consultoría Técnica',
+            text: 'Disponible para proyectos de ingeniería y consultoría técnica. Contáctame para discutir requisitos y soluciones.'
         },
         footer: {
             tagline: 'Construyendo productos que marcan la diferencia.',
@@ -565,8 +565,8 @@ const translations = {
         },
         contact: {
             tag: 'Prenez Contact',
-            title: 'Construisons quelque chose d\'incroyable ensemble',
-            text: 'Vous avez un projet en tête ? Vous cherchez un partenaire technique ? J\'adorerais en entendre parler. Discutons de la façon dont nous pouvons concrétiser votre vision.'
+            title: 'Consultation Technique',
+            text: 'Disponible pour des projets d\'ingénierie et de consultation technique. Contactez-moi pour discuter des exigences et des solutions.'
         },
         footer: {
             tagline: 'Construire des Apps Mobiles, des solutions SaaS et des Systèmes IA qui passent à l\'échelle.',
@@ -663,8 +663,8 @@ const translations = {
         },
         contact: {
             tag: '聯繫我',
-            title: '讓我們一起構建驚人的產品',
-            text: '有項目想法？正在尋找技術合作夥伴？我很樂意聽取您的想法。讓我們討論如何實現您的願景。'
+            title: '技術諮詢',
+            text: '可提供工程專案與技術諮詢服務。請聯繫我討論需求和解決方案。'
         },
         footer: {
             tagline: '構建改變世界的產品。',
@@ -761,8 +761,8 @@ const translations = {
         },
         contact: {
             tag: '联系我',
-            title: 'lets build something amazing together',
-            text: '有项目想法？正在寻找技术合作伙伴？我很乐意听取您的想法。让我们讨论如何实现您的愿景。'
+            title: '技术咨询',
+            text: '可提供工程项目与技术咨询服务。请联系我讨论需求和解决方案。'
         },
         footer: {
             tagline: '构建改变世界的产品。',
@@ -858,8 +858,8 @@ const translations = {
         },
         contact: {
             tag: 'संपर्क करें',
-            title: 'आइए कुछ अद्भुत बनाएं',
-            text: 'प्रोजेक्ट का विचार है? तकनीकी भागीदार की तलाश है? मैं आपके विचारों को सुनना पसंद करूंगा। आइए चर्चा करें कि हम आपके विजन को कैसे साकार कर सकते हैं।'
+            title: 'तकनीकी परामर्श',
+            text: 'इंजीनियरिंग परियोजनाओं और तकनीकी सलाहकार सेवा के लिए उपलब्ध हूँ। आवश्यकताओं और समाधानों पर चर्चा करने के लिए मुझसे संपर्क करें।'
         },
         footer: {
             tagline: 'अंतर लाने वाले उत्पाद बना रहे हैं।',
@@ -956,8 +956,8 @@ const translations = {
         },
         contact: {
             tag: 'お問い合わせ',
-            title: '一緒に素晴らしいものを作りましょう',
-            text: 'プロジェクトのアイデアはありますか？技術パートナーをお探しですか？ぜひお聞かせください。ビジョンを実現する方法について話し合いましょう。'
+            title: '技術コンサルティング',
+            text: 'エンジニアリングプロジェクトや技術コンサルティングを承っています。要件とソリューションについてご相談ください。'
         },
         footer: {
             tagline: '変化をもたらす製品を構築しています。',
@@ -1054,8 +1054,8 @@ const translations = {
         },
         contact: {
             tag: 'تواصل معي',
-            title: 'لنبني شيئاً رائعاً معاً',
-            text: 'هل لديك فكرة مشروع؟ هل تبحث عن شريك تقني؟ أود أن أسمع عنها. دعنا نناقش كيف يمكننا تحقيق رؤيتك.'
+            title: 'الاستشارة التقنية',
+            text: 'متاح للمشاريع الهندسية والاستشارات التقنية. تواصل معي لمناقشة المتطلبات والحلول.'
         },
         footer: {
             tagline: 'نبني منتجات تحدث فرقاً.',
@@ -1152,8 +1152,8 @@ const translations = {
         },
         contact: {
             tag: 'Kontaktieren',
-            title: 'Lass uns etwas Großartiges zusammen bauen',
-            text: 'Haben Sie eine Projektidee? Suchen Sie einen technischen Partner? Ich würde gerne davon hören. Lass uns besprechen, wie wir Ihre Vision verwirklichen können.'
+            title: 'Technische Beratung',
+            text: 'Verfügbar für Ingenieursprojekte und technische Beratung. Kontaktieren Sie mich, um Anforderungen und Lösungen zu besprechen.'
         },
         footer: {
             tagline: 'Produkte bauen, die einen Unterschied machen.',
@@ -1250,8 +1250,8 @@ const translations = {
         },
         contact: {
             tag: 'Contattami',
-            title: 'Costruiamo qualcosa di incredibile insieme',
-            text: 'Hai un\'idea di progetto? Cerchi un partner tecnico? Mi piacerebbe sentirne parlare. Discutiamo come possiamo realizzare la tua visione.'
+            title: 'Consulenza Tecnica',
+            text: 'Disponibile per progetti di ingegneria e consulenza tecnica. Contattami per discutere di requisiti e soluzioni.'
         },
         footer: {
             tagline: 'Costruire prodotti che fanno la differenza.',
@@ -1348,8 +1348,8 @@ const translations = {
         },
         contact: {
             tag: '연락하기',
-            title: '함께 놀라운 것을 만들어 봅시다',
-            text: '프로젝트 아이디어가 있으신가요? 기술 파트너를 찾고 계신가요? 듣고 싶습니다. 비전을 실현하는 방법에 대해 논의해 봅시다.'
+            title: '기술 상담',
+            text: '엔지니어링 프로젝트 및 기술 컨설팅을 제공합니다. 요구 사항과 솔루션에 대해 논의하기 위해 연락주세요.'
         },
         footer: {
             tagline: '차이를 만드는 제품을 구축합니다.',
@@ -1445,8 +1445,8 @@ const translations = {
         },
         contact: {
             tag: 'Связаться',
-            title: 'Давайте создадим что-то удивительное вместе',
-            text: 'Есть идея проекта? Ищете технического партнера? Мне бы хотелось услышать об этом. Давайте обсудим, как мы можем реализовать ваше видение.'
+            title: 'Техническая консультация',
+            text: 'Доступен для инженерных проектов и технических консультаций. Свяжитесь со мной, чтобы обсудить требования и решения.'
         },
         footer: {
             tagline: 'Создаю продукты, которые меняют мир.',
@@ -1544,8 +1544,8 @@ const translations = {
         },
         contact: {
             tag: 'Napisz do mnie',
-            title: 'Zbudujmy coś niesamowitego razem',
-            text: 'Masz pomysł na projekt? Szukasz technicznego partnera? Chętnie dowiem się więcej. Porozmawiajmy o tym, jak możemy przełożyć Twoją wizję na rzeczywistość.'
+            title: 'Konsultacje techniczne',
+            text: 'Dostępny do projektów inżynierskich i konsultacji technicznych. Skontaktuj się ze mną, aby omówić wymagania i rozwiązania.'
         },
         footer: {
             tagline: 'Tworzymy produkty, które robią różnicę.',
