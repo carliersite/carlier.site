@@ -9,7 +9,7 @@
 const translations = {
     en: {
         nav: {
-            about: 'Background',
+            about: 'About',
             skills: 'Technical Stack',
             projects: 'Projects',
             productApps: 'Product Apps',
@@ -1606,12 +1606,13 @@ function setStoredLanguage(lang) {
 function updateCanonical(lang) {
     const canonical = document.querySelector('link[rel="canonical"]');
     if (!canonical) return;
-    const baseUrl = 'https://carlier.site/';
+    const canonicalUrl = new URL(canonical.href);
     if (lang && lang !== 'en') {
-        canonical.setAttribute('href', `${baseUrl}?lang=${encodeURIComponent(lang)}`);
+        canonicalUrl.searchParams.set('lang', lang);
     } else {
-        canonical.setAttribute('href', baseUrl);
+        canonicalUrl.search = '';
     }
+    canonical.setAttribute('href', canonicalUrl.toString());
 }
 
 function updateContent(lang) {
