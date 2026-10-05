@@ -5,8 +5,7 @@ const translations = {
       "home": "Home",
       "about": "About",
       "skills": "Skills",
-      "aiApps": "AI mobile apps",
-      "contact": "Contact Us"
+      "aiApps": "AI mobile apps"
     },
     "hero": {
       "eyebrow": "Mobile Apps",

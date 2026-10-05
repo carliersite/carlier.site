@@ -12,8 +12,7 @@ const translations = {
             about: 'About',
             skills: 'Technical Stack',
             projects: 'Projects',
-            productApps: 'Product Apps',
-            cta: "Technical Capabilities"
+            productApps: 'Product Apps'
         },
         hero: {
             title1: 'Software Engineering & Product Development',
@@ -26,8 +25,7 @@ const translations = {
             highlight3: '',
             subtitle4: '',
             subtitle5: '',
-            recentReleases: 'Production Solutions',
-            cta: 'Technical Capabilities'
+            recentReleases: 'Production Solutions'
         },
         about: {
             tag: 'Background',
