@@ -9,7 +9,8 @@
         <!-- Primary Meta Tags -->
         <title>OdooHost Pro | Odoo Managed Hosting</title>
         <meta name="title" content="OdooHost Pro | Odoo Managed Hosting">
-        <meta name="description" content="Managed Odoo Community Edition hosting with automated SSL, monitoring, and user management.">
+        <meta name="description"
+            content="Managed Odoo Community Edition hosting with automated SSL, monitoring, and user management.">
         <meta name="keywords" content="Odoo hosting, managed Odoo, Odoo Community Edition, Odoo hosting service">
         <meta name="robots" content="index, follow">
 
@@ -91,7 +92,9 @@
             }
 
             /* Reset & Base */
-            *, *::before, *::after {
+            *,
+            *::before,
+            *::after {
                 box-sizing: border-box;
                 margin: 0;
                 padding: 0;
@@ -116,7 +119,9 @@
                 text-decoration: none;
             }
 
-            ul { list-style: none; }
+            ul {
+                list-style: none;
+            }
 
             img {
                 max-width: 100%;
@@ -271,10 +276,23 @@
             }
 
             @keyframes float {
-                0%, 100% { transform: translate(0, 0) scale(1); }
-                25% { transform: translate(50px, -50px) scale(1.1); }
-                50% { transform: translate(0, 50px) scale(0.95); }
-                75% { transform: translate(-50px, -25px) scale(1.05); }
+
+                0%,
+                100% {
+                    transform: translate(0, 0) scale(1);
+                }
+
+                25% {
+                    transform: translate(50px, -50px) scale(1.1);
+                }
+
+                50% {
+                    transform: translate(0, 50px) scale(0.95);
+                }
+
+                75% {
+                    transform: translate(-50px, -25px) scale(1.05);
+                }
             }
 
             .hero-content {
@@ -308,8 +326,17 @@
             }
 
             @keyframes pulse {
-                0%, 100% { opacity: 1; transform: scale(1); }
-                50% { opacity: 0.5; transform: scale(1.2); }
+
+                0%,
+                100% {
+                    opacity: 1;
+                    transform: scale(1);
+                }
+
+                50% {
+                    opacity: 0.5;
+                    transform: scale(1.2);
+                }
             }
 
             .hero-title {
@@ -322,10 +349,14 @@
             }
 
             @media (min-width: 768px) {
-                .hero-title { font-size: var(--text-7xl); }
+                .hero-title {
+                    font-size: var(--text-7xl);
+                }
             }
 
-            .title-line { display: block; }
+            .title-line {
+                display: block;
+            }
 
             .title-line--accent {
                 background: linear-gradient(135deg, var(--color-primary-light), var(--color-accent-1), var(--color-accent-2));
@@ -369,8 +400,13 @@
                 text-decoration: none;
             }
 
-            .btn svg { transition: transform var(--transition-base); }
-            .btn:hover svg { transform: translateX(4px); }
+            .btn svg {
+                transition: transform var(--transition-base);
+            }
+
+            .btn:hover svg {
+                transform: translateX(4px);
+            }
 
             .btn--primary {
                 background: linear-gradient(135deg, var(--color-primary), var(--color-primary-dark));
@@ -403,7 +439,9 @@
                 animation: fadeInUp 0.8s ease-out 0.4s both;
             }
 
-            .stat { text-align: center; }
+            .stat {
+                text-align: center;
+            }
 
             .stat-number {
                 display: block;
@@ -449,13 +487,29 @@
             }
 
             @keyframes scroll-wheel {
-                0%, 100% { transform: translateY(0); opacity: 1; }
-                50% { transform: translateY(8px); opacity: 0.3; }
+
+                0%,
+                100% {
+                    transform: translateY(0);
+                    opacity: 1;
+                }
+
+                50% {
+                    transform: translateY(8px);
+                    opacity: 0.3;
+                }
             }
 
             @keyframes bounce {
-                0%, 100% { transform: translateX(-50%) translateY(0); }
-                50% { transform: translateX(-50%) translateY(-10px); }
+
+                0%,
+                100% {
+                    transform: translateX(-50%) translateY(0);
+                }
+
+                50% {
+                    transform: translateX(-50%) translateY(-10px);
+                }
             }
 
             /* ========================================
@@ -484,7 +538,9 @@
             }
 
             @media (min-width: 768px) {
-                .section-title { font-size: var(--text-5xl); }
+                .section-title {
+                    font-size: var(--text-5xl);
+                }
             }
 
             .section-subtitle {
@@ -510,11 +566,15 @@
             }
 
             @media (min-width: 640px) {
-                .features-grid { grid-template-columns: repeat(2, 1fr); }
+                .features-grid {
+                    grid-template-columns: repeat(2, 1fr);
+                }
             }
 
             @media (min-width: 968px) {
-                .features-grid { grid-template-columns: repeat(3, 1fr); }
+                .features-grid {
+                    grid-template-columns: repeat(3, 1fr);
+                }
             }
 
             .feature-card {
@@ -528,7 +588,7 @@
             .feature-card:hover {
                 transform: translateY(-4px);
                 border-color: var(--color-primary);
-                box-shadow: var(--shadow-glow), inset 0 1px 0 rgba(255,255,255,0.06);
+                box-shadow: var(--shadow-glow), inset 0 1px 0 rgba(255, 255, 255, 0.06);
                 background-color: rgba(99, 102, 241, 0.06);
                 backdrop-filter: blur(8px);
                 -webkit-backdrop-filter: blur(8px);
@@ -548,18 +608,23 @@
             .feature-icon--purple {
                 background: linear-gradient(135deg, #8b5cf6, #6366f1);
             }
+
             .feature-icon--cyan {
                 background: linear-gradient(135deg, #22d3ee, #06b6d4);
             }
+
             .feature-icon--pink {
                 background: linear-gradient(135deg, #f472b6, #ec4899);
             }
+
             .feature-icon--orange {
                 background: linear-gradient(135deg, #f97316, #ea580c);
             }
+
             .feature-icon--green {
                 background: linear-gradient(135deg, #34d399, #10b981);
             }
+
             .feature-icon--indigo {
                 background: linear-gradient(135deg, #6366f1, #4f46e5);
             }
@@ -594,7 +659,9 @@
             }
 
             @media (min-width: 768px) {
-                .pricing-grid { grid-template-columns: repeat(3, 1fr); }
+                .pricing-grid {
+                    grid-template-columns: repeat(3, 1fr);
+                }
             }
 
             .pricing-card {
@@ -624,7 +691,7 @@
                 content: '';
                 position: absolute;
                 inset: 0;
-                background: linear-gradient(135deg, rgba(99,102,241,0.08), transparent);
+                background: linear-gradient(135deg, rgba(99, 102, 241, 0.08), transparent);
                 pointer-events: none;
             }
 
@@ -666,6 +733,10 @@
                 gap: var(--space-4);
             }
 
+            .pricing-stripe .btn {
+                width: 100%;
+            }
+
             .pricing-features {
                 list-style: none;
                 margin-bottom: var(--space-8);
@@ -683,7 +754,9 @@
                 line-height: 1.5;
             }
 
-            .pricing-feature:last-child { border-bottom: none; }
+            .pricing-feature:last-child {
+                border-bottom: none;
+            }
 
             .pricing-feature .check {
                 width: 20px;
@@ -732,7 +805,10 @@
             }
 
             @media (min-width: 968px) {
-                .guarantee-grid { grid-template-columns: 1fr 1fr; gap: var(--space-16); }
+                .guarantee-grid {
+                    grid-template-columns: 1fr 1fr;
+                    gap: var(--space-16);
+                }
             }
 
             .guarantee-visual {
@@ -765,9 +841,17 @@
                 border-radius: 50%;
             }
 
-            .server-dot--red { background-color: #ef4444; }
-            .server-dot--yellow { background-color: #fbbf24; }
-            .server-dot--green { background-color: #34d399; }
+            .server-dot--red {
+                background-color: #ef4444;
+            }
+
+            .server-dot--yellow {
+                background-color: #fbbf24;
+            }
+
+            .server-dot--green {
+                background-color: #34d399;
+            }
 
             .server-title {
                 margin-left: auto;
@@ -785,22 +869,34 @@
                 justify-content: space-between;
                 align-items: center;
                 padding: var(--space-3) 0;
-                border-bottom: 1px solid rgba(42,42,58,0.6);
+                border-bottom: 1px solid rgba(42, 42, 58, 0.6);
                 font-size: var(--text-sm);
             }
 
-            .server-row:last-child { border-bottom: none; }
+            .server-row:last-child {
+                border-bottom: none;
+            }
 
-            .server-label { color: var(--color-text-dim); }
+            .server-label {
+                color: var(--color-text-dim);
+            }
 
             .server-value {
                 font-weight: 600;
                 color: var(--color-text);
             }
 
-            .server-value--green { color: var(--color-success); }
-            .server-value--cyan { color: var(--color-accent-1); }
-            .server-value--purple { color: var(--color-primary-light); }
+            .server-value--green {
+                color: var(--color-success);
+            }
+
+            .server-value--cyan {
+                color: var(--color-accent-1);
+            }
+
+            .server-value--purple {
+                color: var(--color-primary-light);
+            }
 
             .status-badge {
                 display: inline-flex;
@@ -813,7 +909,7 @@
             }
 
             .status-badge--online {
-                background: rgba(52,211,153,0.15);
+                background: rgba(52, 211, 153, 0.15);
                 color: var(--color-success);
             }
 
@@ -849,9 +945,17 @@
                 color: white;
             }
 
-            .guarantee-icon--green { background: linear-gradient(135deg, #34d399, #10b981); }
-            .guarantee-icon--blue { background: linear-gradient(135deg, #22d3ee, #06b6d4); }
-            .guarantee-icon--purple { background: linear-gradient(135deg, #a78bfa, #7c3aed); }
+            .guarantee-icon--green {
+                background: linear-gradient(135deg, #34d399, #10b981);
+            }
+
+            .guarantee-icon--blue {
+                background: linear-gradient(135deg, #22d3ee, #06b6d4);
+            }
+
+            .guarantee-icon--purple {
+                background: linear-gradient(135deg, #a78bfa, #7c3aed);
+            }
 
             .guarantee-text h4 {
                 font-family: var(--font-display);
@@ -904,14 +1008,23 @@
                 transition: color var(--transition-fast);
             }
 
-            .footer-back:hover { color: var(--color-primary-light); }
+            .footer-back:hover {
+                color: var(--color-primary-light);
+            }
 
             /* ========================================
                Animations
                ======================================== */
             @keyframes fadeInUp {
-                from { opacity: 0; transform: translateY(20px); }
-                to { opacity: 1; transform: translateY(0); }
+                from {
+                    opacity: 0;
+                    transform: translateY(20px);
+                }
+
+                to {
+                    opacity: 1;
+                    transform: translateY(0);
+                }
             }
 
             .reveal {
@@ -929,12 +1042,32 @@
                Responsive
                ======================================== */
             @media (max-width: 767px) {
-                .hero-title { font-size: var(--text-4xl); }
-                .hero-stats { flex-direction: column; gap: var(--space-6); }
-                .scroll-indicator { display: none; }
-                .section-title { font-size: var(--text-3xl); }
-                .hero-cta { flex-direction: column; align-items: center; }
-                .btn { width: 100%; max-width: 320px; }
+                .hero-title {
+                    font-size: var(--text-4xl);
+                }
+
+                .hero-stats {
+                    flex-direction: column;
+                    gap: var(--space-6);
+                }
+
+                .scroll-indicator {
+                    display: none;
+                }
+
+                .section-title {
+                    font-size: var(--text-3xl);
+                }
+
+                .hero-cta {
+                    flex-direction: column;
+                    align-items: center;
+                }
+
+                .btn {
+                    width: 100%;
+                    max-width: 320px;
+                }
             }
         </style>
     </head>
@@ -973,8 +1106,9 @@
                         <div class="hero-cta">
                             <a href="#pricing" class="btn btn--primary" id="hero-cta-primary">
                                 View Pricing
-                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <path d="M5 12h14M12 5l7 7-7 7"/>
+                                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <path d="M5 12h14M12 5l7 7-7 7" />
                                 </svg>
                             </a>
                             <a href="#features" class="btn btn--secondary" id="hero-cta-secondary">
@@ -1010,61 +1144,76 @@
                     <div class="section-header reveal">
                         <span class="section-tag">What's Included</span>
                         <h2 id="features-title" class="section-title">Everything you need, nothing you don't</h2>
-                        <p class="section-subtitle">Every instance ships pre-configured and production-ready from day one.</p>
+                        <p class="section-subtitle">Every instance ships pre-configured and production-ready from day
+                            one.</p>
                     </div>
                     <div class="features-grid">
                         <div class="feature-card reveal">
                             <div class="feature-icon feature-icon--purple">
-                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/>
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
                                 </svg>
                             </div>
                             <h3>Performance Optimized</h3>
-                            <p>Pre-configured Nginx, PostgreSQL, and Odoo workers tuned for maximum speed and minimal latency.</p>
+                            <p>Pre-configured Nginx, PostgreSQL, and Odoo workers tuned for maximum speed and minimal
+                                latency.</p>
                         </div>
                         <div class="feature-card reveal">
                             <div class="feature-icon feature-icon--cyan">
-                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
                                 </svg>
                             </div>
                             <h3>Root-Level Security</h3>
-                            <p>Automated SSL certificates, firewall hardening, and security best practices applied at the OS level.</p>
+                            <p>Automated SSL certificates, firewall hardening, and security best practices applied at
+                                the OS level.</p>
                         </div>
                         <div class="feature-card reveal">
                             <div class="feature-icon feature-icon--green">
-                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <circle cx="12" cy="12" r="10"/>
-                                    <path d="M12 6v6l4 2"/>
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <circle cx="12" cy="12" r="10" />
+                                    <path d="M12 6v6l4 2" />
                                 </svg>
                             </div>
                             <h3>24/7 Monitoring</h3>
-                            <p>Continuous uptime monitoring with instant alerts so issues are caught and resolved before you notice them.</p>
+                            <p>Continuous uptime monitoring with instant alerts so issues are caught and resolved before
+                                you notice them.</p>
                         </div>
                         <div class="feature-card reveal">
                             <div class="feature-icon feature-icon--indigo">
-                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <rect x="2" y="2" width="20" height="8" rx="2"/>
-                                    <rect x="2" y="14" width="20" height="8" rx="2"/>
-                                    <path d="M6 6h.01"/><path d="M6 18h.01"/>
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <rect x="2" y="2" width="20" height="8" rx="2" />
+                                    <rect x="2" y="14" width="20" height="8" rx="2" />
+                                    <path d="M6 6h.01" />
+                                    <path d="M6 18h.01" />
                                 </svg>
                             </div>
                             <h3>Latest Odoo Build</h3>
-                            <p>Always running the latest stable Odoo Community Edition with timely updates and patch management.</p>
+                            <p>Always running the latest stable Odoo Community Edition with timely updates and patch
+                                management.</p>
                         </div>
                         <div class="feature-card reveal">
                             <div class="feature-icon feature-icon--orange">
-                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/>
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <path
+                                        d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z" />
                                 </svg>
                             </div>
                             <h3>Optional Off-Site Backups</h3>
-                            <p>Configure automated backups with a customised retention policy as an optional add-on at extra cost.</p>
+                            <p>Configure automated backups with a customised retention policy as an optional add-on at
+                                extra cost.</p>
                         </div>
                         <div class="feature-card reveal">
                             <div class="feature-icon feature-icon--pink">
-                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                    <path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/>
+                                <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor"
+                                    stroke-width="2">
+                                    <path
+                                        d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z" />
                                 </svg>
                             </div>
                             <h3>No Hidden Fees</h3>
@@ -1087,41 +1236,54 @@
                         <!-- Features Card -->
                         <div class="pricing-card reveal">
                             <h3 class="pricing-title">All-Inclusive Hosting</h3>
-                            <p class="pricing-description">Everything you need to run Odoo at scale, bundled into one flat-rate plan.</p>
+                            <p class="pricing-description">Everything you need to run Odoo at scale, bundled into one
+                                flat-rate plan.</p>
                             <ul class="pricing-features">
                                 <li class="pricing-feature">
                                     <span class="check">
-                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M20 6L9 17l-5-5"/></svg>
+                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                                            <path d="M20 6L9 17l-5-5" />
+                                        </svg>
                                     </span>
                                     Latest Odoo Community Build
                                 </li>
                                 <li class="pricing-feature">
                                     <span class="check">
-                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M20 6L9 17l-5-5"/></svg>
+                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                                            <path d="M20 6L9 17l-5-5" />
+                                        </svg>
                                     </span>
                                     Unlimited Users &amp; Records
                                 </li>
                                 <li class="pricing-feature">
                                     <span class="check">
-                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M20 6L9 17l-5-5"/></svg>
+                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                                            <path d="M20 6L9 17l-5-5" />
+                                        </svg>
                                     </span>
                                     Automated SSL Certificates
                                 </li>
                                 <li class="pricing-feature">
                                     <span class="check">
-                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M20 6L9 17l-5-5"/></svg>
+                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                                            <path d="M20 6L9 17l-5-5" />
+                                        </svg>
                                     </span>
                                     24/7 Monitoring &amp; Uptime
                                 </li>
                                 <li class="pricing-feature">
                                     <span class="check">
-                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M20 6L9 17l-5-5"/></svg>
+                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                                            <path d="M20 6L9 17l-5-5" />
+                                        </svg>
                                     </span>
                                     Root-Level Security Hardening
                                 </li>
                                 <li class="pricing-feature">
                                     <span class="check-opt">
-                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3"><path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z"/></svg>
+                                        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3">
+                                            <path d="M13 2L3 14h9l-1 8 10-12h-9l1-8z" />
+                                        </svg>
                                     </span>
                                     Automated Backups (optional add-on)
                                 </li>
@@ -1132,25 +1294,27 @@
                         <div class="pricing-card pricing-card--featured reveal">
                             <div class="pricing-badge">⚡ Most Popular</div>
                             <h3 class="pricing-title">Monthly</h3>
-                            <p class="pricing-description">Flexible month-to-month billing. Cancel anytime with no penalty.</p>
+                            <p class="pricing-description">Flexible month-to-month billing. Cancel anytime with no
+                                penalty.</p>
                             <div class="pricing-stripe">
                                 <script async src="https://js.stripe.com/v3/buy-button.js"></script>
-                                <stripe-buy-button
-                                    buy-button-id="buy_btn_1TwLmcLm99a37CEY8BRP8KGs"
-                                    publishable-key="pk_test_51TvajELm99a37CEYUMijj3taQCUoqAD37Wh7AFtlOeprBX8qWcO7tVsdPE332CSUSWssRRFSUsWdBPzlAEgPm1NT00eDDSO0Vc">
+                                <stripe-buy-button buy-button-id="buy_btn_1TwMDWPs9xUnmLhgVmNvJhUP"
+                                    publishable-key="pk_live_51TvainPs9xUnmLhg2L6E2WjMss3MX6CoPAAv9R8KDRkj6xsawJmlAGtdRgRNYr90HCM3giAxWoQb4XRSEZkKE2pd00p9mME1Il">
                                 </stripe-buy-button>
                             </div>
                         </div>
 
                         <!-- Annual -->
                         <div class="pricing-card reveal">
-                            <div class="pricing-badge" style="background: linear-gradient(135deg, var(--color-accent-1), #06b6d4);">🎉 Best Value</div>
+                            <div class="pricing-badge"
+                                style="background: linear-gradient(135deg, var(--color-accent-1), #06b6d4);">🎉 Best
+                                Value</div>
                             <h3 class="pricing-title">Annually</h3>
-                            <p class="pricing-description">Pay yearly and save. Lock in your price for the full year ahead.</p>
+                            <p class="pricing-description">Pay yearly and save. Lock in your price for the full year
+                                ahead.</p>
                             <div class="pricing-stripe">
-                                <stripe-buy-button
-                                    buy-button-id="buy_btn_1TwLuWLm99a37CEYrsjyOzYg"
-                                    publishable-key="pk_test_51TvajELm99a37CEYUMijj3taQCUoqAD37Wh7AFtlOeprBX8qWcO7tVsdPE332CSUSWssRRFSUsWdBPzlAEgPm1NT00eDDSO0Vc">
+                                <stripe-buy-button buy-button-id="buy_btn_1TwMDWPs9xUnmLhgswKZc5rh"
+                                    publishable-key="pk_live_51TvainPs9xUnmLhg2L6E2WjMss3MX6CoPAAv9R8KDRkj6xsawJmlAGtdRgRNYr90HCM3giAxWoQb4XRSEZkKE2pd00p9mME1Il">
                                 </stripe-buy-button>
                             </div>
                         </div>
@@ -1169,38 +1333,45 @@
                             <div class="guarantee-list">
                                 <div class="guarantee-item">
                                     <div class="guarantee-icon guarantee-icon--green">
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                            stroke="currentColor" stroke-width="2">
+                                            <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
                                         </svg>
                                     </div>
                                     <div class="guarantee-text">
                                         <h4>Production-Grade Security</h4>
-                                        <p>Your instance is isolated, hardened, and protected. Automated SSL, firewall rules, and regular security patches applied automatically.</p>
+                                        <p>Your instance is isolated, hardened, and protected. Automated SSL, firewall
+                                            rules, and regular security patches applied automatically.</p>
                                     </div>
                                 </div>
                                 <div class="guarantee-item">
                                     <div class="guarantee-icon guarantee-icon--blue">
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                            <circle cx="12" cy="12" r="10"/>
-                                            <path d="M12 6v6l4 2"/>
+                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                            stroke="currentColor" stroke-width="2">
+                                            <circle cx="12" cy="12" r="10" />
+                                            <path d="M12 6v6l4 2" />
                                         </svg>
                                     </div>
                                     <div class="guarantee-text">
                                         <h4>Predictable Cost, Always</h4>
-                                        <p>No per-user pricing, no per-module fees. One flat rate regardless of how much you grow. Scale your business, not your bill.</p>
+                                        <p>No per-user pricing, no per-module fees. One flat rate regardless of how much
+                                            you grow. Scale your business, not your bill.</p>
                                     </div>
                                 </div>
                                 <div class="guarantee-item">
                                     <div class="guarantee-icon guarantee-icon--purple">
-                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-                                            <rect x="2" y="2" width="20" height="8" rx="2"/>
-                                            <rect x="2" y="14" width="20" height="8" rx="2"/>
-                                            <path d="M6 6h.01"/><path d="M6 18h.01"/>
+                                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+                                            stroke="currentColor" stroke-width="2">
+                                            <rect x="2" y="2" width="20" height="8" rx="2" />
+                                            <rect x="2" y="14" width="20" height="8" rx="2" />
+                                            <path d="M6 6h.01" />
+                                            <path d="M6 18h.01" />
                                         </svg>
                                     </div>
                                     <div class="guarantee-text">
                                         <h4>Zero Infrastructure Headaches</h4>
-                                        <p>No server management, no Nginx config, no PostgreSQL tuning. We handle all of it so you can focus on running your business.</p>
+                                        <p>No server management, no Nginx config, no PostgreSQL tuning. We handle all of
+                                            it so you can focus on running your business.</p>
                                     </div>
                                 </div>
                             </div>
@@ -1263,7 +1434,8 @@
             <div class="container">
                 <div class="footer-inner">
                     <div class="footer-brand">OdooHost Pro</div>
-                    <p class="footer-copy">&copy; 2026 OdooHost Pro. Odoo is a trademark of Odoo S.A. This service is not affiliated with Odoo S.A.</p>
+                    <p class="footer-copy">&copy; 2026 OdooHost Pro. Odoo is a trademark of Odoo S.A. This service is
+                        not affiliated with Odoo S.A.</p>
                     <a href="https://carlier.site/" class="footer-back">← Back to Carlier.site</a>
                 </div>
             </div>
