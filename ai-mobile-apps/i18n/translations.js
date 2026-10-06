@@ -14,7 +14,7 @@ const translations = {
     },
     "appsSection": {
       "tag": "All Apps",
-      "title": "Browse the Collection"
+      "title": "Mobile Applications"
     },
     "appCards": {
       "tags": {
