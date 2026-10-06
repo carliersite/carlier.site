@@ -4,6 +4,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Home",
       "about": "About",
+      "productApps": "Product Apps",
       "skills": "Skills",
       "aiApps": "AI mobile apps"
     },
@@ -56,6 +57,10 @@ const translations = {
       "primary": "Get in Touch",
       "secondary": "Back to Home"
     },
+    "contact": {
+      "title": "Technical Consultation",
+      "text": "Available for engineering projects and technical consulting. Contact us to discuss requirements and solutions."
+    },
     "footer": {
       "tagline": "Engineering scalable technical solutions.",
       "home": "Home",
@@ -69,6 +74,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Learn Chinese",
         "cantonese": "Learn Cantonese",
+        "thai": "Learn Thai",
         "coin": "Coin Identifier"
       },
       "copyright": "All rights reserved.",
@@ -80,6 +86,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Accueil",
       "about": "À propos",
+      "productApps": "Product Apps",
       "skills": "Compétences",
       "aiApps": "Apps IA",
       "contact": "Contactez-nous"
@@ -133,6 +140,10 @@ const translations = {
       "primary": "Contactez-nous",
       "secondary": "Retour à l'accueil"
     },
+    "contact": {
+      "title": "Consultation Technique",
+      "text": "Disponible pour des projets d'ingénierie et de consultation technique. Contactez-nous pour discuter des exigences et des solutions."
+    },
     "footer": {
       "tagline": "Construire des produits qui font la différence.",
       "home": "Accueil",
@@ -146,6 +157,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Apprendre le Chinois",
         "cantonese": "Apprendre le Cantonais",
+        "thai": "Apprendre le Thaï",
         "coin": "Identificateur de Pièces"
       },
       "copyright": "Tous droits réservés.",
@@ -157,6 +169,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Startseite",
       "about": "Über mich",
+      "productApps": "Product Apps",
       "skills": "Fähigkeiten",
       "aiApps": "KI-Apps",
       "contact": "Kontakt"
@@ -210,6 +223,10 @@ const translations = {
       "primary": "Kontakt aufnehmen",
       "secondary": "Zurück zur Startseite"
     },
+    "contact": {
+      "title": "Technische Beratung",
+      "text": "Verfügbar für Ingenieursprojekte und technische Beratung. Kontaktieren Sie uns, um Anforderungen und Lösungen zu besprechen."
+    },
     "footer": {
       "tagline": "Produkte bauen, die einen Unterschied machen.",
       "home": "Startseite",
@@ -223,6 +240,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Chinesisch lernen",
         "cantonese": "Kantonisch lernen",
+        "thai": "Thailändisch lernen",
         "coin": "Münz-Identifier"
       },
       "copyright": "Alle Rechte vorbehalten.",
@@ -234,6 +252,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Inicio",
       "about": "Acerca de",
+      "productApps": "Product Apps",
       "skills": "Habilidades",
       "aiApps": "Apps de IA",
       "contact": "Hablemos"
@@ -287,6 +306,10 @@ const translations = {
       "primary": "Pongámonos en contacto",
       "secondary": "Volver al Inicio"
     },
+    "contact": {
+      "title": "Consultoría Técnica",
+      "text": "Disponible para proyectos de ingeniería y consultoría técnica. Contáctanos para discutir requisitos y soluciones."
+    },
     "footer": {
       "tagline": "Construyendo productos que marcan la diferencia.",
       "home": "Inicio",
@@ -300,6 +323,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Aprender Chino",
         "cantonese": "Aprender Cantonés",
+        "thai": "Aprender Tailandés",
         "coin": "Identificador de Monedas"
       },
       "copyright": "Todos los derechos reservados.",
@@ -311,6 +335,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Home",
       "about": "Chi sono",
+      "productApps": "Product Apps",
       "skills": "Competenze",
       "aiApps": "App IA",
       "contact": "Contattaci"
@@ -364,6 +389,10 @@ const translations = {
       "primary": "Mettiti in contatto",
       "secondary": "Torna alla Home"
     },
+    "contact": {
+      "title": "Consulenza Tecnica",
+      "text": "Disponibile per progetti di ingegneria e consulenza tecnica. Contattaci per discutere di requisiti e soluzioni."
+    },
     "footer": {
       "tagline": "Costruire prodotti che fanno la differenza.",
       "home": "Home",
@@ -377,6 +406,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Impara il Cinese",
         "cantonese": "Impara il Cantonese",
+        "thai": "Impara il Thai",
         "coin": "Identificatore di Monete"
       },
       "copyright": "Tutti i diritti riservati.",
@@ -388,6 +418,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Início",
       "about": "Sobre",
+      "productApps": "Product Apps",
       "skills": "Habilidades",
       "aiApps": "Apps de IA",
       "contact": "Vamos conversar"
@@ -441,6 +472,10 @@ const translations = {
       "primary": "Entre em contato",
       "secondary": "Voltar ao Início"
     },
+    "contact": {
+      "title": "Consultoria Técnica",
+      "text": "Disponível para projetos de engenharia e consultoria técnica. Contacte-nos para discutir requisitos e soluções."
+    },
     "footer": {
       "tagline": "Construindo produtos que Fazem a diferença.",
       "home": "Início",
@@ -454,6 +489,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "Aprender Chinês",
         "cantonese": "Aprender Cantonês",
+        "thai": "Aprender Tailandês",
         "coin": "Identificador de Moedas"
       },
       "copyright": "Todos os direitos reservados.",
@@ -465,6 +501,7 @@ const translations = {
       "brand": "Carlier",
       "home": "ホーム",
       "about": "について",
+      "productApps": "Product Apps",
       "skills": "スキル",
       "aiApps": "AIアプリ",
       "contact": "お問い合わせ"
@@ -518,6 +555,10 @@ const translations = {
       "primary": "お問い合わせ",
       "secondary": "ホームに戻る"
     },
+    "contact": {
+      "title": "技術コンサルティング",
+      "text": "エンジニアリングプロジェクトや技術コンサルティングを承っています。要件とソリューションについてご相談ください。"
+    },
     "footer": {
       "tagline": "違いを生む製品を構築。",
       "home": "ホーム",
@@ -531,6 +572,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "中国語を学ぶ",
         "cantonese": "広東語を学ぶ",
+        "thai": "タイ語を学ぶ",
         "coin": "コイン識別"
       },
       "copyright": "全著作権所有。",
@@ -542,6 +584,7 @@ const translations = {
       "brand": "Carlier",
       "home": "首页",
       "about": "关于",
+      "productApps": "Product Apps",
       "skills": "技能",
       "aiApps": "AI应用",
       "contact": "联系我们"
@@ -595,6 +638,10 @@ const translations = {
       "primary": "联系我们",
       "secondary": "返回首页"
     },
+    "contact": {
+      "title": "技术咨询",
+      "text": "可提供工程项目与技术咨询服务。请联系我们讨论需求和解决方案。"
+    },
     "footer": {
       "tagline": "构建有影响力的产品。",
       "home": "首页",
@@ -608,6 +655,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "学习中文",
         "cantonese": "学习粤语",
+        "thai": "学习泰语",
         "coin": "硬币识别"
       },
       "copyright": "版权所有。",
@@ -619,6 +667,7 @@ const translations = {
       "brand": "Carlier",
       "home": "首頁",
       "about": "關於",
+      "productApps": "Product Apps",
       "skills": "技能",
       "aiApps": "AI應用",
       "contact": "聯繫我們"
@@ -672,6 +721,10 @@ const translations = {
       "primary": "聯繫我們",
       "secondary": "返回首頁"
     },
+    "contact": {
+      "title": "技術諮詢",
+      "text": "可提供工程專案與技術諮詢服務。請聯繫我們討論需求和解決方案。"
+    },
     "footer": {
       "tagline": "構建有影響力的產品。",
       "home": "首頁",
@@ -685,6 +738,7 @@ const translations = {
         "aiMobileApps": "AI Mobile Apps",
         "chinese": "學習中文",
         "cantonese": "學習粵語",
+        "thai": "學習泰語",
         "coin": "硬幣識別"
       },
       "copyright": "版權所有。",
