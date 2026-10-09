@@ -34,7 +34,7 @@
             footer: {
                 tagline: 'Engineering scalable technical solutions.',
                 home: 'Home', about: 'About', skills: 'Skills', aiApps: 'AI Apps', contact: 'Contact',
-                chinese: 'Learn Chinese', cantonese: 'Learn Cantonese', coin: 'Coin Identifier',
+                chinese: 'Learn Chinese AI App', cantonese: 'Learn Cantonese AI App', coin: 'Coin Identifier',
                 copyright: '© 2026 Carlier. All rights reserved.',
                 crafted: 'Crafted with passion'
             }
@@ -54,7 +54,7 @@
                 coin: { title: 'Coin Identifier', tag: 'Scanner IA', desc: 'Application de scan de pièces alimentée par l’IA.', chip1: 'Vision IA', chip2: 'Valorisation', chip3: 'Rareté', chip4: 'Catalogue', chip5: 'Flutter' }
             },
             cta: { title: 'Une idée d’app ?', text: 'Nous concevons des applications mobiles IA du concept au store.', btnPrimary: 'Nous contacter', btnSecondary: 'Retour à l’accueil' },
-            footer: { tagline: 'Construire des produits qui font la différence.', home: 'Accueil', about: 'À propos', skills: 'Compétences', aiApps: 'Apps IA', contact: 'Contact', chinese: 'Apprendre le Chinois', cantonese: 'Apprendre le Cantonais', coin: 'Coin Identifier', copyright: '© 2026 Carlier. Tous droits réservés.', crafted: 'Créé avec passion' }
+            footer: { tagline: 'Construire des produits qui font la différence.', home: 'Accueil', about: 'À propos', skills: 'Compétences', aiApps: 'Apps IA', contact: 'Contact', chinese: 'Apprendre le Chinois AI App', cantonese: 'Apprendre le Cantonais AI App', coin: 'Coin Identifier', copyright: '© 2026 Carlier. Tous droits réservés.', crafted: 'Créé avec passion' }
         },
         de: {
             skipToMain: 'Zum Hauptinhalt springen',
@@ -70,7 +70,7 @@
                 coin: { title: 'Coin Identifier', tag: 'KI-Scanner', desc: 'KI-gestützte Münzscanner-App für Sammler.', chip1: 'KI-Sicht', chip2: 'Wertschätzung', chip3: 'Seltenheit', chip4: 'Sammlungs-Katalog', chip5: 'Flutter' }
             },
             cta: { title: 'App-Idee?', text: 'Wir entwickeln AI-native mobile Apps vom Konzept bis zum Store.', btnPrimary: 'Kontakt aufnehmen', btnSecondary: 'Zurück zur Startseite' },
-            footer: { tagline: 'Produkte bauen, die einen Unterschied machen.', home: 'Startseite', about: 'Über', skills: 'Fähigkeiten', aiApps: 'KI Apps', contact: 'Kontakt', chinese: 'Chinesisch lernen', cantonese: 'Kantonesisch lernen', coin: 'Coin Identifier', copyright: '© 2026 Carlier. Alle Rechte vorbehalten.', crafted: 'Mit Leidenschaft erstellt' }
+            footer: { tagline: 'Produkte bauen, die einen Unterschied machen.', home: 'Startseite', about: 'Über', skills: 'Fähigkeiten', aiApps: 'KI Apps', contact: 'Kontakt', chinese: 'Chinesisch lernen AI App', cantonese: 'Kantonesisch lernen AI App', coin: 'Coin Identifier', copyright: '© 2026 Carlier. Alle Rechte vorbehalten.', crafted: 'Mit Leidenschaft erstellt' }
         },
         es: {
             skipToMain: 'Saltar al contenido principal',
@@ -86,7 +86,7 @@
                 coin: { title: 'Coin Identifier', tag: 'Escáner IA', desc: 'Aplicación para coleccionistas con IA.', chip1: 'Visión IA', chip2: 'Valoración', chip3: 'Rareza', chip4: 'Catálogo', chip5: 'Flutter' }
             },
             cta: { title: '¿Tienes una idea?', text: 'Diseñamos apps móviles IA del concepto al store.', btnPrimary: 'Contáctanos', btnSecondary: 'Volver al inicio' },
-            footer: { tagline: 'Construimos productos que marcan la diferencia.', home: 'Inicio', about: 'Sobre', skills: 'Habilidades', aiApps: 'Apps IA', contact: 'Contacto', chinese: 'Aprender chino', cantonese: 'Aprender cantonés', coin: 'Coin Identifier', copyright: '© 2026 Carlier. Todos los derechos reservados.', crafted: 'Creado con pasión' }
+            footer: { tagline: 'Construimos productos que marcan la diferencia.', home: 'Inicio', about: 'Sobre', skills: 'Habilidades', aiApps: 'Apps IA', contact: 'Contacto', chinese: 'Aprender chino AI App', cantonese: 'Aprender cantonés AI App', coin: 'Coin Identifier', copyright: '© 2026 Carlier. Todos los derechos reservados.', crafted: 'Creado con pasión' }
         }
     };
 

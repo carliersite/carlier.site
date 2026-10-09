@@ -23,9 +23,9 @@ const translations = {
         "aiTutor": "AI Tutor",
         "aiScanner": "AI Scanner",
         "featured": "Latest",
-        "cantonese": "Cantonese",
+        "cantonese": "Cantonese AI App",
         "mandarin": "Mandarin",
-        "thai": "Thai"
+        "thai": "Thai AI App"
       },
       "titles": {
         "lousi": "AI Agent Lousi",
@@ -72,9 +72,9 @@ const translations = {
       "productApps": "Applications produit",
       "landing": {
         "aiMobileApps": "Applications mobiles IA",
-        "chinese": "Learn Chinese",
-        "cantonese": "Learn Cantonese",
-        "thai": "Learn Thai",
+        "chinese": "Learn Chinese AI App",
+        "cantonese": "Learn Cantonese AI App",
+        "thai": "Learn Thai AI App",
         "coin": "Coin Identifier"
       },
       "copyright": "All rights reserved.",
@@ -106,9 +106,9 @@ const translations = {
         "aiTutor": "Tuteur IA",
         "aiScanner": "Scanner IA",
         "featured": "En vedette",
-        "cantonese": "Cantonais",
+        "cantonese": "Cantonais AI App",
         "mandarin": "Mandarin",
-        "thai": "Thaï"
+        "thai": "Thaï AI App"
       },
       "titles": {
         "lousi": "Agent IA Lousi",
@@ -155,9 +155,9 @@ const translations = {
       "productApps": "Applications produit",
       "landing": {
         "aiMobileApps": "Applications mobiles IA",
-        "chinese": "Apprendre le Chinois",
-        "cantonese": "Apprendre le Cantonais",
-        "thai": "Apprendre le Thaï",
+        "chinese": "Apprendre le Chinois AI App",
+        "cantonese": "Apprendre le Cantonais AI App",
+        "thai": "Apprendre le Thaï AI App",
         "coin": "Identificateur de Pièces"
       },
       "copyright": "Tous droits réservés.",
@@ -189,9 +189,9 @@ const translations = {
         "aiTutor": "KI-Lehrer",
         "aiScanner": "KI-Scanner",
         "featured": "Empfohlen",
-        "cantonese": "Kantonisch",
+        "cantonese": "Kantonisch AI App",
         "mandarin": "Mandarin",
-        "thai": "Thailändisch"
+        "thai": "Thailändisch AI App"
       },
       "titles": {
         "lousi": "KI-Agent Lousi",
@@ -238,9 +238,9 @@ const translations = {
       "productApps": "Produkt-Apps",
       "landing": {
         "aiMobileApps": "KI-Mobile-Apps",
-        "chinese": "Chinesisch lernen",
-        "cantonese": "Kantonisch lernen",
-        "thai": "Thailändisch lernen",
+        "chinese": "Chinesisch lernen AI App",
+        "cantonese": "Kantonisch lernen AI App",
+        "thai": "Thailändisch lernen AI App",
         "coin": "Münz-Identifier"
       },
       "copyright": "Alle Rechte vorbehalten.",
@@ -272,9 +272,9 @@ const translations = {
         "aiTutor": "Tutor de IA",
         "aiScanner": "Escáner de IA",
         "featured": "Destacado",
-        "cantonese": "Cantonés",
+        "cantonese": "Cantonés AI App",
         "mandarin": "Mandarín",
-        "thai": "Tailandés"
+        "thai": "Tailandés AI App"
       },
       "titles": {
         "lousi": "Agente IA Lousi",
@@ -321,9 +321,9 @@ const translations = {
       "productApps": "Apps del producto",
       "landing": {
         "aiMobileApps": "Apps móviles de IA",
-        "chinese": "Aprender Chino",
-        "cantonese": "Aprender Cantonés",
-        "thai": "Aprender Tailandés",
+        "chinese": "Aprender Chino AI App",
+        "cantonese": "Aprender Cantonés AI App",
+        "thai": "Aprender Tailandés AI App",
         "coin": "Identificador de Monedas"
       },
       "copyright": "Todos los derechos reservados.",
@@ -355,9 +355,9 @@ const translations = {
         "aiTutor": "Tutore IA",
         "aiScanner": "Scanner IA",
         "featured": "In evidenza",
-        "cantonese": "Cinese Cantonese",
+        "cantonese": "Cinese Cantonese AI App",
         "mandarin": "Cinese Mandarino",
-        "thai": "Thailandese"
+        "thai": "Thailandese AI App"
       },
       "titles": {
         "lousi": "Agente IA Lousi",
@@ -404,9 +404,9 @@ const translations = {
       "productApps": "App del prodotto",
       "landing": {
         "aiMobileApps": "App mobili IA",
-        "chinese": "Impara il Cinese",
-        "cantonese": "Impara il Cantonese",
-        "thai": "Impara il Thai",
+        "chinese": "Impara il Cinese AI App",
+        "cantonese": "Impara il Cantonese AI App",
+        "thai": "Impara il Thai AI App",
         "coin": "Identificatore di Monete"
       },
       "copyright": "Tutti i diritti riservati.",
@@ -438,9 +438,9 @@ const translations = {
         "aiTutor": "Tutor de IA",
         "aiScanner": "Scanner de IA",
         "featured": "Destaque",
-        "cantonese": "Cantonês",
+        "cantonese": "Cantonês AI App",
         "mandarin": "Mandarim",
-        "thai": "Tailandês"
+        "thai": "Tailandês AI App"
       },
       "titles": {
         "lousi": "Agente IA Lousi",
@@ -487,9 +487,9 @@ const translations = {
       "productApps": "Apps do produto",
       "landing": {
         "aiMobileApps": "Apps móveis de IA",
-        "chinese": "Aprender Chinês",
-        "cantonese": "Aprender Cantonês",
-        "thai": "Aprender Tailandês",
+        "chinese": "Aprender Chinês AI App",
+        "cantonese": "Aprender Cantonês AI App",
+        "thai": "Aprender Tailandês AI App",
         "coin": "Identificador de Moedas"
       },
       "copyright": "Todos os direitos reservados.",
@@ -521,9 +521,9 @@ const translations = {
         "aiTutor": "AIチューター",
         "aiScanner": "AIスキャナー",
         "featured": "おすすめ",
-        "cantonese": "広東語",
+        "cantonese": "広東語 AI App",
         "mandarin": "中国語",
-        "thai": "タイ語"
+        "thai": "タイ語 AI App"
       },
       "titles": {
         "lousi": "AIエージェント Lousi",
@@ -570,9 +570,9 @@ const translations = {
       "productApps": "製品アプリ",
       "landing": {
         "aiMobileApps": "AIモバイルアプリ",
-        "chinese": "中国語を学ぶ",
-        "cantonese": "広東語を学ぶ",
-        "thai": "タイ語を学ぶ",
+        "chinese": "中国語を学ぶ AI App",
+        "cantonese": "広東語を学ぶ AI App",
+        "thai": "タイ語を学ぶ AI App",
         "coin": "コイン識別"
       },
       "copyright": "全著作権所有。",
@@ -604,9 +604,9 @@ const translations = {
         "aiTutor": "AI导师",
         "aiScanner": "AI扫描",
         "featured": "推荐",
-        "cantonese": "粤语",
+        "cantonese": "粤语 AI App",
         "mandarin": "普通话",
-        "thai": "泰语"
+        "thai": "泰语 AI App"
       },
       "titles": {
         "lousi": "AI代理 Lousi",
@@ -653,9 +653,9 @@ const translations = {
       "productApps": "产品应用",
       "landing": {
         "aiMobileApps": "AI移动应用",
-        "chinese": "学习中文",
-        "cantonese": "学习粤语",
-        "thai": "学习泰语",
+        "chinese": "学习中文 AI App",
+        "cantonese": "学习粤语 AI App",
+        "thai": "学习泰语 AI App",
         "coin": "硬币识别"
       },
       "copyright": "版权所有。",
@@ -687,9 +687,9 @@ const translations = {
         "aiTutor": "AI導師",
         "aiScanner": "AI掃描",
         "featured": "推薦",
-        "cantonese": "粵語",
+        "cantonese": "粵語 AI App",
         "mandarin": "國語",
-        "thai": "泰語"
+        "thai": "泰語 AI App"
       },
       "titles": {
         "lousi": "AI代理 Lousi",
@@ -736,9 +736,9 @@ const translations = {
       "productApps": "產品應用",
       "landing": {
         "aiMobileApps": "AI移動應用",
-        "chinese": "學習中文",
-        "cantonese": "學習粵語",
-        "thai": "學習泰語",
+        "chinese": "學習中文 AI App",
+        "cantonese": "學習粵語 AI App",
+        "thai": "學習泰語 AI App",
         "coin": "硬幣識別"
       },
       "copyright": "版權所有。",

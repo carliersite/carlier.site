@@ -56,9 +56,9 @@ const translations = {
        "cta": "Download on Google Play",
        "linksLabel": "More Apps:",
        "links": {
-         "cantonese": "Learn Cantonese",
-         "chinese": "Learn Chinese",
-         "thai": "Learn Thai",
+         "cantonese": "Learn Cantonese AI App",
+         "chinese": "Learn Chinese AI App",
+         "thai": "Learn Thai AI App",
          "coin": "Coin Identifier"
        }
      },
@@ -191,9 +191,9 @@ const translations = {
        "cta": "Bei Google Play herunterladen",
        "linksLabel": "Mehr Apps:",
        "links": {
-         "cantonese": "Kantonesisch lernen",
-         "chinese": "Chinesisch lernen",
-         "thai": "Thailändisch lernen",
+         "cantonese": "Kantonesisch lernen AI App",
+         "chinese": "Chinesisch lernen AI App",
+         "thai": "Thailändisch lernen AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -262,9 +262,9 @@ const translations = {
        "cta": "Descargar en Google Play",
        "linksLabel": "Más aplicaciones:",
        "links": {
-         "cantonese": "Aprender Cantones",
-         "chinese": "Aprender Chino",
-         "thai": "Aprender Tailandés",
+         "cantonese": "Aprender Cantones AI App",
+         "chinese": "Aprender Chino AI App",
+         "thai": "Aprender Tailandés AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -333,9 +333,9 @@ const translations = {
        "cta": "Scarica su Google Play",
        "linksLabel": "Altre App:",
        "links": {
-         "cantonese": "Impara il Cantonese",
-         "chinese": "Impara il Cinese",
-         "thai": "Impara il Thai",
+         "cantonese": "Impara il Cantonese AI App",
+         "chinese": "Impara il Cinese AI App",
+         "thai": "Impara il Thai AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -404,9 +404,9 @@ const translations = {
        "cta": "Baixar na Google Play",
        "linksLabel": "Mais apps:",
        "links": {
-         "cantonese": "Aprender Cantones",
-         "chinese": "Aprender Chinês",
-         "thai": "Aprender Tailandês",
+         "cantonese": "Aprender Cantones AI App",
+         "chinese": "Aprender Chinês AI App",
+         "thai": "Aprender Tailandês AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -475,9 +475,9 @@ const translations = {
        "cta": "Google Play पर डाउनलोड करें",
        "linksLabel": "अधिक ऐप्स:",
        "links": {
-         "cantonese": "कैंटोनीज़ सीखें",
-         "chinese": "चीनीज़ सीखें",
-         "thai": "थाई सीखें",
+         "cantonese": "कैंटोनीज़ सीखें AI App",
+         "chinese": "चीनीज़ सीखें AI App",
+         "thai": "थाई सीखें AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -546,9 +546,9 @@ const translations = {
        "cta": "Google Playからダウンロード",
        "linksLabel": "その他のアプリ:",
        "links": {
-         "cantonese": "広東語を学ぶ",
-         "chinese": "中国語を学ぶ",
-         "thai": "タイ語を学ぶ",
+         "cantonese": "広東語を学ぶ AI App",
+         "chinese": "中国語を学ぶ AI App",
+         "thai": "タイ語を学ぶ AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -617,9 +617,9 @@ const translations = {
        "cta": "Google Play에서 다운로드",
        "linksLabel": "더 많은 앱:",
        "links": {
-         "cantonese": "관동어 배우기",
-         "chinese": "중국어 배우기",
-         "thai": "태국어 배우기",
+         "cantonese": "관동어 배우기 AI App",
+         "chinese": "중국어 배우기 AI App",
+         "thai": "태국어 배우기 AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -688,9 +688,9 @@ const translations = {
        "cta": "Скачать в Google Play",
        "linksLabel": "Другие приложения:",
        "links": {
-         "cantonese": "Учить кантонский",
-         "chinese": "Учить китайский",
-         "thai": "Учить тайский",
+         "cantonese": "Учить кантонский AI App",
+         "chinese": "Учить китайский AI App",
+         "thai": "Учить тайский AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -759,9 +759,9 @@ const translations = {
        "cta": "Завантажити в Google Play",
        "linksLabel": "В<SPECIAL_571>",
        "links": {
-         "cantonese": "Вчитись кантонською",
-         "chinese": "Вчитись китайською",
-         "thai": "Вчитись тайською",
+         "cantonese": "Вчитись кантонською AI App",
+         "chinese": "Вчитись китайською AI App",
+         "thai": "Вчитись тайською AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -830,9 +830,9 @@ const translations = {
        "cta": "ดาวน์โหลดบน Google Play",
        "linksLabel": "แอปเพิ่มเติม:",
        "links": {
-         "cantonese": "เรียนภาษากวางตุ้ง",
-         "chinese": "เรียนภาษาจีน",
-         "thai": "เรียนภาษาไทย",
+         "cantonese": "เรียนภาษากวางตุ้ง AI App",
+         "chinese": "เรียนภาษาจีน AI App",
+         "thai": "เรียนภาษาไทย AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -901,9 +901,9 @@ const translations = {
        "cta": "تحميل من Google Play",
        "linksLabel": "تطبيقات أخرى:",
        "links": {
-         "cantonese": "تعلم الكانتونية",
-         "chinese": "تعلم الصينية",
-         "thai": "تعلم الثيين",
+         "cantonese": "تعلم الكانتونية AI App",
+         "chinese": "تعلم الصينية AI App",
+         "thai": "تعلم الثيين AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -972,9 +972,9 @@ const translations = {
        "cta": "在 Google Play 下載",
        "linksLabel": "更多應用程式:",
        "links": {
-         "cantonese": "學習廣東話",
-         "chinese": "學習中文",
-         "thai": "學習泰語",
+         "cantonese": "學習廣東話 AI App",
+         "chinese": "學習中文 AI App",
+         "thai": "學習泰語 AI App",
          "coin": "Coin Identifier",
        }
      },
@@ -1043,9 +1043,9 @@ const translations = {
        "cta": "Pobierz w Google Play",
        "linksLabel": "Więcej aplikacji:",
        "links": {
-         "cantonese": "Naucz się kantońskiego",
-         "chinese": "Naucz się chińskiego",
-         "thai": "Naucz się tajskiego",
+         "cantonese": "Naucz się kantońskiego AI App",
+         "chinese": "Naucz się chińskiego AI App",
+         "thai": "Naucz się tajskiego AI App",
          "coin": "Coin Identifier",
        }
      },

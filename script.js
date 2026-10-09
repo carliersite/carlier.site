@@ -87,9 +87,9 @@ const translations = {
             productApps: 'Product Apps',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Learn Cantonese',
-                chinese: 'Learn Chinese',
-                thai: 'Learn Thai'
+                cantonese: 'Learn Cantonese AI App',
+                chinese: 'Learn Chinese AI App',
+                thai: 'Learn Thai AI App'
             },
             copyright: '© 2026 Carlier. All rights reserved.',
             crafted: 'Crafted with passion'
@@ -184,9 +184,9 @@ const translations = {
             productApps: 'Продукти',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Вчитись кантонською',
-                chinese: 'Вчитись китайською',
-                thai: 'Вчитись тайською',
+                cantonese: 'Вчитись кантонською AI App',
+                chinese: 'Вчитись китайською AI App',
+                thai: 'Вчитись тайською AI App',
                 ukrainian: 'Вчитись українською'
             },
             copyright: '© 2026 Carlier. Всі права захищені.',
@@ -282,9 +282,9 @@ const translations = {
             productApps: 'แอปพลิเคชันผลิตภัณฑ์',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'เรียนภาษากวางตุ้ง',
-                chinese: 'เรียนภาษาจีน',
-                thai: 'เรียนภาษาไทย',
+                cantonese: 'เรียนภาษากวางตุ้ง AI App',
+                chinese: 'เรียนภาษาจีน AI App',
+                thai: 'เรียนภาษาไทย AI App',
                 ukrainian: 'เรียนภาษาอุโกครินะ'
             },
             copyright: '© 2026 Carlier. สงวนลิขสิทธิ์.',
@@ -380,9 +380,9 @@ const translations = {
             productApps: 'Apps de Produto',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Aprender Cantones',
-                chinese: 'Aprender Chinês',
-                thai: 'Aprender Tailandês',
+                cantonese: 'Aprender Cantones AI App',
+                chinese: 'Aprender Chinês AI App',
+                thai: 'Aprender Tailandês AI App',
                 ukrainian: 'Aprender Ucraniano'
             },
             copyright: '© 2026 Carlier. Todos os direitos reservados.',
@@ -478,9 +478,9 @@ const translations = {
             productApps: 'Apps de Producto',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Aprender Cantones',
-                chinese: 'Aprender Chino',
-                thai: 'Aprender Tailandés',
+                cantonese: 'Aprender Cantones AI App',
+                chinese: 'Aprender Chino AI App',
+                thai: 'Aprender Tailandés AI App',
                 ukrainian: 'Aprender Ucraniano'
             },
             copyright: '© 2026 Carlier. Todos los derechos reservados.',
@@ -576,9 +576,9 @@ const translations = {
             productApps: 'Apps Produits',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Apprendre le Cantonais',
-                chinese: 'Apprendre le Chinois',
-                thai: 'Apprendre le Thaï',
+                cantonese: 'Apprendre le Cantonais AI App',
+                chinese: 'Apprendre le Chinois AI App',
+                thai: 'Apprendre le Thaï AI App',
                 ukrainian: 'Apprendre l\'Ukrainien'
             },
             copyright: '© 2026 Carlier. Tous droits réservés.',
@@ -674,9 +674,9 @@ const translations = {
             productApps: '產品應用',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: '學習粵語',
-                chinese: '學習中文',
-                thai: '學習泰語',
+                cantonese: '學習粵語 AI App',
+                chinese: '學習中文 AI App',
+                thai: '學習泰語 AI App',
                 ukrainian: '學習烏克蘭語'
             },
             copyright: '© 2026 Carlier. 版權所有。',
@@ -772,9 +772,9 @@ const translations = {
             productApps: '产品应用',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: '学习粤语',
-                chinese: '学习中文',
-                thai: '学习泰语',
+                cantonese: '学习粤语 AI App',
+                chinese: '学习中文 AI App',
+                thai: '学习泰语 AI App',
                 ukrainian: '学习乌克兰语'
             },
             copyright: '© 2026 Carlier. 版权所有。',
@@ -869,9 +869,9 @@ const translations = {
             productApps: 'उत्पाद ऐप्स',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'कैंटोनीज़ सीखें',
-                chinese: 'चीनीज़ सीखें',
-                thai: 'थाई सीखें',
+                cantonese: 'कैंटोनीज़ सीखें AI App',
+                chinese: 'चीनीज़ सीखें AI App',
+                thai: 'थाई सीखें AI App',
                 ukrainian: 'यूक्रेनियन सीखें'
             },
             copyright: '© 2026 Carlier. सर्वाधिकार सुरक्षित।',
@@ -967,9 +967,9 @@ const translations = {
             productApps: 'プロダクトアプリ',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: '広東語を学ぶ',
-                chinese: '中国語を学ぶ',
-                thai: 'タイ語を学ぶ',
+                cantonese: '広東語を学ぶ AI App',
+                chinese: '中国語を学ぶ AI App',
+                thai: 'タイ語を学ぶ AI App',
                 ukrainian: 'ウクライナ語を学ぶ'
             },
             copyright: '© 2026 Carlier. All rights reserved.',
@@ -1065,9 +1065,9 @@ const translations = {
             productApps: 'تطبيقات المنتجات',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'تعلم الكانتونيز',
-                chinese: 'تعلم الصينية',
-                thai: 'تعلم الثيين',
+                cantonese: 'تعلم الكانتونيز AI App',
+                chinese: 'تعلم الصينية AI App',
+                thai: 'تعلم الثيين AI App',
                 ukrainian: 'تعلم الأوكرانية'
             },
             copyright: '© 2026 Carlier. جميع الحقوق محفوظة.',
@@ -1163,9 +1163,9 @@ const translations = {
             productApps: 'Produkt-Apps',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Kantonesisch lernen',
-                chinese: 'Chinesisch lernen',
-                thai: 'Thailändisch lernen',
+                cantonese: 'Kantonesisch lernen AI App',
+                chinese: 'Chinesisch lernen AI App',
+                thai: 'Thailändisch lernen AI App',
                 ukrainian: 'Ukrainisch lernen'
             },
             copyright: '© 2026 Carlier. Alle Rechte vorbehalten.',
@@ -1261,9 +1261,9 @@ const translations = {
             productApps: 'App di Prodotto',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Impara il Cantonese',
-                chinese: 'Impara il Cinese',
-                thai: 'Impara il Thai',
+                cantonese: 'Impara il Cantonese AI App',
+                chinese: 'Impara il Cinese AI App',
+                thai: 'Impara il Thai AI App',
                 ukrainian: 'Impara l\'Ucraino'
             },
             copyright: '© 2026 Carlier. Tutti i diritti riservati.',
@@ -1359,9 +1359,9 @@ const translations = {
             productApps: '제품 앱',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: '광둥어 배우기',
-                chinese: '중국어 배우기',
-                thai: '태국어 배우기',
+                cantonese: '광둥어 배우기 AI App',
+                chinese: '중국어 배우기 AI App',
+                thai: '태국어 배우기 AI App',
                 ukrainian: '우크라이나어 배우기'
             },
             copyright: '© 2026 Carlier. 모든 권리 보유.',
@@ -1456,9 +1456,9 @@ const translations = {
             productApps: 'Продуктовые приложения',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Учить кантонский',
-                chinese: 'Учить китайский',
-                thai: 'Учить тайский',
+                cantonese: 'Учить кантонский AI App',
+                chinese: 'Учить китайский AI App',
+                thai: 'Учить тайский AI App',
                 ukrainian: 'Учить украинский'
             },
             copyright: '© 2026 Carlier. Все права защищены.',
@@ -1555,9 +1555,9 @@ const translations = {
             productApps: 'Aplikacje produktowe',
             landing: {
                 aiMobileApps: 'AI Mobile Apps',
-                cantonese: 'Naucz się kantońskiego',
-                chinese: 'Naucz się chińskiego',
-                thai: 'Naucz się tajskiego',
+                cantonese: 'Naucz się kantońskiego AI App',
+                chinese: 'Naucz się chińskiego AI App',
+                thai: 'Naucz się tajskiego AI App',
                 ukrainian: 'Naucz się ukraińskiego'
             },
             copyright: '© 2026 Carlier. Wszelkie prawa zastrzeżone.',
