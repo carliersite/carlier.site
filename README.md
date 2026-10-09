@@ -92,7 +92,7 @@ An AI-powered coin scanner app for collectors and numismatists. Instantly identi
 Hi, I'm **Carlier** - a founder and software engineer passionate about creating impactful AI-powered products. With expertise spanning mobile development, SaaS, AI systems, and systems architecture, I build apps that help people learn languages and explore their passions.
 
 - **Website:** [carlier.site](https://carlier.site)
-- **GitHub:** [github.com/carlier-site](https://github.com/carlier-site)
+- **GitHub:** [github.com/carlier-site](https://github.com/carlier-tech)
 - **LinkedIn:** [linkedin.com/in/yanncarlier](https://www.linkedin.com/in/yanncarlier/)
 - **Email:** hello@carlier.site
 
