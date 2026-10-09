@@ -52,13 +52,13 @@ const translations = {
     },
     "storeBtn": "Get on Google Play",
     "cta": {
-      "title": "Technical Consultation",
+      "title": "Carlier Technologies",
       "subtitle": "We develop AI-native mobile applications from specification to App Store and Google Play deployment.",
       "primary": "Get in Touch",
       "secondary": "Back to Home"
     },
     "contact": {
-      "title": "Technical Consultation",
+      "title": "Carlier Technologies",
       "text": "Available for engineering projects and technical consulting. Contact us to discuss requirements and solutions."
     },
     "footer": {

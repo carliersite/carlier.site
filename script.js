@@ -74,7 +74,7 @@ const translations = {
         },
         contact: {
             tag: 'Get In Touch',
-            title: "Technical Consultation",
+            title: "Carlier Technologies",
             text: "Available for engineering projects and technical consulting. Contact us to discuss requirements and solutions."
         },
         footer: {
