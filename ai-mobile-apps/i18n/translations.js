@@ -68,10 +68,10 @@ const translations = {
       "skills": "Skills",
       "aiApps": "AI Apps",
       "contact": "Contact",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "Accueil",
+      "productApps": "Applications produit",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "Applications mobiles IA",
         "chinese": "Learn Chinese",
         "cantonese": "Learn Cantonese",
         "thai": "Learn Thai",
@@ -86,7 +86,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Accueil",
       "about": "À propos",
-      "productApps": "Product Apps",
+      "productApps": "Applications produit",
       "skills": "Compétences",
       "aiApps": "Apps IA",
       "contact": "Contactez-nous"
@@ -141,7 +141,7 @@ const translations = {
       "secondary": "Retour à l'accueil"
     },
     "contact": {
-      "title": "Consultation Technique",
+      "title": "Carlier Technologies",
       "text": "Disponible pour des projets d'ingénierie et de consultation technique. Contactez-nous pour discuter des exigences et des solutions."
     },
     "footer": {
@@ -151,10 +151,10 @@ const translations = {
       "skills": "Compétences",
       "aiApps": "Apps IA",
       "contact": "Contact",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "Accueil",
+      "productApps": "Applications produit",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "Applications mobiles IA",
         "chinese": "Apprendre le Chinois",
         "cantonese": "Apprendre le Cantonais",
         "thai": "Apprendre le Thaï",
@@ -169,7 +169,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Startseite",
       "about": "Über mich",
-      "productApps": "Product Apps",
+      "productApps": "Produkt-Apps",
       "skills": "Fähigkeiten",
       "aiApps": "KI-Apps",
       "contact": "Kontakt"
@@ -224,7 +224,7 @@ const translations = {
       "secondary": "Zurück zur Startseite"
     },
     "contact": {
-      "title": "Technische Beratung",
+      "title": "Carlier Technologies",
       "text": "Verfügbar für Ingenieursprojekte und technische Beratung. Kontaktieren Sie uns, um Anforderungen und Lösungen zu besprechen."
     },
     "footer": {
@@ -234,10 +234,10 @@ const translations = {
       "skills": "Fähigkeiten",
       "aiApps": "KI-Apps",
       "contact": "Kontakt",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "Startseite",
+      "productApps": "Produkt-Apps",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "KI-Mobile-Apps",
         "chinese": "Chinesisch lernen",
         "cantonese": "Kantonisch lernen",
         "thai": "Thailändisch lernen",
@@ -252,7 +252,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Inicio",
       "about": "Acerca de",
-      "productApps": "Product Apps",
+      "productApps": "Apps del producto",
       "skills": "Habilidades",
       "aiApps": "Apps de IA",
       "contact": "Hablemos"
@@ -307,7 +307,7 @@ const translations = {
       "secondary": "Volver al Inicio"
     },
     "contact": {
-      "title": "Consultoría Técnica",
+      "title": "Carlier Technologies",
       "text": "Disponible para proyectos de ingeniería y consultoría técnica. Contáctanos para discutir requisitos y soluciones."
     },
     "footer": {
@@ -317,10 +317,10 @@ const translations = {
       "skills": "Habilidades",
       "aiApps": "Apps de IA",
       "contact": "Contacto",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "Inicio",
+      "productApps": "Apps del producto",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "Apps móviles de IA",
         "chinese": "Aprender Chino",
         "cantonese": "Aprender Cantonés",
         "thai": "Aprender Tailandés",
@@ -335,7 +335,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Home",
       "about": "Chi sono",
-      "productApps": "Product Apps",
+      "productApps": "App del prodotto",
       "skills": "Competenze",
       "aiApps": "App IA",
       "contact": "Contattaci"
@@ -390,7 +390,7 @@ const translations = {
       "secondary": "Torna alla Home"
     },
     "contact": {
-      "title": "Consulenza Tecnica",
+      "title": "Carlier Technologies",
       "text": "Disponibile per progetti di ingegneria e consulenza tecnica. Contattaci per discutere di requisiti e soluzioni."
     },
     "footer": {
@@ -400,10 +400,10 @@ const translations = {
       "skills": "Competenze",
       "aiApps": "App IA",
       "contact": "Contatto",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "Home",
+      "productApps": "App del prodotto",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "App mobili IA",
         "chinese": "Impara il Cinese",
         "cantonese": "Impara il Cantonese",
         "thai": "Impara il Thai",
@@ -418,7 +418,7 @@ const translations = {
       "brand": "Carlier",
       "home": "Início",
       "about": "Sobre",
-      "productApps": "Product Apps",
+      "productApps": "Apps do produto",
       "skills": "Habilidades",
       "aiApps": "Apps de IA",
       "contact": "Vamos conversar"
@@ -473,7 +473,7 @@ const translations = {
       "secondary": "Voltar ao Início"
     },
     "contact": {
-      "title": "Consultoria Técnica",
+      "title": "Carlier Technologies",
       "text": "Disponível para projetos de engenharia e consultoria técnica. Contacte-nos para discutir requisitos e soluções."
     },
     "footer": {
@@ -483,10 +483,10 @@ const translations = {
       "skills": "Habilidades",
       "aiApps": "Apps de IA",
       "contact": "Contato",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "Início",
+      "productApps": "Apps do produto",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "Apps móveis de IA",
         "chinese": "Aprender Chinês",
         "cantonese": "Aprender Cantonês",
         "thai": "Aprender Tailandês",
@@ -501,7 +501,7 @@ const translations = {
       "brand": "Carlier",
       "home": "ホーム",
       "about": "について",
-      "productApps": "Product Apps",
+      "productApps": "製品アプリ",
       "skills": "スキル",
       "aiApps": "AIアプリ",
       "contact": "お問い合わせ"
@@ -556,7 +556,7 @@ const translations = {
       "secondary": "ホームに戻る"
     },
     "contact": {
-      "title": "技術コンサルティング",
+      "title": "Carlier Technologies",
       "text": "エンジニアリングプロジェクトや技術コンサルティングを承っています。要件とソリューションについてご相談ください。"
     },
     "footer": {
@@ -566,10 +566,10 @@ const translations = {
       "skills": "スキル",
       "aiApps": "AIアプリ",
       "contact": "お問い合わせ",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "ホーム",
+      "productApps": "製品アプリ",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "AIモバイルアプリ",
         "chinese": "中国語を学ぶ",
         "cantonese": "広東語を学ぶ",
         "thai": "タイ語を学ぶ",
@@ -584,7 +584,7 @@ const translations = {
       "brand": "Carlier",
       "home": "首页",
       "about": "关于",
-      "productApps": "Product Apps",
+      "productApps": "产品应用",
       "skills": "技能",
       "aiApps": "AI应用",
       "contact": "联系我们"
@@ -639,7 +639,7 @@ const translations = {
       "secondary": "返回首页"
     },
     "contact": {
-      "title": "技术咨询",
+      "title": "Carlier Technologies",
       "text": "可提供工程项目与技术咨询服务。请联系我们讨论需求和解决方案。"
     },
     "footer": {
@@ -649,10 +649,10 @@ const translations = {
       "skills": "技能",
       "aiApps": "AI应用",
       "contact": "联系",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "首页",
+      "productApps": "产品应用",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "AI移动应用",
         "chinese": "学习中文",
         "cantonese": "学习粤语",
         "thai": "学习泰语",
@@ -667,7 +667,7 @@ const translations = {
       "brand": "Carlier",
       "home": "首頁",
       "about": "關於",
-      "productApps": "Product Apps",
+      "productApps": "產品應用",
       "skills": "技能",
       "aiApps": "AI應用",
       "contact": "聯繫我們"
@@ -722,7 +722,7 @@ const translations = {
       "secondary": "返回首頁"
     },
     "contact": {
-      "title": "技術諮詢",
+      "title": "Carlier Technologies",
       "text": "可提供工程專案與技術諮詢服務。請聯繫我們討論需求和解決方案。"
     },
     "footer": {
@@ -732,10 +732,10 @@ const translations = {
       "skills": "技能",
       "aiApps": "AI應用",
       "contact": "聯繫",
-      "main": "Main",
-      "productApps": "Product Apps",
+      "main": "主頁",
+      "productApps": "產品應用",
       "landing": {
-        "aiMobileApps": "AI Mobile Apps",
+        "aiMobileApps": "AI移動應用",
         "chinese": "學習中文",
         "cantonese": "學習粵語",
         "thai": "學習泰語",

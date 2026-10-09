@@ -193,7 +193,7 @@ const translations = {
        "links": {
          "cantonese": "Kantonesisch lernen",
          "chinese": "Chinesisch lernen",
-         "thai": "Thailändisch lernen"
+         "thai": "Thailändisch lernen",
          "coin": "Coin Identifier",
        }
      },
@@ -264,7 +264,7 @@ const translations = {
        "links": {
          "cantonese": "Aprender Cantones",
          "chinese": "Aprender Chino",
-         "thai": "Aprender Tailandés"
+         "thai": "Aprender Tailandés",
          "coin": "Coin Identifier",
        }
      },
@@ -335,7 +335,7 @@ const translations = {
        "links": {
          "cantonese": "Impara il Cantonese",
          "chinese": "Impara il Cinese",
-         "thai": "Impara il Thai"
+         "thai": "Impara il Thai",
          "coin": "Coin Identifier",
        }
      },
@@ -406,7 +406,7 @@ const translations = {
        "links": {
          "cantonese": "Aprender Cantones",
          "chinese": "Aprender Chinês",
-         "thai": "Aprender Tailandês"
+         "thai": "Aprender Tailandês",
          "coin": "Coin Identifier",
        }
      },
@@ -477,7 +477,7 @@ const translations = {
        "links": {
          "cantonese": "कैंटोनीज़ सीखें",
          "chinese": "चीनीज़ सीखें",
-         "thai": "थाई सीखें"
+         "thai": "थाई सीखें",
          "coin": "Coin Identifier",
        }
      },
@@ -548,7 +548,7 @@ const translations = {
        "links": {
          "cantonese": "広東語を学ぶ",
          "chinese": "中国語を学ぶ",
-         "thai": "タイ語を学ぶ"
+         "thai": "タイ語を学ぶ",
          "coin": "Coin Identifier",
        }
      },
@@ -619,7 +619,7 @@ const translations = {
        "links": {
          "cantonese": "관동어 배우기",
          "chinese": "중국어 배우기",
-         "thai": "태국어 배우기"
+         "thai": "태국어 배우기",
          "coin": "Coin Identifier",
        }
      },
@@ -690,7 +690,7 @@ const translations = {
        "links": {
          "cantonese": "Учить кантонский",
          "chinese": "Учить китайский",
-         "thai": "Учить тайский"
+         "thai": "Учить тайский",
          "coin": "Coin Identifier",
        }
      },
@@ -761,7 +761,7 @@ const translations = {
        "links": {
          "cantonese": "Вчитись кантонською",
          "chinese": "Вчитись китайською",
-         "thai": "Вчитись тайською"
+         "thai": "Вчитись тайською",
          "coin": "Coin Identifier",
        }
      },
@@ -832,7 +832,7 @@ const translations = {
        "links": {
          "cantonese": "เรียนภาษากวางตุ้ง",
          "chinese": "เรียนภาษาจีน",
-         "thai": "เรียนภาษาไทย"
+         "thai": "เรียนภาษาไทย",
          "coin": "Coin Identifier",
        }
      },
@@ -903,7 +903,7 @@ const translations = {
        "links": {
          "cantonese": "تعلم الكانتونية",
          "chinese": "تعلم الصينية",
-         "thai": "تعلم الثيين"
+         "thai": "تعلم الثيين",
          "coin": "Coin Identifier",
        }
      },
@@ -974,7 +974,7 @@ const translations = {
        "links": {
          "cantonese": "學習廣東話",
          "chinese": "學習中文",
-         "thai": "學習泰語"
+         "thai": "學習泰語",
          "coin": "Coin Identifier",
        }
      },
@@ -1045,7 +1045,7 @@ const translations = {
        "links": {
          "cantonese": "Naucz się kantońskiego",
          "chinese": "Naucz się chińskiego",
-         "thai": "Naucz się tajskiego"
+         "thai": "Naucz się tajskiego",
          "coin": "Coin Identifier",
        }
      },
